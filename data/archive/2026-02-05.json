@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-05T01:55:49.142646",
   "date": "2026-02-05",
+  "timestamp": "2026-02-05T01:55:49.142646",
   "github_trending": {
     "python": [
       {
@@ -1153,6 +1153,105 @@
       "timestamp": 1770239455,
       "comments": 10,
       "hn_url": "https://news.ycombinator.com/item?id=46891827"
+    },
+    {
+      "id": 46844410,
+      "title": "Coding Agent VMs on NixOS with Microvm.nix",
+      "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+      "score": 83,
+      "author": "secure",
+      "time": "2026-02-01 08:02:46",
+      "timestamp": 1769932966,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=46844410"
+    },
+    {
+      "id": 46887326,
+      "title": "Arcan-A12: Weaving a Different Web",
+      "url": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+      "score": 49,
+      "author": "ingenieroariel",
+      "time": "2026-02-04 15:50:50",
+      "timestamp": 1770220250,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=46887326"
+    },
+    {
+      "id": 46849753,
+      "title": "Lily Programming Language",
+      "url": "https://lily-lang.org",
+      "score": 5,
+      "author": "FascinatedBox",
+      "time": "2026-02-01 21:53:12",
+      "timestamp": 1769982792,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=46849753"
+    },
+    {
+      "id": 46892861,
+      "title": "Debian's Challenge When Its Developers Drift Away",
+      "url": "https://www.phoronix.com/news/Debian-Developers-Quiet-Away",
+      "score": 39,
+      "author": "cuechan",
+      "time": "2026-02-04 22:34:46",
+      "timestamp": 1770244486,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=46892861"
+    },
+    {
+      "id": 46891131,
+      "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
+      "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
+      "score": 62,
+      "author": "straydusk",
+      "time": "2026-02-04 20:23:54",
+      "timestamp": 1770236634,
+      "comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=46891131"
+    },
+    {
+      "id": 46890418,
+      "title": "Tell HN: Another round of Zendesk email spam",
+      "url": "https://news.ycombinator.com/item?id=46890418",
+      "score": 76,
+      "author": "Philpax",
+      "time": "2026-02-04 19:26:08",
+      "timestamp": 1770233168,
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=46890418"
+    },
+    {
+      "id": 46851518,
+      "title": "Show HN: Bunqueue – Job queue for Bun using SQLite instead of Redis",
+      "url": "https://github.com/egeominotti/bunqueue",
+      "score": 7,
+      "author": "kernelvoid",
+      "time": "2026-02-02 01:55:42",
+      "timestamp": 1769997342,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=46851518"
+    },
+    {
+      "id": 46886191,
+      "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+      "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
+      "score": 262,
+      "author": "bookofjoe",
+      "time": "2026-02-04 14:27:05",
+      "timestamp": 1770215225,
+      "comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=46886191"
+    },
+    {
+      "id": 46838511,
+      "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
+      "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
+      "score": 29,
+      "author": "ksec",
+      "time": "2026-01-31 17:14:01",
+      "timestamp": 1769879641,
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=46838511"
     }
   ],
   "rss_feeds": [
@@ -1395,12 +1494,406 @@
       "published": "2026-02-04 14:41:30",
       "summary": "\"You know, you're right, the flight rate—three years is a long time.\"",
       "author": "Eric Berger"
+    },
+    {
+      "title": "Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel",
+      "url": "https://www.wired.com/story/netflix-says-users-can-cancel-service-if-hbo-merger-too-expensive/",
+      "source": "Wired",
+      "published": "2026-02-05 00:46:19",
+      "summary": "During a hearing at the US Senate, Netflix co-CEO Ted Sarandos said the company is working with the US government on guardrails against more price hikes.",
+      "author": "Scharon Harding, Ars Technica"
+    },
+    {
+      "title": "The Best Super Bowl TV Deals (2026)",
+      "url": "https://www.wired.com/gallery/super-bowl-tv-deals-2026/",
+      "source": "Wired",
+      "published": "2026-02-04 23:23:27",
+      "summary": "Upgrade your viewing setup before inviting your friends over to watch the big game.",
+      "author": "Brad Bourque"
+    },
+    {
+      "title": "Measles Is Causing Brain Swelling in Children in South Carolina",
+      "url": "https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/",
+      "source": "Wired",
+      "published": "2026-02-04 21:15:18",
+      "summary": "In the ongoing measles outbreak in South Carolina that has infected more than 800 people, some children have developed a rare but serious complication called encephalitis.",
+      "author": "Emily Mullin"
+    },
+    {
+      "title": "Notepad++ Users, You May Have Been Hacked by China",
+      "url": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
+      "source": "Wired",
+      "published": "2026-02-04 19:52:59",
+      "summary": "Suspected Chinese state-backed hackers hijacked the Notepad++ update infrastructure to deliver a backdoored version of the popular free source code editor and note-taking app for Windows.",
+      "author": "Dan Goodin, Ars Technica"
+    },
+    {
+      "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+      "url": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+      "source": "Wired",
+      "published": "2026-02-04 19:00:00",
+      "summary": "Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.",
+      "author": "Will Knight"
+    },
+    {
+      "title": "Our Favorite Pixel Phone Is $100 Off",
+      "url": "https://www.wired.com/story/pixel-9a-deal-226/",
+      "source": "Wired",
+      "published": "2026-02-04 18:31:16",
+      "summary": "While the Pixel 9a isn't the fanciest offering, it is the best value, and it gets even better with a discount.",
+      "author": "Brad Bourque"
+    },
+    {
+      "title": "Cozey Neptune Sofa Bed Review: Firm but Flexible",
+      "url": "https://www.wired.com/review/cozey-neptune-sofa-bed/",
+      "source": "Wired",
+      "published": "2026-02-04 16:30:00",
+      "summary": "This modular sleeper sofa allows buyers to design any seating configuration they want, if they don’t mind a solid surface.",
+      "author": "Kat Merck"
+    },
+    {
+      "title": "Inside the ICE Forum Where Agents Complain About Their Jobs",
+      "url": "https://www.wired.com/story/inside-the-ice-forum-where-agents-complain-about-their-jobs/",
+      "source": "Wired",
+      "published": "2026-02-04 16:00:00",
+      "summary": "“I'm all for removing illegals, but snatching dudes off lawn mowers in Cali and leaving the truck and equipment just sitting there? Definitely not working smarter,” writes one forum user.",
+      "author": "Vittoria Elliott"
+    },
+    {
+      "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+      "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+      "source": "Wired",
+      "published": "2026-02-04 15:32:45",
+      "summary": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
+      "author": "Joel Khalili"
+    },
+    {
+      "title": "Best Laptop Backpacks We’ve Tried and Tested (2026)",
+      "url": "https://www.wired.com/gallery/the-best-backpacks-for-work/",
+      "source": "Wired",
+      "published": "2026-02-04 15:30:00",
+      "summary": "Whether you’re biking to the office or schlepping a camera to a shoot, a laptop bag is your constant companion. These WIRED-reviewed packs do the job.",
+      "author": "Adrienne So"
+    },
+    {
+      "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+      "url": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-04 14:00:00",
+      "summary": "The previous article in this series, “Rules fail at the prompt, succeed at the boundary,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article ...",
+      "author": "Jessica Hammond"
+    },
+    {
+      "title": "The Download: the future of nuclear power plants, and social media-fueled AI hype",
+      "url": "https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-04 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why AI companies are betting on next-gen nuclear AI is driving...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "The Download: squeezing more metal out of aging mines, and AI’s truth crisis",
+      "url": "https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-03 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microbes could extract the metal needed for cleantech In a pin...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "Microbes could extract the metal needed for cleantech",
+      "url": "https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-03 10:00:00",
+      "summary": "In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing the end of its life. At a time when carmakers want the metal for electric-vehicle batteries, nickel con...",
+      "author": "Matt Blois"
+    },
+    {
+      "title": "What we’ve been getting wrong about AI’s truth crisis",
+      "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-02 18:09:57",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. What would it take to convince you that the era of truth decay...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The crucial first step for designing a successful enterprise AI system",
+      "url": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-02 14:20:29",
+      "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes—but how do you design for success? At Mistral AI, we partner with global...",
+      "author": "Corentin Petit and Sarah Beldo"
+    },
+    {
+      "title": "The Download: inside a deepfake marketplace, and EV batteries’ future",
+      "url": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-02 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the marketplace powering bespoke AI deepfakes of real w...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "What’s next for EV batteries in 2026",
+      "url": "https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/",
+      "source": "MIT Technology Review",
+      "published": "2026-02-02 10:00:00",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Demand for electric vehicles an...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+      "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 16:32:31",
+      "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: US immigration agencies’ AI videos, and inside the Vitalism movement",
+      "url": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DHS is using Google and Adobe AI to make videos The news: The ...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
+      "url": "https://36kr.com/p/3669647311774594?f=rss",
+      "source": "36氪",
+      "published": "2026-02-05 00:00:17",
+      "summary": "今日热点导览\n  司美格鲁肽去年卖了2508亿元\n  国家医保局：对精神疾病类医保定点医疗机构展开集体约谈\n  多家中小银行宣布上调存款利率\n  英国两家监管机构调查马斯克旗下AI聊天机器人“格罗克”风波\n  比尔盖茨道歉并回应前妻爆料\n  TOP 3 大新闻\n  微信公关总监回应屏蔽元宝链接，针对违规处置元宝AI将红包分享已更改为“口令红包”\n  据报道，微信派发布关于第三方诱导分享行为的打击公...",
+      "author": "Unknown"
+    },
+    {
+      "title": "求购昆仑芯老股份额；转让持有SpaceX股份的基金LP份额｜资情留言板第179期",
+      "url": "https://36kr.com/p/3669069579788933?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 14:10:56",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。\n  本文是这个栏目的第179期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.co...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报 ｜腾讯混元AI Infra核心技术开源；小米：辽宁营口SU7起火事故系车内遗留火源引燃周边可燃物所致",
+      "url": "https://36kr.com/p/3668990341915527?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 12:59:11",
+      "summary": "大公司：\n  南矿集团：董事兼常务副总裁龚友良拟减持不超1%股份36氪获悉，南矿集团公告，董事兼常务副总裁龚友良计划自公告披露之日起15个交易日后的3个月内（即2026年3月9日-2026年6月8日），以集中竞价方式减持公司股份不超过201.72万股，占公司总股本比例1.00%；减持原因为个人资金需求；股份来源为公司首次公开发行股票前已发行股份\n  长安汽车：1月销量13.47万辆，同比下降51....",
+      "author": "Unknown"
+    },
+    {
+      "title": "百亿美金蓝海，国产“动力+智控”如何切入价值高地？｜OpenTalk回顾",
+      "url": "https://36kr.com/p/3668551333995401?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 05:33:57",
+      "summary": "\n   \n  文 | 刘婧琼 \n  编辑 | 阿至 \n  1月28日，36氪举办了以「重塑海上出行：当船舶装上“电动心脏” 与 “AI 大脑”」为主题的OpenTalk直播活动，特别邀请擎波探索创始人&CEO董江、博鳐科技创始人&CEO李博作为本场分享嘉宾，就高性能电动舷外机、新能源出海、全航程自主航行任务、全场景智能航行解决方案等话题展开了深入分享，并与观众进行了在线互动。\n  以下是本场直播的...",
+      "author": "Unknown"
+    },
+    {
+      "title": "自断主营业务、营收砍半，一家老牌OEM扫地机器人公司的转型豪赌｜Insight全球",
+      "url": "https://36kr.com/p/3668313691480966?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 01:22:36",
+      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  \n   编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。\n   这是我们专栏第60期——ILIFE曾是一家年出货量超200万台的扫地机器人代工厂。...",
+      "author": "Unknown"
+    },
+    {
+      "title": "鸣鸣很忙超900亿IPO背后：在冬天捕到大鱼的人",
+      "url": "https://36kr.com/p/3667709479822213?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 01:00:00",
+      "summary": "作者 | 李小霞\n  编辑 | 乔芊\n  直至敲钟上市，鸣鸣很忙CEO晏周才将自己置于媒体面前，这是投资人们再三建议的结果。\n  在这批新消费80后创业者中，像晏周这样不声不响的人并不多。这导致网络上关于他的只言片语都难以拼凑。\n  晏周最近一次公开发言，还要追溯到零食很忙和赵一鸣零食2023年底合并几个月后的万人大会上。\n  到了2025年2月，鸣鸣很忙再一次举办发布会，赵定、CFO王钰潼等人在...",
+      "author": "Unknown"
+    },
+    {
+      "title": "姚颂再“创业”",
+      "url": "https://36kr.com/p/3660227067945860?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 00:40:22",
+      "summary": "2025年11月，深圳，在IDEA研究院2025大会上，当沈向洋以“国先中心年轻的主任”欢迎姚颂上台时，我有些惊讶。\n  “是之前创业做AI芯片的那个姚颂吗？”我向IDEA工作人员确认，得到了肯定的回复。\n  距离我第一次见到姚颂，已经过去八年。\n  2017年，还是深鉴科技创始人的姚颂，在北京朗园开了产品发布会，台下的媒体不知谁说了一句，“这个CEO是92年的”，人们忍不住交头接耳——相较于AI...",
+      "author": "Unknown"
+    },
+    {
+      "title": "8点1氪丨周生生再发声明，回应足金挂坠检测出含铁银钯；大润发母公司辟谣CEO被警方带走；极氪8X信息遭提前泄露",
+      "url": "https://36kr.com/p/3668241626784640?f=rss",
+      "source": "36氪",
+      "published": "2026-02-04 00:11:50",
+      "summary": "今日热点导览\n  国投瑞银回应白银LOF估值调整：未提前公告，意在避免恐慌与挤兑\n  寒武纪：网传关于公司近期组织小范围交流等信息不实\n  腾讯等增值税“加税”系谣言\n  Adobe将关停25年历史动画制作工具Animate\n  特斯拉在美国将Model Y全轮驱动版车型定价为41990美元\n  TOP3大新闻\n  周生生方针对品牌足金挂坠被检测出含铁银钯，再发声明\n  近日，有消费者将周生生足金...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报｜北京2026年首场土拍揽金85.6亿元，字节跳动28亿拿下海淀地块；全球最快人形机器人发布；2025年我国有色金属主要产品产量再创新高",
+      "url": "https://36kr.com/p/3665582095016579?f=rss",
+      "source": "36氪",
+      "published": "2026-02-03 12:27:59",
+      "summary": "大公司：\n  采埃孚与宝马签署乘用车传动系统长期供应协议，合同金额数十亿欧元\n  2月2日，采埃孚集团宣布与宝马集团正式签署乘用车传动系统长期供应协议。协议核心内容为成熟的8挡自动变速器的长期供应及后续研发，合同金额达数十亿欧元，合同有效期将持续至本世纪三十年代末期。（界面）\n  目标2027年实现量产，三星将半导体玻璃基板项目移交业务部门\n  三星电机已着手推进半导体玻璃基板商业化项目，据确认，...",
+      "author": "Unknown"
+    },
+    {
+      "title": "机器人扎堆上春晚，花一亿元，抢行业“卡位赛”",
+      "url": "https://36kr.com/p/3667482319987334?f=rss",
+      "source": "36氪",
+      "published": "2026-02-03 11:20:22",
+      "summary": "文｜富充\n  编辑｜苏建勋\n  2025年8月，在一家机器人公司任市场总监的周乐来到央视，询价2026年马年春晚登台费用。年初，宇树机器人穿着花棉袄转手绢，在2025年春晚“一夜火出圈”。\n  那一刻，周乐心里埋下一个念头：总有一天，也要把自家机器人推上春晚。\n  可现实让周乐迅速冷静下来：登上2026年马年春晚的“起步价”，高达1亿元。\n  “太贵了”，这是周乐和其公司CEO共同的第一反应。\n ...",
+      "author": "Unknown"
+    },
+    {
+      "title": "派早报：iQOO 15 Ultra 发布、Grok Imagine 1.0 推出等",
+      "url": "https://sspai.com/post/106063",
+      "source": "少数派",
+      "published": "2026-02-05 00:46:40",
+      "summary": "阿里千问发布 Qwen3-Coder-Next、微软将停售 OneDrive 独立商业订阅等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "少数派 2025 年度征文：听说你对写作是真 AI？",
+      "url": "https://sspai.com/post/105805",
+      "source": "少数派",
+      "published": "2026-02-04 09:30:00",
+      "summary": "请你尽情地用 AI——或者完全不用，只要写出风格、写出水平。两种方法的高下，将由少数派读者通过投票选出。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "城市漫步指南：软件名城，泉城济南",
+      "url": "https://sspai.com/post/105859",
+      "source": "少数派",
+      "published": "2026-02-04 07:00:00",
+      "summary": "济南确实是个不错的地方，对比石家庄来说我个人认为更宜居一些，有水有山有文化有历史有底蕴，甚至还有很多城市羡慕的高新技术产业。查看全文",
+      "author": "PJHubs"
+    },
+    {
+      "title": "见不惯 B 站 up 主的带货广告？教你利用 AI 快速跳过",
+      "url": "https://sspai.com/post/105951",
+      "source": "少数派",
+      "published": "2026-02-04 03:05:03",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "author": "v2think"
+    },
+    {
+      "title": "派早报：Firefox 上线 AI 功能开关、OpenAI 推出 Codex 桌面应用等",
+      "url": "https://sspai.com/post/106033",
+      "source": "少数派",
+      "published": "2026-02-03 23:00:00",
+      "summary": "Xbox PC 客户端更新集成网易 UU 加速器，任天堂 Switch 系列主机销量突破 1.55 亿台等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒",
+      "url": "https://sspai.com/post/106004",
+      "source": "少数派",
+      "published": "2026-02-03 08:46:53",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光。因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🏆年度创作少 ...查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验",
+      "url": "https://sspai.com/post/105893",
+      "source": "少数派",
+      "published": "2026-02-03 07:20:22",
+      "summary": "相较于我们提到过的 TWX7，CKS50TW2 并没有把很多功夫都下到声音调校上，而是做了一个各方面功能都挺有意思的产品。查看全文",
+      "author": "KingTsui"
+    },
+    {
+      "title": "App+1 | 开源免费、多人协作，用 Cent 一站式搞定记账",
+      "url": "https://sspai.com/post/105644",
+      "source": "少数派",
+      "published": "2026-02-03 03:30:20",
+      "summary": "支持二级分类，自定义标签，支持不同维度的统计，丰富的筛选功能，新增了预算管理，支持上传图片附件，未来还会增加地图功能，最重要的是，它完全免费。查看全文",
+      "author": "少数派_924128"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/105972",
+      "source": "少数派",
+      "published": "2026-02-02 09:59:15",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "2026 春运买票指北：乡愁愈烈，莫添烦恼",
+      "url": "https://sspai.com/post/86328",
+      "source": "少数派",
+      "published": "2026-02-02 07:00:02",
+      "summary": "从火车票放票原理开始，让我们探究如何在高峰期买到一张火车票。查看全文",
+      "author": "Xenogeneic"
+    },
+    {
+      "title": "谷歌 DeepMind 推出 ATLAS 多语言语言模型缩放定律",
+      "url": "https://www.infoq.cn/article/uBpTeu8eUhg4H7hDSkT2?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-05 08:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Robert Krzaczyński"
+    },
+    {
+      "title": "北京朝阳区首个 OPC 创业社区“极客部落 · AI 应用生态园”正式亮相 ITEC",
+      "url": "https://www.infoq.cn/article/jWGGDOdeN4HOszmFholC?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 20:50:48",
+      "summary": "点击查看原文>",
+      "author": "极客邦科技"
+    },
+    {
+      "title": "2026年中国企业AI人才与组织发展报告",
+      "url": "https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 20:30:42",
+      "summary": "点击查看原文>",
+      "author": "极客时间企业版"
+    },
+    {
+      "title": "拼模型、拼向量库的时代结束了？MongoDB 正在重写 AI 检索的基础设施",
+      "url": "https://www.infoq.cn/article/Kb8YQvKgQkYazceGUQFK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 20:03:52",
+      "summary": "点击查看原文>",
+      "author": "作者：Renato Losio"
+    },
+    {
+      "title": "当AI吞噬软件，数据正在成为企业唯一的护城河",
+      "url": "https://www.infoq.cn/article/6HtKg4ajhkamjGkK3ODG?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 17:53:11",
+      "summary": "点击查看原文>",
+      "author": "关涛,苏郡城"
+    },
+    {
+      "title": "昆仑天工发布“Skywork桌面版”，Windows电脑能雇AI员工了？",
+      "url": "https://www.infoq.cn/article/AI8XjhV01eKAEbGGGTzT?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 16:57:44",
+      "summary": "点击查看原文>",
+      "author": "褚杏娟"
+    },
+    {
+      "title": "百度千帆深度研究Agent 两大设计确保准确性，最新登榜",
+      "url": "https://www.infoq.cn/article/jug4DXKtUcObjloYI90O?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 16:41:31",
+      "summary": "点击查看原文>",
+      "author": "褚杏娟"
+    },
+    {
+      "title": "为什么大多数机器学习项目无法投入生产",
+      "url": "https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 15:42:11",
+      "summary": "点击查看原文>",
+      "author": "作者：Wenjie Zi"
+    },
+    {
+      "title": "优步通过云原生改造，为人工智能在网络可观测性中的应用做好了准备",
+      "url": "https://www.infoq.cn/article/fbBg7f0GdfH6mMrrrko6?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 15:39:08",
+      "summary": "点击查看原文>",
+      "author": "作者：Matt Saunders"
+    },
+    {
+      "title": "Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中",
+      "url": "https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-02-04 15:36:09",
+      "summary": "点击查看原文>",
+      "author": "作者：Michael Redlich"
     }
-  ],
-  "statistics": {
-    "github_repos": 102,
-    "hackernews_stories": 29,
-    "rss_articles": 80,
-    "total": 211
-  }
+  ]
 }
