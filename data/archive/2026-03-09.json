@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-09T01:58:27.984425",
   "date": "2026-03-09",
+  "timestamp": "2026-03-09T01:58:27.984425",
   "github_trending": {
     "python": [
       {
@@ -1036,6 +1036,116 @@
       "timestamp": 1772835221,
       "comments": 3,
       "hn_url": "https://news.ycombinator.com/item?id=47281827"
+    },
+    {
+      "id": 47239117,
+      "title": "Log messages are mostly for the people operating your software",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation",
+      "score": 108,
+      "author": "todsacerdoti",
+      "time": "2026-03-03 21:15:23",
+      "timestamp": 1772572523,
+      "comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=47239117"
+    },
+    {
+      "id": 47256810,
+      "title": "Z80 Sans – a disassembler in a font (2024)",
+      "url": "https://github.com/nevesnunes/z80-sans",
+      "score": 81,
+      "author": "pabs3",
+      "time": "2026-03-05 02:38:07",
+      "timestamp": 1772678287,
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=47256810"
+    },
+    {
+      "id": 47301241,
+      "title": "Lil Finder Guy",
+      "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+      "score": 79,
+      "author": "frizlab",
+      "time": "2026-03-08 20:43:19",
+      "timestamp": 1773002599,
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=47301241"
+    },
+    {
+      "id": 47296547,
+      "title": "Ask HN: How to be alone?",
+      "url": "https://news.ycombinator.com/item?id=47296547",
+      "score": 279,
+      "author": "sillysaurusx",
+      "time": "2026-03-08 11:41:17",
+      "timestamp": 1772970077,
+      "comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=47296547"
+    },
+    {
+      "id": 47256376,
+      "title": "My “grand vision” for Rust",
+      "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+      "score": 119,
+      "author": "todsacerdoti",
+      "time": "2026-03-05 01:37:42",
+      "timestamp": 1772674662,
+      "comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47256376"
+    },
+    {
+      "id": 47295837,
+      "title": "Notes on writing Rust-based Wasm",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 202,
+      "author": "vinhnx",
+      "time": "2026-03-08 09:24:54",
+      "timestamp": 1772961894,
+      "comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=47295837"
+    },
+    {
+      "id": 47298885,
+      "title": "LibreOffice Writer now supports Markdown",
+      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+      "score": 282,
+      "author": "todsacerdoti",
+      "time": "2026-03-08 17:01:50",
+      "timestamp": 1772989310,
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=47298885"
+    },
+    {
+      "id": 47275463,
+      "title": "An Analysis of User-Space Idle State Instructions on x86 Processors",
+      "url": "https://dl.acm.org/doi/10.1145/3676151.3719370",
+      "score": 21,
+      "author": "blakepelton",
+      "time": "2026-03-06 14:41:19",
+      "timestamp": 1772808079,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=47275463"
+    },
+    {
+      "id": 47297913,
+      "title": "What if the Apple ][ had run on Field-Sequential?",
+      "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+      "score": 80,
+      "author": "zdw",
+      "time": "2026-03-08 15:05:40",
+      "timestamp": 1772982340,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=47297913"
+    },
+    {
+      "id": 47300329,
+      "title": "Ask HN: Please restrict new accounts from posting",
+      "url": "https://news.ycombinator.com/item?id=47300329",
+      "score": 458,
+      "author": "Oras",
+      "time": "2026-03-08 19:26:59",
+      "timestamp": 1772998019,
+      "comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=47300329"
     }
   ],
   "rss_feeds": [
@@ -1278,12 +1388,406 @@
       "published": "2026-03-06 19:41:33",
       "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
       "author": "Dan Goodin"
+    },
+    {
+      "title": "How to Run Ethernet Cables to Your Router and Keep Them Tidy",
+      "url": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+      "source": "Wired",
+      "published": "2026-03-08 11:30:00",
+      "summary": "Boosting internet speeds around your home is easy with Ethernet cables, and these tips will help you keep things neat.",
+      "author": "Simon Hill"
+    },
+    {
+      "title": "Force Your MacBook to Only Charge up to 80 Percent (and Why You Should)",
+      "url": "https://www.wired.com/story/only-charge-your-macbook-to-80-percent/",
+      "source": "Wired",
+      "published": "2026-03-08 11:00:00",
+      "summary": "Laptop batteries lag in performance as they age. But you can slow down their deterioration by tweaking your Mac’s charging settings.",
+      "author": "Justin Pot"
+    },
+    {
+      "title": "Fender Mix Headphones Review: Modular Over-Ears",
+      "url": "https://www.wired.com/review/fender-audio-mix/",
+      "source": "Wired",
+      "published": "2026-03-08 11:00:00",
+      "summary": "Say goodbye to disposable headphones with Fender’s customizable and replaceable parts.",
+      "author": "Simon Cohen"
+    },
+    {
+      "title": "A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart (2026)",
+      "url": "https://www.wired.com/story/sleep-week-deals-2026/",
+      "source": "Wired",
+      "published": "2026-03-08 10:31:00",
+      "summary": "From mattresses to sateen sheets, these exclusive deals on my personal picks can help you upgrade your sleep for less.",
+      "author": "Julia Forbes"
+    },
+    {
+      "title": "The Moka Pot Is the Best Way to Brew Coffee (2026)",
+      "url": "https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/",
+      "source": "Wired",
+      "published": "2026-03-08 10:30:00",
+      "summary": "Bialetti’s timeless design doesn’t just look good. It makes an incredible cup that’s perfect to keep you awake through the time change.",
+      "author": "Scott Gilbertson"
+    },
+    {
+      "title": "Best Sunrise Alarm Clock (2026): Lumie, Hatch, WiiM",
+      "url": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+      "source": "Wired",
+      "published": "2026-03-08 10:09:00",
+      "summary": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "Left-Handed People Are More Competitive, Says Science",
+      "url": "https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/",
+      "source": "Wired",
+      "published": "2026-03-08 09:00:00",
+      "summary": "A recent study suggests that left-handed people have an advantage in competitive contexts, while righties tend to cooperate better.",
+      "author": "Javier Carbajal"
+    },
+    {
+      "title": "Why the Ratio Four Series Two Is What I Use to Test New Coffees",
+      "url": "https://www.wired.com/story/ratio-four-drip-coffee-java-base/",
+      "source": "Wired",
+      "published": "2026-03-07 22:35:00",
+      "summary": "A new generation of home machines has made good old drip coffee a place for connoisseurs. For more than a year, the Four is the source of my morning cup.",
+      "author": "Matthew Korfhage"
+    },
+    {
+      "title": "The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk",
+      "url": "https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/",
+      "source": "Wired",
+      "published": "2026-03-07 13:10:00",
+      "summary": "You need to sort out that rat’s nest of cables under your desk. These cable management tips and products can help you do it.",
+      "author": "Simon Hill"
+    },
+    {
+      "title": "The Best MIDI Controllers for Synths, Guitars, and More (2026)",
+      "url": "https://www.wired.com/gallery/best-midi-controllers/",
+      "source": "Wired",
+      "published": "2026-03-07 12:00:00",
+      "summary": "Want to digitally control your favorite instruments? These tools will help.",
+      "author": "Pete Cottell"
+    },
+    {
+      "title": "Is the Pentagon allowed to surveil Americans with AI?",
+      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-06 19:21:22",
+      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass su...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+      "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-06 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For yea...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The Download: an AI agent’s hit piece, and preventing lightning",
+      "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-05 14:28:46",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "How much wildfire prevention is too much?",
+      "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-05 11:00:00",
+      "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian star...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "Online harassment is entering its AI era",
+      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-05 10:00:00",
+      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwh...",
+      "author": "Grace Huckins"
+    },
+    {
+      "title": "Bridging the operational AI gap",
+      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-04 14:00:00",
+      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are ...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
+      "url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-04 13:12:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a ca...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "MIT Technology Review Insiders Panel",
+      "url": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-03 15:53:10",
+      "summary": "",
+      "author": "Courtney Dobson"
+    },
+    {
+      "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
+      "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-03 13:30:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastro...",
+      "author": "Niall Firth"
+    },
+    {
+      "title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
+      "url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-03 10:00:00",
+      "summary": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and ...",
+      "author": "James Temple"
+    },
+    {
+      "title": "前vivo手机明星产品经理宋紫薇创办「薇光点亮」，获红杉、蓝驰、蚂蚁、鼎晖超亿元融资丨智能涌现独家",
+      "url": "https://36kr.com/p/3714480200085633?f=rss",
+      "source": "36氪",
+      "published": "2026-03-09 01:30:00",
+      "summary": "作者丨邱晓芬\n  编辑丨苏建勋\n  AI硬件的创业风潮正席卷整个消费电子领域，前小米中国区市场部总经理王腾、小米互联网业务部总经理马骥等手机圈高管纷纷下场创业，产品形态包括AI睡眠硬件、AI耳机、AI影像硬件等等。\n  2024年10月，vivo明星手机产品经理宋紫薇也在微博宣布投身AI智能硬件领域创业 。此后，关于其创业方向一直众说纷纭。\n  《智能涌现》从知情人士处获悉，宋紫薇的创业公司「薇光...",
+      "author": "Unknown"
+    },
+    {
+      "title": "李泽湘、阿里押注的智能无人艇，拿下水面自动驾驶最大单笔融资，估值近20亿｜潜伏独角兽",
+      "url": "https://36kr.com/p/3711190979867011?f=rss",
+      "source": "36氪",
+      "published": "2026-03-09 01:20:00",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  在AI硬件风潮之外，一个安静的市场正在悄然生长。\n  过去一年中，水上智能装备相关项目诞生了不少融资。这片占地球表面71%的蓝色疆域，仍有很多空白市场。\n  根据中国船东协会数据，国内注册机动船舶超过12万艘，加上各类非机动船、公园游船、作业船，总量超过50万艘；其中，具备智能驾驶能力的船舶占比不足1%，具备L4级无人驾驶能力的更是寥寥无几。\n  水面作业场景也面...",
+      "author": "Unknown"
+    },
+    {
+      "title": "99年中科大学生创业，要为Agent做一站式的自学习平台，红杉种子、明势投了",
+      "url": "https://36kr.com/p/3711571451572360?f=rss",
+      "source": "36氪",
+      "published": "2026-03-09 00:30:00",
+      "summary": "文｜钟楚笛\n  编辑｜周鑫雨\n  一句话介绍\n  ACONTEXT 是一个针对 Agent的上下文数据管理平台。通过提供数据存储、决策路径观测与智能体自学习服务，ACONTEXT为用户提供Agent执行复杂任务时的路径和决策原因，同时将Agent的任务执行成功率提高30%-50%。\n  融资进展\n  近期，ACONTEXT完成数百万美元天使轮融资，由红杉中国种子基金和明势资本共同投资。\n  团队介...",
+      "author": "Unknown"
+    },
+    {
+      "title": "MetaNovas获A+、A++两轮融资，以智能体「军团」加速新材料开发 | 36氪首发",
+      "url": "https://36kr.com/p/3708504364462466?f=rss",
+      "source": "36氪",
+      "published": "2026-03-09 00:00:00",
+      "summary": "36氪获悉，MetaNovas（元星智药）近期完成A+、A++两轮融资，由富华资本、高瓴资本、袋鼠妈妈集团等消费健康产业资本共同投资。此前，A轮融资由高瓴创投、宝顶创投联合领投，若羽臣跟投。\n  如今AI For Science引发的热潮仍在继续，AI正加速改变新药、新材料等行业开发范式。不过市场也在逐步回归理性：尽管通过AI生成、优化分子结构的难度大幅降低，但首尾两端的挑战尚未因为技术演进而发生...",
+      "author": "Unknown"
+    },
+    {
+      "title": "8点1氪丨最高补贴200万，深圳一区拟出台政策鼓励免费“养龙虾”；苹果核心管理层调整；寿司郎回应消费者吃出金枪鱼寄生虫卵",
+      "url": "https://36kr.com/p/3714938148941957?f=rss",
+      "source": "36氪",
+      "published": "2026-03-08 23:53:04",
+      "summary": "今日热点导览\n  国际油价突破每桶100美元，为2022年以来首次\n  苹果核心管理层调整 \n  印尼宣布禁止16岁以下人群使用社媒 \n  马来西亚通报MH370最新搜寻进展 \n  任天堂正式起诉美国政府\n  TOP 3 大新闻\n  最高补贴200万元，深圳拟出台政策鼓励“养龙虾”\n  一款因图标酷似红色龙虾而备受关注的开源智能体(AI Agent)项目OpenClaw近期走红，“养龙虾”成为AI...",
+      "author": "Unknown"
+    },
+    {
+      "title": "清华公布毕业生去向 : 出国比例仅8.5%，华为字节是最大赢家",
+      "url": "https://36kr.com/p/3713882515403142?f=rss",
+      "source": "36氪",
+      "published": "2026-03-08 09:43:44",
+      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI\n  清华毕业的人都去了哪呢？\n  清华官方用最新数据给出了回应。\n  里面最值得关注的主要有几项数据：\n  第一，出国（境）深造比例为8.5%，低于近十年平均数据。\n  其中，本科生出国（境）深造比例为17.3%，硕士生出国（境）深造比例为6.6%。而近十年清华毕业生平均出国（境）深造比例为10%。\n  数据结论针对的质疑，不言自明。\n  第二，...",
+      "author": "Unknown"
+    },
+    {
+      "title": "00后小孩哥10天AI编程，陈天桥24小时砸3000万！靠大四作业当上CEO",
+      "url": "https://36kr.com/p/3713983582662788?f=rss",
+      "source": "36氪",
+      "published": "2026-03-08 09:17:32",
+      "summary": "编辑：Aeneas KingHZ\n  一觉醒来，国产开源AI项目MiroFish登顶GitHub趋势榜榜首！\n  \n  国产开源AI项目MiroFish登顶GitHub趋势榜榜首\n  让人没想到的是，超越OpenAI、谷歌、微软等机构的开源项目的MiroFish，背后是一个国内大四学生，仅仅3个月的时间，就拿下3000万投资。\n  靠一个AI开源项目，他直接把自己的毕设变成了创业公司，还成为公司C...",
+      "author": "Unknown"
+    },
+    {
+      "title": "AI时代 , 长视频平台在存亡边缘苦苦挣扎",
+      "url": "https://36kr.com/p/3714020694061185?f=rss",
+      "source": "36氪",
+      "published": "2026-03-08 08:43:17",
+      "summary": "2025年，对于长视频平台而言，是十分糟糕的一年。准确的说，自从2020年以来的每一年，对于长视频平台而言都很糟糕，但是去年尤其糟糕：\n  爱奇艺全年的营业收入下滑了7%，扣非净利润下滑了近3/4；会员、广告和内容分发三大业务的全年收入均呈现下滑态势。\n  腾讯视频的付费会员数已经不再增长，并且落后于腾讯音乐；虽然腾讯视频实现了盈利，但跟爱奇艺一样，是降本增效换来的。\n  芒果TV，作为“真正的第...",
+      "author": "Unknown"
+    },
+    {
+      "title": "赛道牛股频出 , 下一个千亿龙头是它？",
+      "url": "https://36kr.com/p/3714009108001160?f=rss",
+      "source": "36氪",
+      "published": "2026-03-08 08:19:29",
+      "summary": "作者 | 弗雷迪\n  数据支持 | 勾股 大数 据（www.gogudata.com）\n  AI在A股的造富神话还在延续。\n  从ChatGPT问世以来，铲子变得越发金贵，工业富联、中际旭创、胜宏科技、寒武纪...各个AI基建赛道的大牛股，市值扶摇直上。\n  当算力逻辑延伸至上游能源供应，电网设备作为市场近来少有最受资金欢迎的核心主线之一，同样迎来了爆发，近一年翻倍股不胜其数。\n  去年，我们聊过...",
+      "author": "Unknown"
+    },
+    {
+      "title": "“变压器工厂干冒烟了”",
+      "url": "https://36kr.com/p/3713978630451584?f=rss",
+      "source": "36氪",
+      "published": "2026-03-08 07:59:30",
+      "summary": "\n  算力之争愈演愈烈，电力保障便成为背后的“隐形底座”。\n  作者丨韦香惠\n  来源丨投中网\n  马斯克又一次预言成真了。\n  “AI火了，也把变压器带火了，我老家的变压器工厂机器都快干冒烟了。”春节刚过，一位浙江朋友向我讲述她的家乡见闻。不止浙江，江苏、广东等地多家变压器企业在年前就已处于满产状态，部分面向数据中心的订单甚至排至明后年。原本被视为传统电力设备的变压器，正意外成为AI浪潮下最紧俏...",
+      "author": "Unknown"
+    },
+    {
+      "title": "派早报：苹果禁止美国用户下载中国版字节跳动应用",
+      "url": "https://sspai.com/post/106955",
+      "source": "少数派",
+      "published": "2026-03-08 23:03:31",
+      "summary": "苹果禁止美国用户下载中国版字节跳动应用微软证实下一代主机 Project HelixGemini 被诉劝导自杀因出口中国前景不明朗，英伟达停产 H200GPS 干扰泛滥推动替代技术发展维基百科被植入恶意 JavaScript 蠕虫看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "晚安，明天见：Arrows N 与富士通的退场",
+      "url": "https://sspai.com/post/106483",
+      "source": "少数派",
+      "published": "2026-03-08 04:53:12",
+      "summary": "晚安，明天见，过去的一切都不再属于崭新的你。查看全文",
+      "author": "Enc3lMag1k"
+    },
+    {
+      "title": "年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子",
+      "url": "https://sspai.com/post/106743",
+      "source": "少数派",
+      "published": "2026-03-07 03:59:51",
+      "summary": "高昂的房租并没有带来相对应的舒适体验。查看全文",
+      "author": "Sholmes"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/106906",
+      "source": "少数派",
+      "published": "2026-03-06 10:07:11",
+      "summary": "📅本周新预告《海贼王第二季》终极预告3月2日，《海贼王》真人美剧第二季发布了终极预告，将于3月10日上线Netflix。伊纳基·戈多伊、新田真剑佑、埃米莉·拉德、雅各布·吉布森、塔兹·斯盖拉等主演，草 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "常用 Excel「奇技淫巧」，助你在新的一年处理数据事半功倍，「马到成功」",
+      "url": "https://sspai.com/prime/story/excel-tips",
+      "source": "少数派",
+      "published": "2026-03-06 08:29:32",
+      "summary": "现代办公室工作，Excel大概是那个绕不过去的app1。处理电子表格，尤其是处中小型体量的数据，Excel表格的直观易用性还是非常强的，它提供了丰富的数据格式功能，可以对数据进行透视汇总分析，同时也支 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "Kostya"
+    },
+    {
+      "title": "年度征文｜给 NPC 接上 AI：重生爽文看不够？我直接做了个能骂反派的游戏",
+      "url": "https://sspai.com/post/106789",
+      "source": "少数派",
+      "published": "2026-03-06 07:00:00",
+      "summary": "要是你也有那种「看爽文不够爽，想自己进去打反派」的冲动——做一个吧，现在真的不难。查看全文",
+      "author": "高拉"
+    },
+    {
+      "title": "一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器",
+      "url": "https://sspai.com/post/106796",
+      "source": "少数派",
+      "published": "2026-03-06 03:29:03",
+      "summary": "这套利用NAS构建本地游戏缓存服务器的方法，非常适合宿舍、家庭或者公司这类多人下载相同游戏的共享环境，也可以用来解决带宽或者流量受限的问题。查看全文",
+      "author": "飘雷"
+    },
+    {
+      "title": "派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等",
+      "url": "https://sspai.com/post/106880",
+      "source": "少数派",
+      "published": "2026-03-06 00:45:33",
+      "summary": "海信发布 UX 2026 款 RGB-Mini LED 旗舰电视、Nothing 推出 Phone(4a) 系列手机等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新玩意 237｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/106868",
+      "source": "少数派",
+      "published": "2026-03-05 09:11:43",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
+      "url": "https://sspai.com/post/103846",
+      "source": "少数派",
+      "published": "2026-03-05 06:32:05",
+      "summary": "如果你是一名新入坑的 F1 车迷，肯定不想在一整年里都看到没有悬念的无聊比赛，但即将到来的 2026 年却可以说集齐了所有变量，足够为你带来一场混乱却有趣的开局……查看全文",
+      "author": "Belcheck_"
+    },
+    {
+      "title": "Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？",
+      "url": "https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-09 09:53:36",
+      "summary": "点击查看原文>",
+      "author": "褚杏娟"
+    },
+    {
+      "title": "雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报",
+      "url": "https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-09 09:46:07",
+      "summary": "点击查看原文>",
+      "author": "傅宇琪,褚杏娟"
+    },
+    {
+      "title": "Leapwork研究显示，测试中的AI仍然依赖于可靠性，而不仅仅是创新",
+      "url": "https://www.infoq.cn/article/IHiheIrpN1lo0jJJlqhD?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-09 09:40:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Craig Risi"
+    },
+    {
+      "title": "Java近期资讯：延迟常量、TornadoVM 3.0、NetBeans 29、Quarkus、JReleaser和Open Liberty",
+      "url": "https://www.infoq.cn/article/e2DdycRSttfZvU2ZkauH?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-09 09:27:03",
+      "summary": "点击查看原文>",
+      "author": "作者：Michael Redlich"
+    },
+    {
+      "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
+      "url": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-08 11:00:00",
+      "summary": "点击查看原文>",
+      "author": "Sergio De Simone"
+    },
+    {
+      "title": "多模态+Agent 在培训与教育领域的应用｜QCon北京",
+      "url": "https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-08 10:05:00",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "MySQL 9.6更改外键约束及级联处理机制",
+      "url": "https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-08 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "Renato Losio"
+    },
+    {
+      "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
+      "url": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-07 17:48:23",
+      "summary": "点击查看原文>",
+      "author": "允毅"
+    },
+    {
+      "title": "Argo CD 3.3 带来更安全的 GitOps 删除操作与更顺畅的日常运维体验",
+      "url": "https://www.infoq.cn/article/cYD3g1jMkc6D4RTuDfOc?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-07 11:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Matt Saunders"
+    },
+    {
+      "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
+      "url": "https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-03-07 10:17:00",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
     }
-  ],
-  "statistics": {
-    "github_repos": 89,
-    "hackernews_stories": 30,
-    "rss_articles": 80,
-    "total": 199
-  }
+  ]
 }
