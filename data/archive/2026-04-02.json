@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-02T02:05:33.194629",
   "date": "2026-04-02",
+  "timestamp": "2026-04-02T02:05:33.194629",
   "github_trending": {
     "python": [
       {
@@ -991,6 +991,105 @@
       "timestamp": 1774731632,
       "comments": 4,
       "hn_url": "https://news.ycombinator.com/item?id=47558073"
+    },
+    {
+      "id": 47605494,
+      "title": "Jax's true calling: Ray-Marching renderers on WebGL",
+      "url": "https://benoit.paris/posts/jax-ray-marcher/",
+      "score": 56,
+      "author": "BenoitP",
+      "time": "2026-04-01 19:36:07",
+      "timestamp": 1775072167,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=47605494"
+    },
+    {
+      "id": 47607067,
+      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+      "score": 90,
+      "author": "OsrsNeedsf2P",
+      "time": "2026-04-01 21:59:14",
+      "timestamp": 1775080754,
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47607067"
+    },
+    {
+      "id": 47608130,
+      "title": "Montana referendum to outlaw corporate campaign contributions [video]",
+      "url": "https://www.youtube.com/watch?v=p1fPbGHe3xE",
+      "score": 31,
+      "author": "le-mark",
+      "time": "2026-04-01 23:42:19",
+      "timestamp": 1775086939,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47608130"
+    },
+    {
+      "id": 47572878,
+      "title": "How-to guide: Commissioning a Sensor Physics R&D Lab",
+      "url": "https://gist.github.com/nup002/912383615b12dc1ec44ae9004c40b11f",
+      "score": 34,
+      "author": "MagneLauritzen",
+      "time": "2026-03-30 11:19:45",
+      "timestamp": 1774869585,
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=47572878"
+    },
+    {
+      "id": 47607394,
+      "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+      "url": "https://github.com/solvespace/solvespace/issues/1036",
+      "score": 12,
+      "author": "ruevs",
+      "time": "2026-04-01 22:32:04",
+      "timestamp": 1775082724,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=47607394"
+    },
+    {
+      "id": 47607326,
+      "title": "The Windows equivalents of the most used Linux commands",
+      "url": "http://techkettle.blogspot.com/2026/04/the-windows-equivalents-of-most-used.html",
+      "score": 14,
+      "author": "elsadek",
+      "time": "2026-04-01 22:25:14",
+      "timestamp": 1775082314,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=47607326"
+    },
+    {
+      "id": 47574871,
+      "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
+      "url": "https://github.com/afshinm/zerobox",
+      "score": 109,
+      "author": "afshinmeh",
+      "time": "2026-03-30 14:32:36",
+      "timestamp": 1774881156,
+      "comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=47574871"
+    },
+    {
+      "id": 47565307,
+      "title": "Windows 95 defenses against installers that overwrite a file with an older one",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+      "score": 116,
+      "author": "michelangelo",
+      "time": "2026-03-29 17:38:43",
+      "timestamp": 1774805923,
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47565307"
+    },
+    {
+      "id": 47601858,
+      "title": "Ask HN: Who wants to be hired? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601858",
+      "score": 57,
+      "author": "whoishiring",
+      "time": "2026-04-01 15:01:36",
+      "timestamp": 1775055696,
+      "comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=47601858"
     }
   ],
   "rss_feeds": [
@@ -1233,12 +1332,406 @@
       "published": "2026-04-01 15:20:06",
       "summary": "People want small, efficient cars, and it seems Kia is listening.",
       "author": "Jonathan M. Gitlin"
+    },
+    {
+      "title": "Artemis II Mission Launches Successfully",
+      "url": "https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/",
+      "source": "Wired",
+      "published": "2026-04-02 01:55:18",
+      "summary": "The crew of Artemis II will not descend to the moon, but their capsule will fly over the far side of its surface.",
+      "author": "Jorge Garay"
+    },
+    {
+      "title": "California Suspends Enforcement of Law Requiring VCs to Report Diversity Data",
+      "url": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
+      "source": "Wired",
+      "published": "2026-04-01 23:56:36",
+      "summary": "After investors appealed to the governor, California again delayed the deadline for venture firms to disclose the demographics of startup founders they back.",
+      "author": "Paresh Dave"
+    },
+    {
+      "title": "Samsung’s Best OLED TV Is $300 Off",
+      "url": "https://www.wired.com/story/samsung-s95f-tv-deal-326/",
+      "source": "Wired",
+      "published": "2026-04-01 20:00:00",
+      "summary": "The gorgeous Samsung S95F QD-OLED is on super sale ahead of the newest models hitting stores.",
+      "author": "Ryan Waniata"
+    },
+    {
+      "title": "FDA Approves Eli Lilly’s GLP-1 Pill",
+      "url": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
+      "source": "Wired",
+      "published": "2026-04-01 18:56:03",
+      "summary": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
+      "author": "Emily Mullin"
+    },
+    {
+      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+      "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+      "source": "Wired",
+      "published": "2026-04-01 18:30:00",
+      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+      "author": "Will Knight"
+    },
+    {
+      "title": "The HP OmniBook 5 Is a MacBook Neo Killer, and It’s Only $500",
+      "url": "https://www.wired.com/story/hp-omnibook-5-deal-0426/",
+      "source": "Wired",
+      "published": "2026-04-01 18:25:42",
+      "summary": "The HP OmniBook 5 is a better laptop than the MacBook Neo in almost every way. Right now, it’s also $100 cheaper.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+      "url": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+      "source": "Wired",
+      "published": "2026-04-01 18:13:34",
+      "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+      "author": "John Semley"
+    },
+    {
+      "title": "Our Favorite Budget Smartwatch Is $69",
+      "url": "https://www.wired.com/story/nothing-watch-3-pro-deal-426/",
+      "source": "Wired",
+      "published": "2026-04-01 17:45:10",
+      "summary": "You can grab a nice discount on the Nothing CMF Watch 3 Pro for a limited time.",
+      "author": "Brad Bourque"
+    },
+    {
+      "title": "The New Era of Militia Influencers",
+      "url": "https://www.wired.com/story/the-new-era-of-militia-influencers/",
+      "source": "Wired",
+      "published": "2026-04-01 15:00:00",
+      "summary": "The militia movement in the US is undergoing a rebrand that trades counterprotests for expensive weapons, manly sweatshirts, and highly curated Instagram grids.",
+      "author": "David Gilbert"
+    },
+    {
+      "title": "Best MacBooks (2026): Neo, Air, or Pro?",
+      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "source": "Wired",
+      "published": "2026-04-01 14:03:27",
+      "summary": "With the MacBook Neo in the mix, there have never been more options to choose from in Apple's MacBook lineup.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-01 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-01 11:00:00",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-31 14:12:50",
+      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...",
+      "author": "Barry Conklin"
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-31 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they ...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-31 12:01:08",
+      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod...",
+      "author": "Angela Aristidou"
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-30 16:00:00",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou...",
+      "author": "Grace Huckins"
+    },
+    {
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-30 15:42:50",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pent...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-30 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clone...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Inside the stealthy startup that pitched brainless human clones",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-30 09:00:00",
+      "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey...",
+      "author": "Antonio Regalado"
+    },
+    {
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+      "source": "MIT Technology Review",
+      "published": "2026-03-28 09:00:00",
+      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restau...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+      "url": "https://36kr.com/p/3748270618919424?f=rss",
+      "source": "36氪",
+      "published": "2026-04-02 01:10:00",
+      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。\n  鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博...",
+      "author": "Unknown"
+    },
+    {
+      "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
+      "url": "https://36kr.com/p/3748296456143362?f=rss",
+      "source": "36氪",
+      "published": "2026-04-02 01:00:00",
+      "summary": "文｜李小霞\n  编辑｜乔芊 杨轩\n  36氪独家获悉，近期抖音生活服务完成了浦燕子接任后的第二次大的组织架构调整。\n  此次调整根据商户规模重新分为线上部门和线下部门。\n  月GMV5万以上的客户被放到线上部门，分为KA（月GMV10万以上）、自助（月GMV在5-10万）、酒旅三个版块。其中前二者又分别按行业细分为餐饮、到店综合。\n  月GMV5万以下的客户被放到线下部门。线下则按照区域划分为北区...",
+      "author": "Unknown"
+    },
+    {
+      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
+      "url": "https://36kr.com/p/3748927500387072?f=rss",
+      "source": "36氪",
+      "published": "2026-04-02 00:09:25",
+      "summary": " \n  今日热点导览\n  宇树科技被抽中首发企业现场检查 \n  国家税务总局：2025年个税汇算已超7000万人申请退税 \n  原特斯拉中国区高管孔艳双入职小米 \n  特斯拉正式停产Model S和Model X两款车型 \n  美国纽约市宣布撤销政府设备使用TikTok禁令\n  TOP 3大新闻\n  甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18%\n  全球软件巨头甲骨文（Oracle）...",
+      "author": "Unknown"
+    },
+    {
+      "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+      "url": "https://36kr.com/p/3748233045541637?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 12:21:23",
+      "summary": "文｜邱晓芬\n  编辑｜苏建勋\n  一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。\n  在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。\n  当你开车上路时，小...",
+      "author": "Unknown"
+    },
+    {
+      "title": "2026有智青年挑战赛，报名通道全面开启！",
+      "url": "https://36kr.com/p/3748145916740100?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 10:57:43",
+      "summary": "这不是一场传统比赛，是一次对话。\n  我们始终相信，AI 的使命不应是取代人类，而是帮助人类变得更强大。因此在这次选拔中，我们不会关注你的教育背景、融资规模或是使用了多么前沿的算法，唯一在意的是你的产品是否真正让个体变得更强。\n  行至决赛，你会站上WAVES的舞台，这是中国创投圈最重要的舞台之一，台下坐着投资人、产业伙伴、未来的用户，过去很多你叫得出名字的创业者，都是从这里被看见、被理解、被加速...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
+      "url": "https://36kr.com/p/3748061455778311?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 10:02:13",
+      "summary": "大公司：\n  李亚鹏名下公司成立麋鹿咖啡公司\n  36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。\n  特斯拉正式停产Model S和Model X两款车型\n  据媒体报道，马斯...",
+      "author": "Unknown"
+    },
+    {
+      "title": "2026中国股权投资行业名册，调研启动！",
+      "url": "https://36kr.com/p/3747982127481345?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 08:07:34",
+      "summary": "36氪创投研究院的朋友们：\n  新春好！\n  2026的整个春天，创投圈显得格外忙碌：大家或许在养虾、参加龙虾活动；或许在钻研技术、敲代码；或许在寻觅并肩作战的队友；亦或不断在各个AI APP中反复横跳....现在正是AI春暖花开之时，暗涌Waves的2026年度调研规划也随之官宣！\n  2025过去一年，我们见证了AI从实验室的静默代码，破土成为改变产业底座的显学。暗涌发布了96篇文章，不断追踪...",
+      "author": "Unknown"
+    },
+    {
+      "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
+      "url": "https://36kr.com/p/3747976260174341?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 08:02:20",
+      "summary": "\n  现场拍摄\n  文 | 阿至\n  我们似乎比以往任何时候都更相信技术本身的力量。\n  过去3年，在这场由AI所掀起的创业浪潮中，技术正以前所未有的速度，被赋予创造一切、解决一切的宏大叙事。参数在迭代，估值在飙升，钱的流动此起彼伏。\n  然而在这种高速的，甚至有些喧嚣的确定性之外，那些勇敢做出选择、推动改变发生的、具体的人，才是创造变革的原点。\n  基于这一原点，我们组织了一场「离线聚会」。作为...",
+      "author": "Unknown"
+    },
+    {
+      "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
+      "url": "https://36kr.com/p/3747870039147016?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 06:11:45",
+      "summary": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。\n  SHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底...",
+      "author": "Unknown"
+    },
+    {
+      "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
+      "url": "https://36kr.com/p/3747703171383810?f=rss",
+      "source": "36氪",
+      "published": "2026-04-01 05:26:15",
+      "summary": "近日，大众对“心源性猝死”这一沉重话题的关注度格外高。\n  “每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。\n  在临床专家看来，突发的心源性猝死、逐步进展的心力衰竭等问题，除遗传因素外，时常与长期的不良生活习...",
+      "author": "Unknown"
+    },
+    {
+      "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等",
+      "url": "https://sspai.com/post/108175",
+      "source": "少数派",
+      "published": "2026-04-02 00:28:34",
+      "summary": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等",
+      "url": "https://sspai.com/post/108163",
+      "source": "少数派",
+      "published": "2026-04-01 09:00:14",
+      "summary": "最近值得一试的新作汇总。查看全文",
+      "author": "板斧"
+    },
+    {
+      "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
+      "url": "https://sspai.com/post/108064",
+      "source": "少数派",
+      "published": "2026-04-01 06:48:37",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "author": "张立行"
+    },
+    {
+      "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
+      "url": "https://sspai.com/post/108133",
+      "source": "少数派",
+      "published": "2026-04-01 00:08:31",
+      "summary": "索尼将继续上调 PlayStation Plus 订阅价格，微软确认将为 Windows 11 开发纯原生系统应用等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "时隔 5 年的大更新：AirPods Max 2 首发体验",
+      "url": "https://sspai.com/post/108118",
+      "source": "少数派",
+      "published": "2026-03-31 13:00:00",
+      "summary": "时隔五年，Apple的头戴式耳机产品AirPodsMax终于迎来第二代升级。AirPodsMax2拥有与前代产品完全一致的外观：精致的阳极氧化铝金属耳罩、可以无级调节的不锈钢伸缩套杆、具备良好贴合度的 ...查看全文",
+      "author": "waychane"
+    },
+    {
+      "title": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验",
+      "url": "https://sspai.com/post/108108",
+      "source": "少数派",
+      "published": "2026-03-31 09:32:39",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容，将作者投稿的新玩意呈现给大家。上周社区 ...查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "装了啥特别篇：编辑部近期 AI 用法拼盘",
+      "url": "https://sspai.com/prime/story/zhuanglesha-260331",
+      "source": "少数派",
+      "published": "2026-03-31 08:57:38",
+      "summary": "按：我们之前制作过一期题为《少数派编辑部怎么用AI打工？》的装了啥特别篇，其中介绍了AI工具在编辑部日常工作中的实际应用。本期中，编辑部成员们将根据最近使用AI工具的经验和心得，继续介绍一些自己认为有 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "一日一技 | 如何正确进行 vivo Log 的色彩空间转换",
+      "url": "https://sspai.com/post/108101",
+      "source": "少数派",
+      "published": "2026-03-31 07:03:08",
+      "summary": "套还原 LUT 并不是处理 vivo Log——乃至所有 Log 画面——的最佳方式。在本文中，我就结合自己使用 vivo X200 和 X300 系列的拍摄及调色的经验，聊聊如何正确做 vivo Log 的色彩空间转换。查看全文",
+      "author": "张奕源Nick"
+    },
+    {
+      "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
+      "url": "https://sspai.com/post/108027",
+      "source": "少数派",
+      "published": "2026-03-31 03:31:02",
+      "summary": "如果只有 3 分钟紧急撤离，这两个逃生包能帮我活过 72 小时查看全文",
+      "author": "太空小孩"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/108075",
+      "source": "少数派",
+      "published": "2026-03-30 10:16:36",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京",
+      "url": "https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-02 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+      "url": "https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 20:14:35",
+      "summary": "点击查看原文>",
+      "author": "天工开物开源基金会"
+    },
+    {
+      "title": "1220亿美金！OpenAI 完成史上最大规模融资，微软“退居二线”，首次提及“超级应用”",
+      "url": "https://www.infoq.cn/article/0gETwo2o5fFsUQxotf1J?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 18:00:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？",
+      "url": "https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 15:39:06",
+      "summary": "点击查看原文>",
+      "author": "Kitty"
+    },
+    {
+      "title": "突破泛化瓶颈：阿里云智能运维 Agent 评测体系实践",
+      "url": "https://www.infoq.cn/article/9qgbqQFhMvJmTkPoFG8l?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 15:20:13",
+      "summary": "点击查看原文>",
+      "author": "Kitty"
+    },
+    {
+      "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
+      "url": "https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 14:47:50",
+      "summary": "点击查看原文>",
+      "author": "Tina"
+    },
+    {
+      "title": "Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露",
+      "url": "https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 14:20:45",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "“随选随配”的自定义区域：Cloudflare 推出细粒度数据驻留控制",
+      "url": "https://www.infoq.cn/article/9dbzdTQbw2ptCTlEtcyA?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 14:00:00",
+      "summary": "点击查看原文>",
+      "author": "Renato Losio"
+    },
+    {
+      "title": "Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus",
+      "url": "https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 11:48:16",
+      "summary": "点击查看原文>",
+      "author": "作者：Michael Redlich"
+    },
+    {
+      "title": "HashiCorp Vault 1.21 带来 SPIFFE 认证、细粒度密钥恢复等新特性",
+      "url": "https://www.infoq.cn/article/L9IS1LTsK02pUqDtSRyc?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-01 11:00:00",
+      "summary": "点击查看原文>",
+      "author": "Diogo Carleto"
     }
-  ],
-  "statistics": {
-    "github_repos": 84,
-    "hackernews_stories": 29,
-    "rss_articles": 80,
-    "total": 193
-  }
+  ]
 }
