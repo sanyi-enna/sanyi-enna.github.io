@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T02:50:41.261138",
   "date": "2026-05-01",
+  "timestamp": "2026-05-01T02:50:41.261138",
   "github_trending": {
     "python": [
       {
@@ -1081,6 +1081,116 @@
       "timestamp": 1777572858,
       "comments": 23,
       "hn_url": "https://news.ycombinator.com/item?id=47966254"
+    },
+    {
+      "id": 47970578,
+      "title": "The Hearts of the Super Nintendo",
+      "url": "https://fabiensanglard.net/snes_hearts/",
+      "score": 4,
+      "author": "droppedasbaby",
+      "time": "2026-05-01 02:02:11",
+      "timestamp": 1777600931,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47970578"
+    },
+    {
+      "id": 47947944,
+      "title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+      "score": 154,
+      "author": "gpjt",
+      "time": "2026-04-29 13:15:46",
+      "timestamp": 1777468546,
+      "comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=47947944"
+    },
+    {
+      "id": 47961378,
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "url": "https://bidprowl.com",
+      "score": 251,
+      "author": "scarsam",
+      "time": "2026-04-30 12:24:53",
+      "timestamp": 1777551893,
+      "comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47961378"
+    },
+    {
+      "id": 47966625,
+      "title": "Does Postgres Scale?",
+      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "score": 89,
+      "author": "KraftyOne",
+      "time": "2026-04-30 18:45:22",
+      "timestamp": 1777574722,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=47966625"
+    },
+    {
+      "id": 47939158,
+      "title": "The Church Rock Uranium Mill Spill",
+      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+      "score": 64,
+      "author": "Sir_Twist",
+      "time": "2026-04-28 19:13:26",
+      "timestamp": 1777403606,
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=47939158"
+    },
+    {
+      "id": 47942347,
+      "title": "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
+      "url": "https://www.alphaxiv.org/abs/2604.23468",
+      "score": 16,
+      "author": "measurablefunc",
+      "time": "2026-04-28 23:43:07",
+      "timestamp": 1777419787,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=47942347"
+    },
+    {
+      "id": 47968035,
+      "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+      "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+      "score": 21,
+      "author": "pmw",
+      "time": "2026-04-30 20:49:21",
+      "timestamp": 1777582161,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47968035"
+    },
+    {
+      "id": 47946990,
+      "title": "Compositing and Blending – Exploring the math and intuition behind blend modes",
+      "url": "https://nik.digital/posts/compositing-blending",
+      "score": 18,
+      "author": "OuterVale",
+      "time": "2026-04-29 11:46:05",
+      "timestamp": 1777463165,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47946990"
+    },
+    {
+      "id": 47964034,
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 420,
+      "author": "akyuu",
+      "time": "2026-04-30 15:31:40",
+      "timestamp": 1777563100,
+      "comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=47964034"
+    },
+    {
+      "id": 47967069,
+      "title": "Follow-up to Carrot disclosure: Forgejo",
+      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+      "score": 46,
+      "author": "homebrewer",
+      "time": "2026-04-30 19:22:55",
+      "timestamp": 1777576975,
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=47967069"
     }
   ],
   "rss_feeds": [
@@ -1323,12 +1433,406 @@
       "published": "2026-04-30 17:47:17",
       "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
       "author": "Jeremy Hsu"
+    },
+    {
+      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
+      "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+      "source": "Wired",
+      "published": "2026-05-01 00:51:18",
+      "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+      "author": "Maxwell Zeff, Paresh Dave"
+    },
+    {
+      "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
+      "url": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
+      "source": "Wired",
+      "published": "2026-04-30 23:00:51",
+      "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+      "author": "Lauren Goode"
+    },
+    {
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "source": "Wired",
+      "published": "2026-04-30 18:54:54",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+      "author": "Brian Barrett, Zoë Schiffer, Leah Feiger"
+    },
+    {
+      "title": "MAGA Is Confused About ‘Animal Farm’",
+      "url": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
+      "source": "Wired",
+      "published": "2026-04-30 18:19:28",
+      "summary": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message.",
+      "author": "Ej Dickson"
+    },
+    {
+      "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
+      "url": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
+      "source": "Wired",
+      "published": "2026-04-30 17:42:52",
+      "summary": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake.",
+      "author": "Julia Forbes"
+    },
+    {
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+      "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "source": "Wired",
+      "published": "2026-04-30 17:41:14",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+      "author": "Maxwell Zeff, Paresh Dave"
+    },
+    {
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "source": "Wired",
+      "published": "2026-04-30 17:30:39",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+      "author": "Lily Hay Newman"
+    },
+    {
+      "title": "Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System",
+      "url": "https://www.wired.com/story/daniel-davis-immunology-wired-health/",
+      "source": "Wired",
+      "published": "2026-04-30 16:32:14",
+      "summary": "At WIRED Health, immunologist Daniel Davis detailed the ways in which new technologies are enabling a better understanding of the human immune system.",
+      "author": "Anna McKie"
+    },
+    {
+      "title": "Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach",
+      "url": "https://www.wired.com/gallery/the-best-mattress-for-side-sleeper/",
+      "source": "Wired",
+      "published": "2026-04-30 15:59:58",
+      "summary": "We’ve tested hundreds of the top hybrid, memory foam, and cooling mattresses to find the best combination of support and pressure relief.",
+      "author": "Martin Cizmar, Julia Forbes"
+    },
+    {
+      "title": "Light Phone Is Making Its Dumb Phone More Useful With Third-Party ‘Tools’",
+      "url": "https://www.wired.com/story/exclusive-light-phone-developer-kit/",
+      "source": "Wired",
+      "published": "2026-04-30 15:00:00",
+      "summary": "A new developer program for LightOS allows anyone to create tools for the Light Phone, whether that’s a local public transit app for your city or a way to read ebooks.",
+      "author": "Julian Chokkattu"
+    },
+    {
+      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-30 18:42:50",
+      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to s...",
+      "author": "MIT Technology Review"
+    },
+    {
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-30 15:59:41",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo...",
+      "author": "Will Douglas Heaven"
+    },
+    {
+      "title": "The Download: the North Pole’s future and humanoid data",
+      "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-30 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, get...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The Download: storing nuclear waste and orchestrating agents",
+      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-29 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear ener...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "It’s time to make a plan for nuclear waste",
+      "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-29 08:00:00",
+      "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a re...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-28 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s futu...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-27 22:52:57",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "The missing step between hype and profit",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-27 16:13:41",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London...",
+      "author": "Will Douglas Heaven"
+    },
+    {
+      "title": "Rebuilding the data stack for AI",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-27 13:00:00",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "source": "MIT Technology Review",
+      "published": "2026-04-27 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chin...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
+      "url": "https://36kr.com/p/3787830454787330?f=rss",
+      "source": "36氪",
+      "published": "2026-05-01 01:42:35",
+      "summary": "在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。\n  4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站...",
+      "author": "Unknown"
+    },
+    {
+      "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3789235646094339?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 11:32:16",
+      "summary": "文 | 张冰冰\n  编辑 | 阿至\n  36氪获悉，武汉天石科丰新能源科技有限公司（以下简称「天石科丰」）近期宣布完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投，启辰资本担任长期财务顾问，本轮融资将主要用于产品研发及百吨级产线落地。\n  「天石科丰」成立于2022年12月，聚焦于硫化物固态电解质粉体材料研发和生产，技术孵化于武汉理工大学和德国吉森大学，开发出空气稳定性良好且室温离子电导...",
+      "author": "Unknown"
+    },
+    {
+      "title": "错过第一波投影上市潮后，索诺克想靠「枭龙系列」实现超车｜项目报道",
+      "url": "https://36kr.com/p/3785172264197384?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 10:34:03",
+      "summary": "在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。\n  2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。\n  \n  索诺克枭龙系列纯三色激光投影机\n  “不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何商用，...",
+      "author": "Unknown"
+    },
+    {
+      "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路",
+      "url": "https://36kr.com/p/3789175930232065?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 10:31:29",
+      "summary": "作者：FBIF媒体部\n  FBIF2026食品饮料创新论坛及FBIF食品创新展（f展）于2026年4月27-29日在杭州国际博览中心举办。\n  3天的FBIF2026将包含160+位演讲嘉宾，650+展商参展，6000+渠道观众观展，累计将吸引53000+观众观展。\n  \n  FBIF2026以“大势可为”为主题。答案藏于变局，我们将与业内共同探讨，决定产业未来走向的关键变量。\n  本次论坛将从乳...",
+      "author": "Unknown"
+    },
+    {
+      "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
+      "url": "https://36kr.com/p/3789057332043016?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 09:33:41",
+      "summary": "作者 | 邓咏仪\n  编辑 | 杨轩\n  如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。\n  来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。\n  \n  Nebula NEXT 01 \n  在舞台台上，图灵...",
+      "author": "Unknown"
+    },
+    {
+      "title": "HappyHorse没有惊喜",
+      "url": "https://36kr.com/p/3789098887077123?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 09:11:22",
+      "summary": "作者 | 兰杰\n  编辑 | 乔芊\n  4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 \n  HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。\n  该视频模型饱受关注的原因有二。 \n  一是因为在开...",
+      "author": "Unknown"
+    },
+    {
+      "title": "“小长假”前一天北京拍地91.597亿，最贵楼面价超6万",
+      "url": "https://36kr.com/p/3789084813548803?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 08:56:58",
+      "summary": "4月最后一天，北京楼市迎来一次春季土拍盛宴，分别位于朝阳东坝、丰台万泉寺、昌平北七家的三宗宅地成交，总价合计91.597亿元。\n  2026年1-4月，北京合计出让住宅用地13宗（2025年同期成交7宗），总成交价为217.577亿元（2025年同期成交约334.9亿元），相比去年同期有约35%的金额降幅。\n  但今年1-4月成交宅地规划总建面约83.7万㎡，与去年同期成交总建面82.2万㎡的总量...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
+      "url": "https://36kr.com/p/3789059666173189?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 08:53:38",
+      "summary": "大公司：\n  联发科一季度毛利率为46.3%，同比下滑1.8个百分点\n  4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减...",
+      "author": "Unknown"
+    },
+    {
+      "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
+      "url": "https://36kr.com/p/3788996733803782?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 07:28:06",
+      "summary": "\n  \n  “世界咖啡”[AI+]产业对接会正式定档北京亦庄。\n  \n  \n  \n   搞噱头还是做实事，我们需要一个华丽转身\n  这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的...",
+      "author": "Unknown"
+    },
+    {
+      "title": "欧莱雅一季度增长6.7%，中国区再现重大人事变动｜独家",
+      "url": "https://36kr.com/p/3786192457063685?f=rss",
+      "source": "36氪",
+      "published": "2026-04-30 02:42:06",
+      "summary": "文｜贺哲馨\n  编辑｜乔芊\n  刚刚过去的一周，欧莱雅交出了一份超出市场预期的成绩单。\n  公司在2026年一季度实现销售额约121.5亿欧元，同比增长3.6%；在可比口径下（like-for-like），销售增长达到7.6%，经调整后为6.7%。 这一增速不仅高于此前市场普遍预期，财报发布次日，欧莱雅股价大涨9%，创下自2008年11月以来最大单日涨幅。\n  分品类看，四大事业部全部实现了增长，...",
+      "author": "Unknown"
+    },
+    {
+      "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
+      "url": "https://sspai.com/post/109257",
+      "source": "少数派",
+      "published": "2026-04-30 09:30:00",
+      "summary": "假期预防无聊，先来找点玩的。查看全文",
+      "author": "板斧"
+    },
+    {
+      "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
+      "url": "https://sspai.com/post/88452",
+      "source": "少数派",
+      "published": "2026-04-30 06:49:33",
+      "summary": "五一假期将至，我相信有很多派友们都会抓住难得的长假机会，策划一场期盼许久的旅行。曾几何时，我们出门旅游时要带上相机、纸质地图、旅行攻略（比如说LonelyPlanet）、纸质车票、钱包、现金等一堆东西 ...查看全文",
+      "author": "Vanilla"
+    },
+    {
+      "title": "关于中年和中年危机的一些思考",
+      "url": "https://sspai.com/post/108451",
+      "source": "少数派",
+      "published": "2026-04-30 02:17:59",
+      "summary": "关于「中年」这个极其宏大的话题，虽然可写的方面很多，但我不想把话题铺的太满。我写这篇文章本身的核心目的，不是为了说出些什么道理，而是只是想表达自己当下的一种人生处境，同时抛砖引玉，让更多的朋友去分享自己的中年收获和困境。只要有一瞬间觉得自己并不孤单，这篇文章的目的就达到了。查看全文",
+      "author": "知道分子吴先先"
+    },
+    {
+      "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
+      "url": "https://sspai.com/post/109235",
+      "source": "少数派",
+      "published": "2026-04-30 01:16:28",
+      "summary": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+      "url": "https://sspai.com/post/109062",
+      "source": "少数派",
+      "published": "2026-04-29 07:00:00",
+      "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文",
+      "author": "Enc3lMag1k"
+    },
+    {
+      "title": "先别一股脑扔进洗衣机：换季衣物洗护指南",
+      "url": "https://sspai.com/post/60247",
+      "source": "少数派",
+      "published": "2026-04-29 06:41:02",
+      "summary": "用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧查看全文",
+      "author": "包包呀嘿"
+    },
+    {
+      "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+      "url": "https://sspai.com/post/109207",
+      "source": "少数派",
+      "published": "2026-04-29 03:34:17",
+      "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文",
+      "author": "福利派"
+    },
+    {
+      "title": "iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事",
+      "url": "https://sspai.com/post/109188",
+      "source": "少数派",
+      "published": "2026-04-29 02:27:20",
+      "summary": "《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...查看全文",
+      "author": "waychane"
+    },
+    {
+      "title": "派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等",
+      "url": "https://sspai.com/post/109204",
+      "source": "少数派",
+      "published": "2026-04-29 00:22:00",
+      "summary": "Valve 新一代 Steam 手柄宣布发售，中国联通发布「联通魔方」自选服务等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "住久了没意思（二）：从有光的地方开始动手",
+      "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-balcony",
+      "source": "少数派",
+      "published": "2026-04-28 09:50:32",
+      "summary": "上一篇文章中，我大概分析了一下租房常见的一些户型以及对应的问题，并且对一些通用的改造方法和原则做了简单的阐述。从这一期开始，这个主题将正式进入分区域对症下药的模式：详细探讨不同区域的针对性改造。最近上 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "程天冲"
+    },
+    {
+      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "url": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-05-01 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Robert Krzaczyński"
+    },
+    {
+      "title": "布隆过滤器：理论、工程权衡与Go语言实现",
+      "url": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-05-01 09:49:44",
+      "summary": "点击查看原文>",
+      "author": "作者：Gabor Koos"
+    },
+    {
+      "title": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "url": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-05-01 09:40:26",
+      "summary": "点击查看原文>",
+      "author": "作者：Michael Redlich"
+    },
+    {
+      "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "url": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-05-01 09:36:10",
+      "summary": "点击查看原文>",
+      "author": "作者：Matt Saunders"
+    },
+    {
+      "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
+      "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-30 20:00:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
+      "url": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-30 19:00:00",
+      "summary": "点击查看原文>",
+      "author": "华卫"
+    },
+    {
+      "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
+      "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-30 18:06:28",
+      "summary": "点击查看原文>",
+      "author": "AMD"
+    },
+    {
+      "title": "Meta 收购 Manus 这事儿泡汤了",
+      "url": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-30 15:05:52",
+      "summary": "点击查看原文>",
+      "author": "华卫,李冬梅"
+    },
+    {
+      "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
+      "url": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-30 15:00:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+      "url": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-04-30 14:25:01",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
     }
-  ],
-  "statistics": {
-    "github_repos": 94,
-    "hackernews_stories": 30,
-    "rss_articles": 80,
-    "total": 204
-  }
+  ]
 }
