@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T03:42:31.646414",
   "date": "2026-06-11",
+  "timestamp": "2026-06-11T03:42:31.646414",
   "github_trending": {
     "python": [
       {
@@ -1198,6 +1198,116 @@
       "timestamp": 1781131738,
       "comments": 2,
       "hn_url": "https://news.ycombinator.com/item?id=48483854"
+    },
+    {
+      "id": 48475483,
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "score": 1021,
+      "author": "edent",
+      "time": "2026-06-10 12:45:47",
+      "timestamp": 1781095547,
+      "comments": 467,
+      "hn_url": "https://news.ycombinator.com/item?id=48475483"
+    },
+    {
+      "id": 48446532,
+      "title": "World Capitals Voronoi",
+      "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+      "score": 45,
+      "author": "vincnetas",
+      "time": "2026-06-08 15:20:08",
+      "timestamp": 1780932008,
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=48446532"
+    },
+    {
+      "id": 48478148,
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "url": "https://github.com/HelixDB/helix-db/tree/main",
+      "score": 96,
+      "author": "GeorgeCurtis",
+      "time": "2026-06-10 15:47:31",
+      "timestamp": 1781106451,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=48478148"
+    },
+    {
+      "id": 48477400,
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "score": 181,
+      "author": "anhldbk",
+      "time": "2026-06-10 15:01:06",
+      "timestamp": 1781103666,
+      "comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=48477400"
+    },
+    {
+      "id": 48479452,
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "score": 357,
+      "author": "tonyrice",
+      "time": "2026-06-10 17:11:56",
+      "timestamp": 1781111516,
+      "comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=48479452"
+    },
+    {
+      "id": 48476474,
+      "title": "Notes on DeepSeek",
+      "url": "https://news.ycombinator.com/item?id=48476474",
+      "score": 126,
+      "author": "vinhnx",
+      "time": "2026-06-10 14:03:40",
+      "timestamp": 1781100220,
+      "comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48476474"
+    },
+    {
+      "id": 48475100,
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "score": 205,
+      "author": "momentmaker",
+      "time": "2026-06-10 12:11:28",
+      "timestamp": 1781093488,
+      "comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=48475100"
+    },
+    {
+      "id": 48477851,
+      "title": "Authentication issues related to API requests",
+      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+      "score": 154,
+      "author": "Multicomp",
+      "time": "2026-06-10 15:29:52",
+      "timestamp": 1781105392,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=48477851"
+    },
+    {
+      "id": 48426421,
+      "title": "Computer Lessons",
+      "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
+      "score": 9,
+      "author": "cfmcdonald",
+      "time": "2026-06-06 16:18:39",
+      "timestamp": 1780762719,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48426421"
+    },
+    {
+      "id": 48476136,
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "score": 168,
+      "author": "tvissers",
+      "time": "2026-06-10 13:39:11",
+      "timestamp": 1781098751,
+      "comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=48476136"
     }
   ],
   "rss_feeds": [
@@ -1440,12 +1550,406 @@
       "published": "2026-06-10 16:10:20",
       "summary": "Honda's $42,000 hybrid coupe looks great, handles well, and gets 44 mpg.",
       "author": "Jonathan M. Gitlin"
+    },
+    {
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "source": "Wired",
+      "published": "2026-06-11 03:11:22",
+      "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+      "author": "Maxwell Zeff"
+    },
+    {
+      "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+      "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+      "source": "Wired",
+      "published": "2026-06-10 20:55:40",
+      "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+      "author": "Lily Hay Newman"
+    },
+    {
+      "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "url": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+      "source": "Wired",
+      "published": "2026-06-10 20:28:58",
+      "summary": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
+      "author": "Dell Cameron"
+    },
+    {
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+      "source": "Wired",
+      "published": "2026-06-10 19:49:26",
+      "summary": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED.",
+      "author": "Lauren Goode, Paresh Dave, Louise Matsakis"
+    },
+    {
+      "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+      "url": "https://www.wired.com/gallery/best-usb-c-cables/",
+      "source": "Wired",
+      "published": "2026-06-10 18:29:45",
+      "summary": "Unravel the tangled world of cords and find the ones you need to charge your gadgets and transfer data.",
+      "author": "Simon Hill"
+    },
+    {
+      "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+      "url": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+      "source": "Wired",
+      "published": "2026-06-10 17:00:00",
+      "summary": "The UFC event on the White House’s South Lawn is the president’s birthday gift to himself. Sources expect it to be a lobbying extravaganza.",
+      "author": "Hugo Lowell"
+    },
+    {
+      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+      "url": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
+      "source": "Wired",
+      "published": "2026-06-10 14:00:00",
+      "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
+      "author": "Dell Cameron"
+    },
+    {
+      "title": "China Opens World’s First Wind-Powered Underwater Data Center",
+      "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+      "source": "Wired",
+      "published": "2026-06-10 13:39:32",
+      "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
+      "author": "Fernanda González"
+    },
+    {
+      "title": "Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure",
+      "url": "https://www.wired.com/story/affordable-digital-notebook-comparison-2026/",
+      "source": "Wired",
+      "published": "2026-06-10 13:04:00",
+      "summary": "The newest Kindle Scribe means there are now three digital notebooks you can buy in the $400 price range. Here’s which one you should get.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "What’s the Best Kindle of 2026? (So Far)",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "source": "Wired",
+      "published": "2026-06-10 13:02:00",
+      "summary": "I’ve tried every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-10 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our cul...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The “steroid olympics” were a circus—and a window into our culture",
+      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-10 09:00:00",
+      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, ...",
+      "author": "Amit Katwala"
+    },
+    {
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-09 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in ...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-09 10:20:06",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enter...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-09 10:00:00",
+      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has lea...",
+      "author": "Antonio Regalado"
+    },
+    {
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-09 09:16:45",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 ...",
+      "author": "Will Douglas Heaven"
+    },
+    {
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-08 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new ...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-08 09:00:00",
+      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different ho...",
+      "author": "Jenna Ahart"
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-05 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-05 09:00:00",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of ...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
+      "published": "2026-06-11 02:59:54",
+      "summary": "\n  \n  浪来了，你到不到？\n  \n  WAVES是36氪每年夏天最重要的一场会。\n  但它不仅仅是一个“会”。\n  从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风...",
+      "author": "Unknown"
+    },
+    {
+      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+      "url": "https://36kr.com/p/3848094835217666?f=rss",
+      "source": "36氪",
+      "published": "2026-06-11 01:24:41",
+      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。\n  中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事...",
+      "author": "Unknown"
+    },
+    {
+      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+      "url": "https://36kr.com/p/3848000003953926?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 23:48:20",
+      "summary": "今日热点导览\n  \n   花旗警告：金价或跌至3500美元\n   韩国股市再度熔断\n   何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产\n   伊朗宣布对所有船只关闭霍尔木兹海峡\n   SpaceX认购资金超2500亿美元\n  \n  TOP 3 大新闻\n  2026世界杯门票遇冷，近18万张门票待转售\n  北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）...",
+      "author": "Unknown"
+    },
+    {
+      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+      "url": "https://36kr.com/p/3847339087140104?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 13:35:14",
+      "summary": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕表、与中国当代艺术家刘人岛合作的鎏金系列《名扬四海》联名腕表，以及多枚代表性时计一并陈列。\n  对这家1846年诞生于瑞士勒洛克的独立制表商而言，这是一个被精心挑选的时间点——品牌创立180周年，恰逢...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 08:32:14",
+      "summary": "大公司：\n  瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长\n  36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。\n  ...",
+      "author": "Unknown"
+    },
+    {
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 06:11:37",
+      "summary": "文｜周鑫雨\n  编辑｜张雨忻\n  《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。\n  据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。\n  新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S ...",
+      "author": "Unknown"
+    },
+    {
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+      "url": "https://36kr.com/p/3846793046133257?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 03:20:39",
+      "summary": "文｜张子怡\n  编辑｜袁斯来\n  在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。\n  不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于...",
+      "author": "Unknown"
+    },
+    {
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+      "url": "https://36kr.com/p/3846789531404549?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 03:18:51",
+      "summary": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。\n  微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。\n  当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高...",
+      "author": "Unknown"
+    },
+    {
+      "title": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
+      "url": "https://36kr.com/p/3845683804555529?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 02:07:22",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  基本面向上、股价向下，是近期创新药板块的真实写照。\n  6月以来，股市创新药板块延续跌势。上周，在全球肿瘤临床权威“风向标”的美国临床肿瘤学会（ASCO）上，多家中国创新药企公布了高价值的临床研究成果，但却未能成为扭转行情的催化剂。\n  既往，ASCO上公布的新药临床研究进展是影响创新药企股价的关键变量。当下，随着BD出海热潮，ASCO又被赋予了“集中检验新药资产...",
+      "author": "Unknown"
+    },
+    {
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "source": "36氪",
+      "published": "2026-06-10 01:30:00",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。\n  资金将重点用于自研世界模型的架构搭建、算法迭代与...",
+      "author": "Unknown"
+    },
+    {
+      "title": "派早报：Insta360 发布首款手持云台相机 Luna Ultra 等",
+      "url": "https://sspai.com/post/110951",
+      "source": "少数派",
+      "published": "2026-06-11 00:47:19",
+      "summary": "罗技发布首款折叠鼠标 Mobi Fold，雷蛇发布魔音海妖 V3 专业版麦克风等查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "线下活动｜周日到广州来，给你一张过去的 CD",
+      "url": "https://sspai.com/post/110911",
+      "source": "少数派",
+      "published": "2026-06-10 09:30:00",
+      "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...查看全文",
+      "author": "听歌的水獭"
+    },
+    {
+      "title": "又是一年 618：可以直接抄作业的护肤搭配清单",
+      "url": "https://sspai.com/post/110614",
+      "source": "少数派",
+      "published": "2026-06-10 07:00:00",
+      "summary": "直接从搭配开始，为不同肤质、不同诉求的人群提供具体的产品搭配建议。查看全文",
+      "author": "程天冲"
+    },
+    {
+      "title": "告别阅读焦虑：一份硬核科学阅读指南",
+      "url": "https://sspai.com/post/110557",
+      "source": "少数派",
+      "published": "2026-06-10 03:29:04",
+      "summary": "阅读是个熟练功夫。查看全文",
+      "author": "知道分子吴先先"
+    },
+    {
+      "title": "这些人用实测，给麦金獭钢化膜交了份真实答卷",
+      "url": "https://sspai.com/post/110868",
+      "source": "少数派",
+      "published": "2026-06-10 03:00:00",
+      "summary": "编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ...查看全文",
+      "author": "Bluesky"
+    },
+    {
+      "title": "派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等",
+      "url": "https://sspai.com/post/110925",
+      "source": "少数派",
+      "published": "2026-06-10 00:14:32",
+      "summary": "小米发布 MiMo V2.5-Pro-UltraSpeed，Marshall Stockwell III 发布等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
+      "url": "https://sspai.com/post/110907",
+      "source": "少数派",
+      "published": "2026-06-09 09:06:41",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "众测招募｜灵犀 Linx 键盘功能共创计划开启",
+      "url": "https://sspai.com/post/110863",
+      "source": "少数派",
+      "published": "2026-06-09 04:00:00",
+      "summary": "少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市。在产品正式发布前，我们希望邀请一批用户提前参与体验，共同验证功能设计和使用场景。本次将面向少数派社区招募10名体验用户。关于灵犀L ...查看全文",
+      "author": "什么陈"
+    },
+    {
+      "title": "一图流 | Apple WWDC26 开幕式回顾",
+      "url": "https://sspai.com/post/110887",
+      "source": "少数派",
+      "published": "2026-06-08 20:56:14",
+      "summary": "WWDC26 开幕式一图流来啦。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾",
+      "url": "https://sspai.com/post/110888",
+      "source": "少数派",
+      "published": "2026-06-08 20:47:52",
+      "summary": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "url": "https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-11 11:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Renato Losio"
+    },
+    {
+      "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-11 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "AICon 全球人工智能开发与应用大会"
+    },
+    {
+      "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "url": "https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-11 09:23:36",
+      "summary": "点击查看原文>",
+      "author": "作者：Renato Losio"
+    },
+    {
+      "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+      "url": "https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 18:30:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Leela Kumili"
+    },
+    {
+      "title": "大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？",
+      "url": "https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 18:06:42",
+      "summary": "点击查看原文>",
+      "author": "褚杏娟"
+    },
+    {
+      "title": "完成亿元天使轮融资，华超神控押注 AI 超声脑机接口",
+      "url": "https://www.infoq.cn/article/C1Fqp2WOao7d72b1kHR1?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 18:00:01",
+      "summary": "点击查看原文>",
+      "author": "褚杏娟"
+    },
+    {
+      "title": "Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病",
+      "url": "https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 18:00:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7",
+      "url": "https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 17:52:51",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作重启",
+      "url": "https://www.infoq.cn/article/UjpPCzo8RPwNIt0pSsVp?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 17:04:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Daniel Curtis"
+    },
+    {
+      "title": "从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？",
+      "url": "https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-10 16:33:04",
+      "summary": "点击查看原文>",
+      "author": "作者：谈鉴锋、周天昱"
     }
-  ],
-  "statistics": {
-    "github_repos": 107,
-    "hackernews_stories": 30,
-    "rss_articles": 80,
-    "total": 217
-  }
+  ]
 }
