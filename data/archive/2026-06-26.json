@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T03:29:03.624936",
   "date": "2026-06-26",
+  "timestamp": "2026-06-26T03:29:03.624936",
   "github_trending": {
     "python": [
       {
@@ -1378,6 +1378,105 @@
       "timestamp": 1782422579,
       "comments": 37,
       "hn_url": "https://news.ycombinator.com/item?id=48679385"
+    },
+    {
+      "id": 48674484,
+      "title": "OS9Map",
+      "url": "https://yllan.org/software/OS9Map/",
+      "score": 198,
+      "author": "LaSombra",
+      "time": "2026-06-25 15:01:06",
+      "timestamp": 1782399666,
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=48674484"
+    },
+    {
+      "id": 48644383,
+      "title": "Record type inference for dummies",
+      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "score": 23,
+      "author": "g0xA52A2A",
+      "time": "2026-06-23 13:04:38",
+      "timestamp": 1782219878,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48644383"
+    },
+    {
+      "id": 48619122,
+      "title": "Experiments in Sports Seismology for the World Cup",
+      "url": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
+      "score": 12,
+      "author": "jmward01",
+      "time": "2026-06-21 14:06:51",
+      "timestamp": 1782050811,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48619122"
+    },
+    {
+      "id": 48673825,
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "score": 219,
+      "author": "kouosi",
+      "time": "2026-06-25 14:19:28",
+      "timestamp": 1782397168,
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=48673825"
+    },
+    {
+      "id": 48672732,
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 658,
+      "author": "virgildotcodes",
+      "time": "2026-06-25 13:02:56",
+      "timestamp": 1782392576,
+      "comments": 939,
+      "hn_url": "https://news.ycombinator.com/item?id=48672732"
+    },
+    {
+      "id": 48679934,
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "score": 170,
+      "author": "tzs",
+      "time": "2026-06-25 22:16:55",
+      "timestamp": 1782425815,
+      "comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=48679934"
+    },
+    {
+      "id": 48631119,
+      "title": "The last Romans are still around",
+      "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+      "score": 48,
+      "author": "surprisetalk",
+      "time": "2026-06-22 15:00:04",
+      "timestamp": 1782140404,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48631119"
+    },
+    {
+      "id": 48656692,
+      "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+      "score": 72,
+      "author": "d3Xt3r",
+      "time": "2026-06-24 08:04:23",
+      "timestamp": 1782288263,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=48656692"
+    },
+    {
+      "id": 48657049,
+      "title": "You can't unit test for taste",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "score": 255,
+      "author": "kalli",
+      "time": "2026-06-24 08:54:12",
+      "timestamp": 1782291252,
+      "comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=48657049"
     }
   ],
   "rss_feeds": [
@@ -1620,12 +1719,406 @@
       "published": "2026-06-25 13:40:34",
       "summary": "Colossal Biosciences will be biobanking tissues from all of them as well.",
       "author": "John Timmer"
+    },
+    {
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "source": "Wired",
+      "published": "2026-06-26 00:49:13",
+      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "author": "Maxwell Zeff"
+    },
+    {
+      "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+      "url": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
+      "source": "Wired",
+      "published": "2026-06-26 00:07:57",
+      "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "source": "Wired",
+      "published": "2026-06-25 23:13:45",
+      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+      "author": "Brian Barrett, Zoë Schiffer, Leah Feiger"
+    },
+    {
+      "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
+      "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
+      "source": "Wired",
+      "published": "2026-06-25 22:32:07",
+      "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+      "author": "Louryn Strampe"
+    },
+    {
+      "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
+      "url": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
+      "source": "Wired",
+      "published": "2026-06-25 22:31:21",
+      "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
+      "author": "Fernanda González"
+    },
+    {
+      "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
+      "url": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
+      "source": "Wired",
+      "published": "2026-06-25 19:58:52",
+      "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and it’s up to 25 percent off right now for Prime Day.",
+      "author": "Martin Cizmar"
+    },
+    {
+      "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
+      "source": "Wired",
+      "published": "2026-06-25 19:13:33",
+      "summary": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
+      "author": "Unknown"
+    },
+    {
+      "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
+      "url": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
+      "source": "Wired",
+      "published": "2026-06-25 17:52:51",
+      "summary": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?",
+      "author": "Aarian Marshall"
+    },
+    {
+      "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
+      "url": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
+      "source": "Wired",
+      "published": "2026-06-25 16:54:55",
+      "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
+      "author": "Kat Merck"
+    },
+    {
+      "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
+      "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
+      "source": "Wired",
+      "published": "2026-06-25 16:05:30",
+      "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
+      "author": "Boutayna Chokrane"
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-25 14:22:59",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-25 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is ...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "What Europe’s heat wave means for the power grid",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-25 10:00:00",
+      "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, ...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-25 10:00:00",
+      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced i...",
+      "author": "Sophia Chen"
+    },
+    {
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-24 15:25:28",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "The Download: introducing the Engineering issue",
+      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-24 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, bu...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-24 12:00:00",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment comp...",
+      "author": "Antonio Regalado"
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-24 11:59:54",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-24 09:00:00",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.  Once there, the roughly 200-foot-long craft, bu...",
+      "author": "Rachel Courtland"
+    },
+    {
+      "title": "All challenges big and small",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "source": "MIT Technology Review",
+      "published": "2026-06-24 09:00:00",
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, asid...",
+      "author": "Mat Honan"
+    },
+    {
+      "title": "年入27亿，一颗中国糖果拿捏「美国味」",
+      "url": "https://36kr.com/p/3868550907237636?f=rss",
+      "source": "36氪",
+      "published": "2026-06-26 02:23:48",
+      "summary": "作者 | 谢芸子\n  编辑 | 张帆\n  在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n  走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。\n  打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Biobor活性益生菌软糖”...",
+      "author": "Unknown"
+    },
+    {
+      "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3869378164397313?f=rss",
+      "source": "36氪",
+      "published": "2026-06-26 02:17:40",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深...",
+      "author": "Unknown"
+    },
+    {
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "source": "36氪",
+      "published": "2026-06-26 00:00:00",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。\n  念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集...",
+      "author": "Unknown"
+    },
+    {
+      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "url": "https://36kr.com/p/3869243269387269?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 23:57:55",
+      "summary": "今日热点导览\n  \n   Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名\n   建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能\n   马斯克曾直言混动车只是过渡阶段\n   韩国5200万人开了1.08亿股票账户，半年增超1000万\n   逾八成澳大利亚未成年人“绕过”了社媒禁令\n   IBM发布全球首款亚纳米芯片技术\n  \n  ...",
+      "author": "Unknown"
+    },
+    {
+      "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+      "url": "https://36kr.com/p/3868596994069509?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 13:42:26",
+      "summary": "减重1亿斤，是什么概念？ \n  简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。\n  但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。\n  在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动...",
+      "author": "Unknown"
+    },
+    {
+      "title": "美光的好财报，黄金的坏消息",
+      "url": "https://36kr.com/p/3868523068298499?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 11:49:32",
+      "summary": "美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。\n  在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份SCA的...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
+      "url": "https://36kr.com/p/3868502221018370?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 11:44:15",
+      "summary": "大公司：\n  百度：已有1500万人使用百度AI志愿助手填报\n  36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。\n  名创优品寇维宣：乐园系门店年内破百家\n  36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依...",
+      "author": "Unknown"
+    },
+    {
+      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+      "url": "https://36kr.com/p/3868349472920576?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 09:19:27",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14...",
+      "author": "Unknown"
+    },
+    {
+      "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+      "url": "https://36kr.com/p/3868276479710466?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 07:42:21",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。\n  大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可...",
+      "author": "Unknown"
+    },
+    {
+      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
+      "url": "https://36kr.com/p/3868204527457287?f=rss",
+      "source": "36氪",
+      "published": "2026-06-25 06:21:18",
+      "summary": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。\n  在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其...",
+      "author": "Unknown"
+    },
+    {
+      "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
+      "url": "https://sspai.com/post/111541",
+      "source": "少数派",
+      "published": "2026-06-26 00:55:03",
+      "summary": "Apple 调整产品价格，Figma 发布多项更新等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/111518",
+      "source": "少数派",
+      "published": "2026-06-25 10:49:19",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
+      "url": "https://sspai.com/post/111421",
+      "source": "少数派",
+      "published": "2026-06-25 07:40:12",
+      "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...查看全文",
+      "author": "ElijahLee"
+    },
+    {
+      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
+      "url": "https://sspai.com/post/111483",
+      "source": "少数派",
+      "published": "2026-06-25 06:08:44",
+      "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文",
+      "author": "M00Nface"
+    },
+    {
+      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
+      "url": "https://sspai.com/post/111349",
+      "source": "少数派",
+      "published": "2026-06-25 03:02:42",
+      "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文",
+      "author": "PJHubs"
+    },
+    {
+      "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
+      "url": "https://sspai.com/post/111476",
+      "source": "少数派",
+      "published": "2026-06-25 00:51:49",
+      "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
+      "url": "https://sspai.com/post/111289",
+      "source": "少数派",
+      "published": "2026-06-24 09:30:00",
+      "summary": "Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。查看全文",
+      "author": "KingTsui"
+    },
+    {
+      "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
+      "url": "https://sspai.com/post/111428",
+      "source": "少数派",
+      "published": "2026-06-24 07:00:00",
+      "summary": "前言今年是我加入TEDxShenzhen的第三年，经历了2024年和2025年的两次年度大会，我们迎来了2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入Tedx的，刚好编辑也问我有 ...查看全文",
+      "author": "许万里Alva"
+    },
+    {
+      "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+      "url": "https://sspai.com/post/111223",
+      "source": "少数派",
+      "published": "2026-06-24 02:11:37",
+      "summary": "2026 年是 AI agent 的第一年，2026 年也是 FireWire 的最后一年。查看全文",
+      "author": "XiNGRZ"
+    },
+    {
+      "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+      "url": "https://sspai.com/post/111410",
+      "source": "少数派",
+      "published": "2026-06-23 09:00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "Fable 5还未解禁，Anthropic一纸诉状砸向Qwen，自家CEO却被白宫嫌“怪”踢出局！",
+      "url": "https://www.infoq.cn/article/MVDrYfoCovqj6zBNxr9e?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-26 11:12:45",
+      "summary": "点击查看原文>",
+      "author": "华卫"
+    },
+    {
+      "title": "两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”",
+      "url": "https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-26 11:01:58",
+      "summary": "点击查看原文>",
+      "author": "华卫"
+    },
+    {
+      "title": "轻量级ADR与架构咨询例会如何支撑架构决策工作",
+      "url": "https://www.infoq.cn/article/jd3VGzLzCU67Cq2yWFGy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-26 10:30:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Ben Linders"
+    },
+    {
+      "title": "云端 AI 治理：架构师实操指南",
+      "url": "https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-26 09:40:35",
+      "summary": "点击查看原文>",
+      "author": "作者：Dave Ward"
+    },
+    {
+      "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
+      "url": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-25 19:06:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Matt Saunders"
+    },
+    {
+      "title": "AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制",
+      "url": "https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-25 18:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Eran Stiller"
+    },
+    {
+      "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
+      "url": "https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-25 17:04:58",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了",
+      "url": "https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-25 16:54:29",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题",
+      "url": "https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-25 16:50:01",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "途虎养车基于 Apache Doris 构建统一 OLAP 数据底座，支撑用户画像与 BI 多维分析",
+      "url": "https://www.infoq.cn/article/QULg64hlN1FKcHNmb1wJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-06-25 16:37:27",
+      "summary": "点击查看原文>",
+      "author": "SelectDB"
     }
-  ],
-  "statistics": {
-    "github_repos": 127,
-    "hackernews_stories": 29,
-    "rss_articles": 80,
-    "total": 236
-  }
+  ]
 }
