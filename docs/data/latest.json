@@ -1,16 +1,34 @@
 {
-  "updated_at": "2026-06-29T03:39:38.358360",
-  "date": "2026-06-29",
+  "updated_at": "2026-06-30T03:27:12.864860",
+  "date": "2026-06-30",
   "github_trending": {
     "python": [
+      {
+        "name": "cupy/cupy",
+        "url": "https://github.com/cupy/cupy",
+        "description": "NumPy & SciPy for GPU",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "1083",
+        "stars_today": "352"
+      },
+      {
+        "name": "soxoj/maigret",
+        "url": "https://github.com/soxoj/maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2605",
+        "stars_today": "224"
+      },
       {
         "name": "commaai/openpilot",
         "url": "https://github.com/commaai/openpilot",
         "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
         "language": "Python",
         "stars": "Star",
-        "forks": "11096",
-        "stars_today": "266"
+        "forks": "11112",
+        "stars_today": "458"
       },
       {
         "name": "xbtlin/ai-berkshire",
@@ -18,53 +36,8 @@
         "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
         "language": "Python",
         "stars": "Star",
-        "forks": "750",
-        "stars_today": "1,445"
-      },
-      {
-        "name": "Robbyant/lingbot-map",
-        "url": "https://github.com/Robbyant/lingbot-map",
-        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "808",
-        "stars_today": "372"
-      },
-      {
-        "name": "cupy/cupy",
-        "url": "https://github.com/cupy/cupy",
-        "description": "NumPy & SciPy for GPU",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "1070",
-        "stars_today": "174"
-      },
-      {
-        "name": "opendatalab/MinerU",
-        "url": "https://github.com/opendatalab/MinerU",
-        "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "6022",
-        "stars_today": "380"
-      },
-      {
-        "name": "HKUDS/Vibe-Trading",
-        "url": "https://github.com/HKUDS/Vibe-Trading",
-        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "2644",
-        "stars_today": "492"
-      },
-      {
-        "name": "usestrix/strix",
-        "url": "https://github.com/usestrix/strix",
-        "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "2994",
-        "stars_today": "122"
+        "forks": "881",
+        "stars_today": "1,386"
       },
       {
         "name": "browser-use/video-use",
@@ -72,62 +45,35 @@
         "description": "Edit videos with coding agents",
         "language": "Python",
         "stars": "Star",
-        "forks": "1531",
-        "stars_today": "196"
+        "forks": "1573",
+        "stars_today": "967"
       },
       {
-        "name": "luongnv89/claude-howto",
-        "url": "https://github.com/luongnv89/claude-howto",
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "name": "Unclecheng-li/VulnClaw",
+        "url": "https://github.com/Unclecheng-li/VulnClaw",
+        "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
         "language": "Python",
         "stars": "Star",
-        "forks": "4676",
-        "stars_today": "312"
+        "forks": "177",
+        "stars_today": "129"
       },
       {
-        "name": "frappe/frappe",
-        "url": "https://github.com/frappe/frappe",
-        "description": "Low code web framework for real world applications, in Python and Javascript",
+        "name": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "language": "Python",
         "stars": "Star",
-        "forks": "5070",
-        "stars_today": "9"
+        "forks": "2695",
+        "stars_today": "839"
       },
       {
-        "name": "shuvonsec/claude-bug-bounty",
-        "url": "https://github.com/shuvonsec/claude-bug-bounty",
-        "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.",
+        "name": "google-research/timesfm",
+        "url": "https://github.com/google-research/timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "language": "Python",
         "stars": "Star",
-        "forks": "636",
-        "stars_today": "12"
-      },
-      {
-        "name": "sherlock-project/sherlock",
-        "url": "https://github.com/sherlock-project/sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "10036",
-        "stars_today": "121"
-      },
-      {
-        "name": "pandas-dev/pandas",
-        "url": "https://github.com/pandas-dev/pandas",
-        "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "20051",
-        "stars_today": "145"
-      },
-      {
-        "name": "scikit-learn/scikit-learn",
-        "url": "https://github.com/scikit-learn/scikit-learn",
-        "description": "scikit-learn: machine learning in Python",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "27121",
-        "stars_today": "135"
+        "forks": "2530",
+        "stars_today": "127"
       },
       {
         "name": "TauricResearch/TradingAgents",
@@ -135,46 +81,109 @@
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "language": "Python",
         "stars": "Star",
-        "forks": "17278",
-        "stars_today": "274"
+        "forks": "17327",
+        "stars_today": "362"
       },
       {
-        "name": "Project-MONAI/MONAI",
-        "url": "https://github.com/Project-MONAI/MONAI",
-        "description": "AI Toolkit for Healthcare Imaging",
+        "name": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
         "language": "Python",
         "stars": "Star",
-        "forks": "1551",
-        "stars_today": "15"
+        "forks": "7206",
+        "stars_today": "288"
       },
       {
-        "name": "Asabeneh/30-Days-Of-Python",
-        "url": "https://github.com/Asabeneh/30-Days-Of-Python",
-        "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "name": "Robbyant/lingbot-map",
+        "url": "https://github.com/Robbyant/lingbot-map",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
         "language": "Python",
         "stars": "Star",
-        "forks": "12433",
-        "stars_today": "125"
+        "forks": "834",
+        "stars_today": "465"
+      },
+      {
+        "name": "topoteretes/cognee",
+        "url": "https://github.com/topoteretes/cognee",
+        "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2363",
+        "stars_today": "868"
+      },
+      {
+        "name": "ladaapp/lada",
+        "url": "https://github.com/ladaapp/lada",
+        "description": "Restore videos with pixelated/mosaic regions",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "566",
+        "stars_today": "30"
+      },
+      {
+        "name": "Mebus/cupp",
+        "url": "https://github.com/Mebus/cupp",
+        "description": "Common User Passwords Profiler (CUPP)",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2028",
+        "stars_today": "18"
+      },
+      {
+        "name": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "4134",
+        "stars_today": "122"
+      },
+      {
+        "name": "yt-dlp/yt-dlp",
+        "url": "https://github.com/yt-dlp/yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "14704",
+        "stars_today": "273"
+      },
+      {
+        "name": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "10048",
+        "stars_today": "105"
+      },
+      {
+        "name": "hsliuping/TradingAgents-CN",
+        "url": "https://github.com/hsliuping/TradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "6206",
+        "stars_today": "98"
       }
     ],
     "javascript": [
       {
-        "name": "Axorax/awesome-free-apps",
-        "url": "https://github.com/Axorax/awesome-free-apps",
-        "description": "Curated list of the best free apps for PC and mobile",
+        "name": "sveltejs/svelte",
+        "url": "https://github.com/sveltejs/svelte",
+        "description": "web development for the rest of us",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "362",
-        "stars_today": "33"
+        "forks": "4961",
+        "stars_today": "29"
       },
       {
-        "name": "santifer/career-ops",
-        "url": "https://github.com/santifer/career-ops",
-        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "name": "zarazhangrui/frontend-slides",
+        "url": "https://github.com/zarazhangrui/frontend-slides",
+        "description": "Create beautiful slides on the web using a coding agent's frontend skills",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "11144",
-        "stars_today": "208"
+        "forks": "1953",
+        "stars_today": "241"
       },
       {
         "name": "Anil-matcha/Open-Generative-AI",
@@ -182,17 +191,53 @@
         "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "3684",
-        "stars_today": "375"
+        "forks": "3710",
+        "stars_today": "142"
       },
       {
-        "name": "earthtojake/text-to-cad",
-        "url": "https://github.com/earthtojake/text-to-cad",
-        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "name": "santifer/career-ops",
+        "url": "https://github.com/santifer/career-ops",
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "850",
-        "stars_today": "50"
+        "forks": "11198",
+        "stars_today": "283"
+      },
+      {
+        "name": "prettier/prettier",
+        "url": "https://github.com/prettier/prettier",
+        "description": "Prettier is an opinionated code formatter.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "4759",
+        "stars_today": "10"
+      },
+      {
+        "name": "fastify/fastify",
+        "url": "https://github.com/fastify/fastify",
+        "description": "Fast and low overhead web framework, for Node.js",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "2755",
+        "stars_today": "21"
+      },
+      {
+        "name": "drawdb-io/drawdb",
+        "url": "https://github.com/drawdb-io/drawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "3062",
+        "stars_today": "172"
+      },
+      {
+        "name": "simple-icons/simple-icons",
+        "url": "https://github.com/simple-icons/simple-icons",
+        "description": "SVG icons for popular brands",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "3123",
+        "stars_today": "12"
       },
       {
         "name": "qeeqbox/social-analyzer",
@@ -200,8 +245,26 @@
         "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "2227",
-        "stars_today": "72"
+        "forks": "2239",
+        "stars_today": "44"
+      },
+      {
+        "name": "worldwonderer/oh-story-claudecode",
+        "url": "https://github.com/worldwonderer/oh-story-claudecode",
+        "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "551",
+        "stars_today": "108"
+      },
+      {
+        "name": "fleetbase/fleetbase",
+        "url": "https://github.com/fleetbase/fleetbase",
+        "description": "Modular logistics and supply chain operating system (LSOS)",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "679",
+        "stars_today": "25"
       },
       {
         "name": "nodejs/node",
@@ -209,199 +272,46 @@
         "description": "Node.js JavaScript runtime ✨🐢🚀✨",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "35787",
-        "stars_today": "142"
+        "forks": "35793",
+        "stars_today": "39"
       },
       {
-        "name": "thedotmack/claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "name": "zarazhangrui/follow-builders",
+        "url": "https://github.com/zarazhangrui/follow-builders",
+        "description": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "7330",
-        "stars_today": "176"
+        "forks": "699",
+        "stars_today": "44"
       },
       {
-        "name": "zen-browser/desktop",
-        "url": "https://github.com/zen-browser/desktop",
-        "description": "Welcome to a calmer internet",
+        "name": "ai-driven-dev/framework",
+        "url": "https://github.com/ai-driven-dev/framework",
+        "description": "Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "1586",
-        "stars_today": "37"
-      },
-      {
-        "name": "trekhleb/javascript-algorithms",
-        "url": "https://github.com/trekhleb/javascript-algorithms",
-        "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "31050",
+        "forks": "12",
         "stars_today": "10"
       },
       {
-        "name": "anuraghazra/github-readme-stats",
-        "url": "https://github.com/anuraghazra/github-readme-stats",
-        "description": "⚡ Dynamically generated stats for your github readmes",
+        "name": "vercel/next.js",
+        "url": "https://github.com/vercel/next.js",
+        "description": "The React Framework",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "34408",
-        "stars_today": "16"
-      },
-      {
-        "name": "jesse-ai/jesse",
-        "url": "https://github.com/jesse-ai/jesse",
-        "description": "An advanced crypto trading bot written in Python",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "1157",
-        "stars_today": "8"
-      },
-      {
-        "name": "Neet-Nestor/Telegram-Media-Downloader",
-        "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
-        "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "473",
-        "stars_today": "58"
-      },
-      {
-        "name": "LibreSpark/LibreTV",
-        "url": "https://github.com/LibreSpark/LibreTV",
-        "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "27422",
-        "stars_today": "7"
+        "forks": "31276",
+        "stars_today": "46"
       }
     ],
     "go": [
-      {
-        "name": "influxdata/telegraf",
-        "url": "https://github.com/influxdata/telegraf",
-        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "5824",
-        "stars_today": "8"
-      },
-      {
-        "name": "IceWhaleTech/CasaOS",
-        "url": "https://github.com/IceWhaleTech/CasaOS",
-        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "2051",
-        "stars_today": "347"
-      },
-      {
-        "name": "netbirdio/netbird",
-        "url": "https://github.com/netbirdio/netbird",
-        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "1442",
-        "stars_today": "49"
-      },
-      {
-        "name": "workweave/router",
-        "url": "https://github.com/workweave/router",
-        "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "23",
-        "stars_today": "86"
-      },
       {
         "name": "canopy-network/canopy",
         "url": "https://github.com/canopy-network/canopy",
         "description": "The official go implementation of the Canopy Network protocol",
         "language": "Go",
         "stars": "Star",
-        "forks": "15243",
-        "stars_today": "341"
-      },
-      {
-        "name": "livekit/livekit",
-        "url": "https://github.com/livekit/livekit",
-        "description": "End-to-end realtime stack for connecting humans and AI",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "2103",
-        "stars_today": "15"
-      },
-      {
-        "name": "sysadminsmedia/homebox",
-        "url": "https://github.com/sysadminsmedia/homebox",
-        "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "441",
-        "stars_today": "12"
-      },
-      {
-        "name": "AlistGo/alist",
-        "url": "https://github.com/AlistGo/alist",
-        "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "7944",
-        "stars_today": "13"
-      },
-      {
-        "name": "AgentWrapper/agent-orchestrator",
-        "url": "https://github.com/AgentWrapper/agent-orchestrator",
-        "description": "Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "1081",
-        "stars_today": "34"
-      },
-      {
-        "name": "lxc/incus",
-        "url": "https://github.com/lxc/incus",
-        "description": "Powerful system container and virtual machine manager",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "459",
-        "stars_today": "11"
-      },
-      {
-        "name": "XIU2/CloudflareSpeedTest",
-        "url": "https://github.com/XIU2/CloudflareSpeedTest",
-        "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "5233",
-        "stars_today": "23"
-      },
-      {
-        "name": "volcano-sh/volcano",
-        "url": "https://github.com/volcano-sh/volcano",
-        "description": "A Cloud Native Batch System (Project under CNCF)",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "1423",
-        "stars_today": "2"
-      },
-      {
-        "name": "mudler/LocalAI",
-        "url": "https://github.com/mudler/LocalAI",
-        "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "4182",
-        "stars_today": "23"
-      },
-      {
-        "name": "beclab/Olares",
-        "url": "https://github.com/beclab/Olares",
-        "description": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "302",
-        "stars_today": "22"
+        "forks": "15523",
+        "stars_today": "352"
       },
       {
         "name": "Gentleman-Programming/gentle-ai",
@@ -409,46 +319,172 @@
         "description": "",
         "language": "Go",
         "stars": "Star",
-        "forks": "521",
-        "stars_today": "117"
+        "forks": "527",
+        "stars_today": "67"
       },
       {
-        "name": "5rahim/seanime",
-        "url": "https://github.com/5rahim/seanime",
-        "description": "Open-source media server with a web interface and desktop app for anime and manga.",
+        "name": "AgentWrapper/agent-orchestrator",
+        "url": "https://github.com/AgentWrapper/agent-orchestrator",
+        "description": "Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
         "language": "Go",
         "stars": "Star",
-        "forks": "275",
-        "stars_today": "14"
+        "forks": "1092",
+        "stars_today": "67"
       },
       {
-        "name": "Wei-Shaw/sub2api",
-        "url": "https://github.com/Wei-Shaw/sub2api",
-        "description": "Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility.",
+        "name": "ollama/ollama",
+        "url": "https://github.com/ollama/ollama",
+        "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
         "language": "Go",
         "stars": "Star",
-        "forks": "6011",
-        "stars_today": "100"
+        "forks": "16765",
+        "stars_today": "111"
       },
       {
-        "name": "PeerDB-io/peerdb",
-        "url": "https://github.com/PeerDB-io/peerdb",
-        "description": "Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage",
+        "name": "rilldata/rill",
+        "url": "https://github.com/rilldata/rill",
+        "description": "The fastest business intelligence tool for humans and agents.",
         "language": "Go",
         "stars": "Star",
-        "forks": "199",
+        "forks": "183",
         "stars_today": "5"
+      },
+      {
+        "name": "XTLS/RealiTLScanner",
+        "url": "https://github.com/XTLS/RealiTLScanner",
+        "description": "A TLS server scanner for Reality",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "296",
+        "stars_today": "10"
+      },
+      {
+        "name": "kunchenguid/treehouse",
+        "url": "https://github.com/kunchenguid/treehouse",
+        "description": "Manage worktrees without managing worktrees.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "55",
+        "stars_today": "54"
+      },
+      {
+        "name": "hashicorp/terraform",
+        "url": "https://github.com/hashicorp/terraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "10371",
+        "stars_today": "8"
+      },
+      {
+        "name": "MHSanaei/3x-ui",
+        "url": "https://github.com/MHSanaei/3x-ui",
+        "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "7808",
+        "stars_today": "106"
+      },
+      {
+        "name": "volcano-sh/volcano",
+        "url": "https://github.com/volcano-sh/volcano",
+        "description": "A Cloud Native Batch System (Project under CNCF)",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1426",
+        "stars_today": "8"
+      },
+      {
+        "name": "ethereum/EIPs",
+        "url": "https://github.com/ethereum/EIPs",
+        "description": "The Ethereum Improvement Proposal repository",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "6025",
+        "stars_today": "2"
+      },
+      {
+        "name": "gastownhall/beads",
+        "url": "https://github.com/gastownhall/beads",
+        "description": "Beads - A memory upgrade for your coding agent",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1668",
+        "stars_today": "136"
+      },
+      {
+        "name": "prometheus/prometheus",
+        "url": "https://github.com/prometheus/prometheus",
+        "description": "The Prometheus monitoring system and time series database.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "10537",
+        "stars_today": "31"
+      },
+      {
+        "name": "go-gitea/gitea",
+        "url": "https://github.com/go-gitea/gitea",
+        "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "6850",
+        "stars_today": "32"
+      },
+      {
+        "name": "pomerium/pomerium",
+        "url": "https://github.com/pomerium/pomerium",
+        "description": "Pomerium is an identity and context-aware access proxy.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "339",
+        "stars_today": "3"
+      },
+      {
+        "name": "v2fly/domain-list-community",
+        "url": "https://github.com/v2fly/domain-list-community",
+        "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1370",
+        "stars_today": "11"
+      },
+      {
+        "name": "cli/cli",
+        "url": "https://github.com/cli/cli",
+        "description": "GitHub’s official command line tool",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "8625",
+        "stars_today": "19"
+      },
+      {
+        "name": "wal-g/wal-g",
+        "url": "https://github.com/wal-g/wal-g",
+        "description": "Archival and Restoration for databases in the Cloud",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "556",
+        "stars_today": "2"
+      },
+      {
+        "name": "daeuniverse/dae",
+        "url": "https://github.com/daeuniverse/dae",
+        "description": "eBPF-based Linux high-performance transparent proxy solution.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "380",
+        "stars_today": "7"
       }
     ],
     "rust": [
       {
-        "name": "dbt-labs/dbt-core",
-        "url": "https://github.com/dbt-labs/dbt-core",
-        "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+        "name": "tinyhumansai/openhuman",
+        "url": "https://github.com/tinyhumansai/openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "2443",
-        "stars_today": "185"
+        "forks": "3280",
+        "stars_today": "263"
       },
       {
         "name": "surrealdb/surrealdb",
@@ -456,89 +492,26 @@
         "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
         "language": "Rust",
         "stars": "Star",
-        "forks": "1284",
-        "stars_today": "33"
+        "forks": "1288",
+        "stars_today": "22"
       },
       {
-        "name": "tinyhumansai/openhuman",
-        "url": "https://github.com/tinyhumansai/openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "name": "lumina-ai-inc/chunkr",
+        "url": "https://github.com/lumina-ai-inc/chunkr",
+        "description": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
         "language": "Rust",
         "stars": "Star",
-        "forks": "3269",
-        "stars_today": "323"
+        "forks": "245",
+        "stars_today": "262"
       },
       {
-        "name": "Fredolx/open-tv",
-        "url": "https://github.com/Fredolx/open-tv",
-        "description": "Ultra-fast, simple and powerful cross-platform IPTV app",
+        "name": "reacherhq/check-if-email-exists",
+        "url": "https://github.com/reacherhq/check-if-email-exists",
+        "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "211",
-        "stars_today": "31"
-      },
-      {
-        "name": "mullvad/mullvadvpn-app",
-        "url": "https://github.com/mullvad/mullvadvpn-app",
-        "description": "The Mullvad VPN client app for desktop and mobile",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "499",
-        "stars_today": "28"
-      },
-      {
-        "name": "DioxusLabs/dioxus",
-        "url": "https://github.com/DioxusLabs/dioxus",
-        "description": "Fullstack app framework for web, desktop, and mobile.",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "1703",
-        "stars_today": "9"
-      },
-      {
-        "name": "tokio-rs/tokio",
-        "url": "https://github.com/tokio-rs/tokio",
-        "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "3120",
-        "stars_today": "7"
-      },
-      {
-        "name": "GCWing/BitFun",
-        "url": "https://github.com/GCWing/BitFun",
-        "description": "BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "127",
-        "stars_today": "24"
-      },
-      {
-        "name": "google/comprehensive-rust",
-        "url": "https://github.com/google/comprehensive-rust",
-        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "2039",
-        "stars_today": "20"
-      },
-      {
-        "name": "sharkdp/fd",
-        "url": "https://github.com/sharkdp/fd",
-        "description": "A simple, fast and user-friendly alternative to 'find'",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "1080",
-        "stars_today": "18"
-      },
-      {
-        "name": "rustdesk/rustdesk",
-        "url": "https://github.com/rustdesk/rustdesk",
-        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "17760",
-        "stars_today": "102"
+        "forks": "649",
+        "stars_today": "96"
       },
       {
         "name": "gglucass/headroom-desktop",
@@ -546,53 +519,98 @@
         "description": "Unlock 2x more Claude Code and Codex usage",
         "language": "Rust",
         "stars": "Star",
-        "forks": "28",
-        "stars_today": "28"
+        "forks": "30",
+        "stars_today": "49"
       },
       {
-        "name": "sharkdp/bat",
-        "url": "https://github.com/sharkdp/bat",
-        "description": "A cat(1) clone with wings.",
+        "name": "ogulcancelik/herdr",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "description": "agent multiplexer that lives in your terminal.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "1575",
-        "stars_today": "24"
+        "forks": "518",
+        "stars_today": "467"
       },
       {
-        "name": "denoland/deno",
-        "url": "https://github.com/denoland/deno",
-        "description": "A modern runtime for JavaScript and TypeScript.",
+        "name": "microsoft/qdk",
+        "url": "https://github.com/microsoft/qdk",
+        "description": "Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas",
         "language": "Rust",
         "stars": "Star",
-        "forks": "6093",
-        "stars_today": "35"
+        "forks": "200",
+        "stars_today": "0"
       },
       {
-        "name": "starship/starship",
-        "url": "https://github.com/starship/starship",
-        "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+        "name": "spacedriveapp/spacedrive",
+        "url": "https://github.com/spacedriveapp/spacedrive",
+        "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "2566",
-        "stars_today": "18"
+        "forks": "1301",
+        "stars_today": "10"
       },
       {
-        "name": "rust-lang/rust",
-        "url": "https://github.com/rust-lang/rust",
-        "description": "Empowering everyone to build reliable and efficient software.",
+        "name": "metalbear-co/mirrord",
+        "url": "https://github.com/metalbear-co/mirrord",
+        "description": "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "15015",
-        "stars_today": "177"
+        "forks": "200",
+        "stars_today": "12"
       },
       {
-        "name": "bevyengine/bevy",
-        "url": "https://github.com/bevyengine/bevy",
-        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "name": "apache/datafusion",
+        "url": "https://github.com/apache/datafusion",
+        "description": "Apache DataFusion SQL Query Engine",
         "language": "Rust",
         "stars": "Star",
-        "forks": "4659",
+        "forks": "2189",
+        "stars_today": "5"
+      },
+      {
+        "name": "FuelLabs/sway",
+        "url": "https://github.com/FuelLabs/sway",
+        "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "5422",
+        "stars_today": "0"
+      },
+      {
+        "name": "paradigmxyz/reth",
+        "url": "https://github.com/paradigmxyz/reth",
+        "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "2489",
+        "stars_today": "7"
+      },
+      {
+        "name": "qdrant/qdrant",
+        "url": "https://github.com/qdrant/qdrant",
+        "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloudhttps://cloud.qdrant.io/",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "2439",
+        "stars_today": "64"
+      },
+      {
+        "name": "dbt-labs/dbt-core",
+        "url": "https://github.com/dbt-labs/dbt-core",
+        "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "2445",
         "stars_today": "19"
+      },
+      {
+        "name": "sharkdp/fd",
+        "url": "https://github.com/sharkdp/fd",
+        "description": "A simple, fast and user-friendly alternative to 'find'",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "1082",
+        "stars_today": "24"
       },
       {
         "name": "GreptimeTeam/greptimedb",
@@ -601,99 +619,81 @@
         "language": "Rust",
         "stars": "Star",
         "forks": "501",
-        "stars_today": "13"
+        "stars_today": "21"
       },
       {
-        "name": "iced-rs/iced",
-        "url": "https://github.com/iced-rs/iced",
-        "description": "A cross-platform GUI library for Rust, inspired by Elm",
+        "name": "Michael-A-Kuykendall/shimmy",
+        "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+        "description": "⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "1588",
-        "stars_today": "12"
+        "forks": "533",
+        "stars_today": "11"
       },
       {
-        "name": "jj-vcs/jj",
-        "url": "https://github.com/jj-vcs/jj",
-        "description": "A Git-compatible VCS that is both simple and powerful",
+        "name": "web-infra-dev/rspack",
+        "url": "https://github.com/web-infra-dev/rspack",
+        "description": "Fast Rust-based bundler for the web with a modernized webpack API 🦀",
         "language": "Rust",
         "stars": "Star",
-        "forks": "1107",
-        "stars_today": "16"
+        "forks": "817",
+        "stars_today": "4"
       },
       {
-        "name": "BurntSushi/ripgrep",
-        "url": "https://github.com/BurntSushi/ripgrep",
-        "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+        "name": "rust-lang/rust-analyzer",
+        "url": "https://github.com/rust-lang/rust-analyzer",
+        "description": "A Rust compiler front-end for IDEs",
         "language": "Rust",
         "stars": "Star",
-        "forks": "2615",
-        "stars_today": "42"
-      },
-      {
-        "name": "bytecodealliance/wasmtime",
-        "url": "https://github.com/bytecodealliance/wasmtime",
-        "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "1754",
+        "forks": "2111",
         "stars_today": "6"
+      },
+      {
+        "name": "MystenLabs/sui",
+        "url": "https://github.com/MystenLabs/sui",
+        "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "11683",
+        "stars_today": "0"
+      },
+      {
+        "name": "matrix-org/matrix-rust-sdk",
+        "url": "https://github.com/matrix-org/matrix-rust-sdk",
+        "description": "Matrix Client-Server SDK for Rust",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "448",
+        "stars_today": "2"
+      },
+      {
+        "name": "tracel-ai/burn",
+        "url": "https://github.com/tracel-ai/burn",
+        "description": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "952",
+        "stars_today": "9"
       }
     ],
     "java": [
       {
-        "name": "GeyserMC/Geyser",
-        "url": "https://github.com/GeyserMC/Geyser",
-        "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
+        "name": "JabRef/jabref",
+        "url": "https://github.com/JabRef/jabref",
+        "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
         "language": "Java",
         "stars": "Star",
-        "forks": "840",
-        "stars_today": "1"
+        "forks": "3440",
+        "stars_today": "8"
       },
       {
-        "name": "eugenp/tutorials",
-        "url": "https://github.com/eugenp/tutorials",
-        "description": "Getting Started with Spring Boot 3:",
+        "name": "PaperMC/Paper",
+        "url": "https://github.com/PaperMC/Paper",
+        "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
         "language": "Java",
         "stars": "Star",
-        "forks": "53458",
-        "stars_today": "2"
-      },
-      {
-        "name": "SeleniumHQ/selenium",
-        "url": "https://github.com/SeleniumHQ/selenium",
-        "description": "A browser automation framework and ecosystem.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "8686",
-        "stars_today": "2"
-      },
-      {
-        "name": "keycloak/keycloak",
-        "url": "https://github.com/keycloak/keycloak",
-        "description": "Open Source Identity and Access Management For Modern Applications and Services",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "8563",
-        "stars_today": "234"
-      },
-      {
-        "name": "apache/flink",
-        "url": "https://github.com/apache/flink",
-        "description": "Apache Flink",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "13980",
-        "stars_today": "4"
-      },
-      {
-        "name": "xandergos/terrain-diffusion-mc",
-        "url": "https://github.com/xandergos/terrain-diffusion-mc",
-        "description": "Procedural terrain generation with diffusion models (in Minecraft)",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "51",
-        "stars_today": "4"
+        "forks": "3462",
+        "stars_today": "3"
       },
       {
         "name": "ashishps1/awesome-system-design-resources",
@@ -701,116 +701,125 @@
         "description": "Learn System Design concepts and prepare for interviews using free resources.",
         "language": "Java",
         "stars": "Star",
-        "forks": "8392",
-        "stars_today": "61"
+        "forks": "8396",
+        "stars_today": "56"
       },
       {
-        "name": "iBotPeaches/Apktool",
-        "url": "https://github.com/iBotPeaches/Apktool",
-        "description": "A tool for reverse engineering Android apk files",
+        "name": "apache/pulsar",
+        "url": "https://github.com/apache/pulsar",
+        "description": "Apache Pulsar - distributed pub-sub messaging system",
         "language": "Java",
         "stars": "Star",
-        "forks": "3962",
-        "stars_today": "11"
+        "forks": "3742",
+        "stars_today": "3"
       },
       {
-        "name": "JetBrains/intellij-community",
-        "url": "https://github.com/JetBrains/intellij-community",
-        "description": "IntelliJ IDEA & IntelliJ Platform",
+        "name": "quarkusio/quarkus",
+        "url": "https://github.com/quarkusio/quarkus",
+        "description": "Quarkus: Supersonic Subatomic Java.",
         "language": "Java",
         "stars": "Star",
-        "forks": "5970",
-        "stars_today": "7"
+        "forks": "3224",
+        "stars_today": "5"
       },
       {
-        "name": "ashishps1/awesome-low-level-design",
-        "url": "https://github.com/ashishps1/awesome-low-level-design",
-        "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+        "name": "languagetool-org/languagetool",
+        "url": "https://github.com/languagetool-org/languagetool",
+        "description": "Style and Grammar Checker for 25+ Languages",
         "language": "Java",
         "stars": "Star",
-        "forks": "6093",
-        "stars_today": "32"
-      },
-      {
-        "name": "kunal-kushwaha/DSA-Bootcamp-Java",
-        "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-        "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "13367",
-        "stars_today": "9"
-      },
-      {
-        "name": "wso2/product-is",
-        "url": "https://github.com/wso2/product-is",
-        "description": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "1004",
-        "stars_today": "0"
-      },
-      {
-        "name": "ashishps1/awesome-leetcode-resources",
-        "url": "https://github.com/ashishps1/awesome-leetcode-resources",
-        "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "3603",
-        "stars_today": "23"
-      },
-      {
-        "name": "adityatandon15/Low-Level-Design-Course",
-        "url": "https://github.com/adityatandon15/Low-Level-Design-Course",
-        "description": "All Code of LLD Playlist",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "688",
+        "forks": "1529",
         "stars_today": "4"
       },
       {
-        "name": "apache/skywalking",
-        "url": "https://github.com/apache/skywalking",
-        "description": "APM, Application Performance Monitoring System",
+        "name": "keycloak/keycloak",
+        "url": "https://github.com/keycloak/keycloak",
+        "description": "Open Source Identity and Access Management For Modern Applications and Services",
         "language": "Java",
         "stars": "Star",
-        "forks": "6637",
+        "forks": "8564",
+        "stars_today": "25"
+      },
+      {
+        "name": "PojavLauncherTeam/PojavLauncher",
+        "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
+        "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded byhttps://github.com/AngelAuraMC/Amethyst-Android",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "2107",
         "stars_today": "1"
       },
       {
-        "name": "jenkinsci/jenkins",
-        "url": "https://github.com/jenkinsci/jenkins",
-        "description": "Jenkins automation server",
+        "name": "yuliskov/SmartTube",
+        "url": "https://github.com/yuliskov/SmartTube",
+        "description": "Browse media content with your own rules on Android TV",
         "language": "Java",
         "stars": "Star",
-        "forks": "9545",
-        "stars_today": "7"
+        "forks": "1667",
+        "stars_today": "23"
       },
       {
-        "name": "apache/kafka",
-        "url": "https://github.com/apache/kafka",
-        "description": "Apache Kafka - A distributed event streaming platform",
+        "name": "MCRcortex/voxy",
+        "url": "https://github.com/MCRcortex/voxy",
+        "description": "An LoD rendering mod for minecraft",
         "language": "Java",
         "stars": "Star",
-        "forks": "15308",
-        "stars_today": "30"
+        "forks": "638",
+        "stars_today": "2"
       },
       {
-        "name": "magefree/mage",
-        "url": "https://github.com/magefree/mage",
-        "description": "XMage - Magic Another Game Engine",
+        "name": "cabaletta/baritone",
+        "url": "https://github.com/cabaletta/baritone",
+        "description": "google maps for block game",
         "language": "Java",
         "stars": "Star",
-        "forks": "908",
-        "stars_today": "1"
+        "forks": "1954",
+        "stars_today": "4"
       },
       {
-        "name": "halo-dev/halo",
-        "url": "https://github.com/halo-dev/halo",
-        "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
+        "name": "Creators-of-Create/Create",
+        "url": "https://github.com/Creators-of-Create/Create",
+        "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
         "language": "Java",
         "stars": "Star",
-        "forks": "10310",
-        "stars_today": "13"
+        "forks": "1357",
+        "stars_today": "3"
+      },
+      {
+        "name": "aws/aws-sdk-java-v2",
+        "url": "https://github.com/aws/aws-sdk-java-v2",
+        "description": "The official AWS SDK for Java - Version 2",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "1020",
+        "stars_today": "0"
+      },
+      {
+        "name": "bazelbuild/bazel",
+        "url": "https://github.com/bazelbuild/bazel",
+        "description": "a fast, scalable, multi-language and extensible build system",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "4524",
+        "stars_today": "5"
+      },
+      {
+        "name": "DataLinkDC/dinky",
+        "url": "https://github.com/DataLinkDC/dinky",
+        "description": "Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "1347",
+        "stars_today": "0"
+      },
+      {
+        "name": "github/copilot-sdk",
+        "url": "https://github.com/github/copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "1283",
+        "stars_today": "4"
       },
       {
         "name": "apache/solr",
@@ -819,99 +828,81 @@
         "language": "Java",
         "stars": "Star",
         "forks": "840",
-        "stars_today": "1"
+        "stars_today": "0"
+      },
+      {
+        "name": "crimera/piko",
+        "url": "https://github.com/crimera/piko",
+        "description": "morphe patches for twitter",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "136",
+        "stars_today": "9"
+      },
+      {
+        "name": "kunal-kushwaha/DSA-Bootcamp-Java",
+        "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+        "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "13372",
+        "stars_today": "12"
+      },
+      {
+        "name": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "7704",
+        "stars_today": "44"
+      },
+      {
+        "name": "apache/skywalking",
+        "url": "https://github.com/apache/skywalking",
+        "description": "APM, Application Performance Monitoring System",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "6637",
+        "stars_today": "4"
+      },
+      {
+        "name": "bytechefhq/bytechef",
+        "url": "https://github.com/bytechefhq/bytechef",
+        "description": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "150",
+        "stars_today": "16"
+      },
+      {
+        "name": "RikkaApps/Sui",
+        "url": "https://github.com/RikkaApps/Sui",
+        "description": "Modern super user interface implementation on Android.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "410",
+        "stars_today": "5"
       }
     ],
     "typescript": [
       {
-        "name": "JCodesMore/ai-website-cloner-template",
-        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-        "description": "Clone any website with one command using AI coding agents",
+        "name": "logto-io/logto",
+        "url": "https://github.com/logto-io/logto",
+        "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "3292",
-        "stars_today": "782"
+        "forks": "872",
+        "stars_today": "158"
       },
       {
-        "name": "google-labs-code/design.md",
-        "url": "https://github.com/google-labs-code/design.md",
-        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "name": "refactoringhq/tolaria",
+        "url": "https://github.com/refactoringhq/tolaria",
+        "description": "Desktop app to manage markdown knowledge bases",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "1821",
-        "stars_today": "688"
-      },
-      {
-        "name": "every-app/open-seo",
-        "url": "https://github.com/every-app/open-seo",
-        "description": "Open source alternative to Semrush and Ahrefs",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "399",
-        "stars_today": "453"
-      },
-      {
-        "name": "wasp-lang/wasp",
-        "url": "https://github.com/wasp-lang/wasp",
-        "description": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "1458",
-        "stars_today": "23"
-      },
-      {
-        "name": "mauriceboe/TREK",
-        "url": "https://github.com/mauriceboe/TREK",
-        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "699",
-        "stars_today": "231"
-      },
-      {
-        "name": "DIYgod/RSSHub",
-        "url": "https://github.com/DIYgod/RSSHub",
-        "description": "🧡 Everything is RSSible",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "9963",
-        "stars_today": "20"
-      },
-      {
-        "name": "CodebuffAI/codebuff",
-        "url": "https://github.com/CodebuffAI/codebuff",
-        "description": "Generate code from the terminal!",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "835",
-        "stars_today": "60"
-      },
-      {
-        "name": "craft-ai-agents/craft-agents-oss",
-        "url": "https://github.com/craft-ai-agents/craft-agents-oss",
-        "description": "",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "896",
-        "stars_today": "76"
-      },
-      {
-        "name": "vernu/textbee",
-        "url": "https://github.com/vernu/textbee",
-        "description": "open-source sms-gateway. turn any android phone into an sms gateway",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "373",
-        "stars_today": "17"
-      },
-      {
-        "name": "tonyantony300/alt-sendme",
-        "url": "https://github.com/tonyantony300/alt-sendme",
-        "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "523",
-        "stars_today": "29"
+        "forks": "1206",
+        "stars_today": "280"
       },
       {
         "name": "vercel-labs/skills",
@@ -919,8 +910,8 @@
         "description": "The open agent skills tool - npx skills",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "1969",
-        "stars_today": "250"
+        "forks": "1999",
+        "stars_today": "313"
       },
       {
         "name": "diegosouzapw/OmniRoute",
@@ -928,515 +919,560 @@
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "1271",
-        "stars_today": "155"
+        "forks": "1350",
+        "stars_today": "617"
       },
       {
-        "name": "HeyPuter/puter",
-        "url": "https://github.com/HeyPuter/puter",
-        "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+        "name": "JCodesMore/ai-website-cloner-template",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "description": "Clone any website with one command using AI coding agents",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "3917",
-        "stars_today": "39"
+        "forks": "3353",
+        "stars_today": "760"
       },
       {
-        "name": "cloudflare/workers-sdk",
-        "url": "https://github.com/cloudflare/workers-sdk",
-        "description": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
+        "name": "every-app/open-seo",
+        "url": "https://github.com/every-app/open-seo",
+        "description": "Open source alternative to Semrush and Ahrefs",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "1316",
-        "stars_today": "23"
+        "forks": "413",
+        "stars_today": "99"
       },
       {
-        "name": "humanlayer/12-factor-agents",
-        "url": "https://github.com/humanlayer/12-factor-agents",
-        "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+        "name": "facebook/astryx",
+        "url": "https://github.com/facebook/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "1815",
-        "stars_today": "31"
+        "forks": "79",
+        "stars_today": "426"
       },
       {
-        "name": "ZSeven-W/openpencil",
-        "url": "https://github.com/ZSeven-W/openpencil",
-        "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+        "name": "yikart/AiToEarn",
+        "url": "https://github.com/yikart/AiToEarn",
+        "description": "Let's use AI to Earn!",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "361",
-        "stars_today": "27"
+        "forks": "3349",
+        "stars_today": "132"
+      },
+      {
+        "name": "firecrawl/open-lovable",
+        "url": "https://github.com/firecrawl/open-lovable",
+        "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "5218",
+        "stars_today": "135"
+      },
+      {
+        "name": "craft-ai-agents/craft-agents-oss",
+        "url": "https://github.com/craft-ai-agents/craft-agents-oss",
+        "description": "",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "904",
+        "stars_today": "105"
+      },
+      {
+        "name": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "8155",
+        "stars_today": "826"
+      },
+      {
+        "name": "appwrite/appwrite",
+        "url": "https://github.com/appwrite/appwrite",
+        "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "5500",
+        "stars_today": "12"
+      },
+      {
+        "name": "vanloctech/youwee",
+        "url": "https://github.com/vanloctech/youwee",
+        "description": "A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "132",
+        "stars_today": "16"
       }
     ]
   },
   "hackernews": [
     {
-      "id": 48709670,
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 552,
-      "author": "jms703",
-      "time": "2026-06-28 17:50:47",
-      "timestamp": 1782669047,
-      "comments": 263,
-      "hn_url": "https://news.ycombinator.com/item?id=48709670"
+      "id": 48721903,
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 673,
+      "author": "stared",
+      "time": "2026-06-29 17:05:16",
+      "timestamp": 1782752716,
+      "comments": 539,
+      "hn_url": "https://news.ycombinator.com/item?id=48721903"
     },
     {
-      "id": 48710092,
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 208,
-      "author": "vga1",
-      "time": "2026-06-28 18:32:53",
-      "timestamp": 1782671573,
-      "comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=48710092"
+      "id": 48724230,
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 370,
+      "author": "HumanCCF",
+      "time": "2026-06-29 19:49:28",
+      "timestamp": 1782762568,
+      "comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=48724230"
     },
     {
-      "id": 48713051,
-      "title": "Better Images of AI",
-      "url": "https://betterimagesofai.org/",
-      "score": 28,
-      "author": "Curiositry",
-      "time": "2026-06-28 23:50:58",
-      "timestamp": 1782690658,
-      "comments": 17,
-      "hn_url": "https://news.ycombinator.com/item?id=48713051"
-    },
-    {
-      "id": 48707763,
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 341,
-      "author": "xbryanx",
-      "time": "2026-06-28 14:44:56",
-      "timestamp": 1782657896,
-      "comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48707763"
-    },
-    {
-      "id": 48712420,
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "score": 63,
-      "author": "babelfish",
-      "time": "2026-06-28 22:32:04",
-      "timestamp": 1782685924,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=48712420"
-    },
-    {
-      "id": 48713697,
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
-      "score": 73,
-      "author": "b-man",
-      "time": "2026-06-29 01:25:04",
-      "timestamp": 1782696304,
-      "comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=48713697"
-    },
-    {
-      "id": 48708941,
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 367,
-      "author": "engmarketer",
-      "time": "2026-06-28 16:35:19",
-      "timestamp": 1782664519,
-      "comments": 480,
-      "hn_url": "https://news.ycombinator.com/item?id=48708941"
-    },
-    {
-      "id": 48657131,
-      "title": "Deciphering Basmala",
-      "url": "https://blog.plover.com/lang/bismillah.html",
-      "score": 20,
-      "author": "lordgrenville",
-      "time": "2026-06-24 09:05:46",
-      "timestamp": 1782291946,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=48657131"
-    },
-    {
-      "id": 48713887,
-      "title": "Tell Congress: Don't Force Age Checks Online",
-      "url": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
-      "score": 51,
-      "author": "rmason",
-      "time": "2026-06-29 01:52:55",
-      "timestamp": 1782697975,
-      "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=48713887"
-    },
-    {
-      "id": 48710775,
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 86,
-      "author": "rbanffy",
-      "time": "2026-06-28 19:38:00",
-      "timestamp": 1782675480,
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=48710775"
-    },
-    {
-      "id": 48675295,
-      "title": "The Boeing 747 begins its final descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "score": 152,
-      "author": "dbl000",
-      "time": "2026-06-25 15:54:46",
-      "timestamp": 1782402886,
-      "comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48675295"
-    },
-    {
-      "id": 48708182,
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
-      "score": 208,
-      "author": "pompomsheep",
-      "time": "2026-06-28 15:26:14",
-      "timestamp": 1782660374,
-      "comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=48708182"
-    },
-    {
-      "id": 48708991,
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "score": 311,
-      "author": "geox",
-      "time": "2026-06-28 16:41:12",
-      "timestamp": 1782664872,
-      "comments": 414,
-      "hn_url": "https://news.ycombinator.com/item?id=48708991"
-    },
-    {
-      "id": 48710232,
-      "title": "Librepods: AirPods liberated",
-      "url": "https://github.com/librepods-org/librepods",
-      "score": 303,
-      "author": "rbanffy",
-      "time": "2026-06-28 18:48:53",
-      "timestamp": 1782672533,
-      "comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=48710232"
-    },
-    {
-      "id": 48709187,
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 95,
+      "id": 48698908,
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 272,
       "author": "zdw",
-      "time": "2026-06-28 16:58:59",
-      "timestamp": 1782665939,
-      "comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=48709187"
+      "time": "2026-06-27 15:05:17",
+      "timestamp": 1782572717,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48698908"
     },
     {
-      "id": 48684315,
-      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
-      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-      "score": 26,
-      "author": "phaser",
-      "time": "2026-06-26 09:17:44",
-      "timestamp": 1782465464,
+      "id": 48727177,
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "url": "https://fil-c.org/context_switches",
+      "score": 49,
+      "author": "modeless",
+      "time": "2026-06-30 00:38:19",
+      "timestamp": 1782779899,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=48727177"
+    },
+    {
+      "id": 48727323,
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 24,
+      "author": "ozymandiax",
+      "time": "2026-06-30 00:56:42",
+      "timestamp": 1782781002,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=48727323"
+    },
+    {
+      "id": 48727116,
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "score": 40,
+      "author": "benjiro29",
+      "time": "2026-06-30 00:30:11",
+      "timestamp": 1782779411,
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=48727116"
+    },
+    {
+      "id": 48719485,
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 379,
+      "author": "everfrustrated",
+      "time": "2026-06-29 14:09:24",
+      "timestamp": 1782742164,
+      "comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=48719485"
+    },
+    {
+      "id": 48726073,
+      "title": "Scientists find molecular-level evidence for two structures in liquid water",
+      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "score": 76,
+      "author": "wglb",
+      "time": "2026-06-29 22:18:26",
+      "timestamp": 1782771506,
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=48726073"
+    },
+    {
+      "id": 48722052,
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "score": 166,
+      "author": "danboarder",
+      "time": "2026-06-29 17:16:17",
+      "timestamp": 1782753377,
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=48722052"
+    },
+    {
+      "id": 48720924,
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 472,
+      "author": "cdrnsf",
+      "time": "2026-06-29 15:54:24",
+      "timestamp": 1782748464,
+      "comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=48720924"
+    },
+    {
+      "id": 48711981,
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+      "score": 378,
+      "author": "xrd",
+      "time": "2026-06-28 21:42:39",
+      "timestamp": 1782682959,
+      "comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=48711981"
+    },
+    {
+      "id": 48697599,
+      "title": "Kb – Prolog Knowledge Base",
+      "url": "https://github.com/mat-mgm/kb-prolog",
+      "score": 41,
+      "author": "triska",
+      "time": "2026-06-27 12:16:27",
+      "timestamp": 1782562587,
       "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=48684315"
+      "hn_url": "https://news.ycombinator.com/item?id=48697599"
     },
     {
-      "id": 48708859,
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "id": 48726102,
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "score": 150,
+      "author": "jnord",
+      "time": "2026-06-29 22:21:00",
+      "timestamp": 1782771660,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=48726102"
+    },
+    {
+      "id": 48698542,
+      "title": "Netflix Simplified Batch Compute with Kueue",
+      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
+      "score": 28,
+      "author": "dalvrosa",
+      "time": "2026-06-27 14:20:16",
+      "timestamp": 1782570016,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48698542"
+    },
+    {
+      "id": 48702825,
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "score": 135,
+      "author": "Jimmc414",
+      "time": "2026-06-27 23:30:14",
+      "timestamp": 1782603014,
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=48702825"
+    },
+    {
+      "id": 48706389,
+      "title": "One million passports leaked online",
+      "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
+      "score": 176,
+      "author": "jruohonen",
+      "time": "2026-06-28 11:22:49",
+      "timestamp": 1782645769,
+      "comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=48706389"
+    },
+    {
+      "id": 48720190,
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 187,
+      "author": "energeticbark",
+      "time": "2026-06-29 15:02:00",
+      "timestamp": 1782745320,
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=48720190"
+    },
+    {
+      "id": 48720758,
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 262,
+      "author": "mrcslws",
+      "time": "2026-06-29 15:42:17",
+      "timestamp": 1782747737,
+      "comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=48720758"
+    },
+    {
+      "id": 48687137,
+      "title": "SQLite improving performance with pre-sort",
+      "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+      "score": 40,
+      "author": "tosh",
+      "time": "2026-06-26 14:36:04",
+      "timestamp": 1782484564,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=48687137"
+    },
+    {
+      "id": 48683475,
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
       "score": 120,
-      "author": "MaysonL",
-      "time": "2026-06-28 16:28:50",
-      "timestamp": 1782664130,
-      "comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=48708859"
-    },
-    {
-      "id": 48709186,
-      "title": "Show HN: DRM-Free Books",
-      "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-      "score": 80,
-      "author": "TeaVMFan",
-      "time": "2026-06-28 16:58:56",
-      "timestamp": 1782665936,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=48709186"
-    },
-    {
-      "id": 48696127,
-      "title": "Researchers have developed pixels that can emit and analyse light together",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
-      "score": 51,
-      "author": "tspng",
-      "time": "2026-06-27 07:51:26",
-      "timestamp": 1782546686,
-      "comments": 33,
-      "hn_url": "https://news.ycombinator.com/item?id=48696127"
-    },
-    {
-      "id": 48708795,
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "score": 119,
-      "author": "theahura",
-      "time": "2026-06-28 16:24:10",
-      "timestamp": 1782663850,
-      "comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48708795"
+      "author": "chantepierre",
+      "time": "2026-06-26 07:29:17",
+      "timestamp": 1782458957,
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=48683475"
     }
   ],
   "rss_feeds": [
     {
-      "title": "California law targeting loud streaming ads takes effect on July 1",
-      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "source": "TechCrunch",
-      "published": "2026-06-28 21:34:14",
-      "summary": "Streaming ads might be getting a lot quieter.",
-      "author": "Anthony Ha"
+      "published": "2026-06-30 02:28:41",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "author": "Anna Heim"
     },
     {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
       "source": "TechCrunch",
-      "published": "2026-06-28 19:05:39",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "author": "Anthony Ha"
+      "published": "2026-06-29 20:55:50",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+      "author": "Julie Bort"
     },
     {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
       "source": "TechCrunch",
-      "published": "2026-06-28 17:03:16",
-      "summary": "Has Silicon Valley been building the wrong things?",
-      "author": "Anthony Ha"
+      "published": "2026-06-29 20:12:59",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "author": "Lauren Forristal"
     },
     {
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
       "source": "TechCrunch",
-      "published": "2026-06-28 16:05:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "author": "Kirsten Korosec"
+      "published": "2026-06-29 19:06:21",
+      "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+      "author": "Sarah Perez"
     },
     {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
       "source": "TechCrunch",
-      "published": "2026-06-28 15:00:00",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "author": "Kirsten Korosec"
+      "published": "2026-06-29 18:45:12",
+      "summary": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.",
+      "author": "Sean O'Kane"
     },
     {
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
       "source": "TechCrunch",
-      "published": "2026-06-28 14:00:00",
-      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. ...",
-      "author": "Aisha Malik"
+      "published": "2026-06-29 18:10:26",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "author": "Amanda Silberling"
     },
     {
-      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
       "source": "TechCrunch",
-      "published": "2026-06-28 05:00:00",
-      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
-      "author": "Ivan Mehta"
+      "published": "2026-06-29 18:07:48",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "author": "Kate Park"
     },
     {
-      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
       "source": "TechCrunch",
-      "published": "2026-06-27 21:27:37",
-      "summary": "Instagram users could soon see more ways to tune their content.",
-      "author": "Anthony Ha"
+      "published": "2026-06-29 17:39:17",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "author": "Marina Temkin"
     },
     {
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
       "source": "TechCrunch",
-      "published": "2026-06-27 20:42:36",
-      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "author": "Anthony Ha"
+      "published": "2026-06-29 17:03:50",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "author": "Russell Brandom"
     },
     {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
+      "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
       "source": "TechCrunch",
-      "published": "2026-06-27 16:45:09",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "author": "Anthony Ha"
+      "published": "2026-06-29 16:58:30",
+      "summary": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S.",
+      "author": "Tim De Chant"
     },
     {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "title": "T-Mobile is booting customers from its oldest plans",
+      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
       "source": "The Verge",
-      "published": "2026-06-28 21:42:51",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from...",
-      "author": "Terrence O’Brien"
+      "published": "2026-06-29 21:06:14",
+      "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the...",
+      "author": "Allison Johnson"
     },
     {
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "title": "After a great start, DC’s new cinematic universe is already slowing down",
+      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
       "source": "The Verge",
-      "published": "2026-06-28 20:27:36",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t...",
-      "author": "Terrence O’Brien"
+      "published": "2026-06-29 21:00:00",
+      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious...",
+      "author": "Charles Pulliam-Moore"
     },
     {
-      "title": "China claims the world&#8217;s fastest supercomputer",
-      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
       "source": "The Verge",
-      "published": "2026-06-28 17:20:59",
-      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. T...",
-      "author": "Terrence O’Brien"
-    },
-    {
-      "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
-      "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
-      "source": "The Verge",
-      "published": "2026-06-28 16:30:00",
-      "summary": "I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending a...",
-      "author": "Terrence O’Brien"
-    },
-    {
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "source": "The Verge",
-      "published": "2026-06-28 14:12:06",
-      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati...",
-      "author": "Terrence O’Brien"
-    },
-    {
-      "title": "Nest&#8217;s quest to fix your thermostat",
-      "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
-      "source": "The Verge",
-      "published": "2026-06-28 12:02:44",
-      "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides o...",
-      "author": "David Pierce"
-    },
-    {
-      "title": "Ad-free streaming is a luxury now",
-      "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
-      "source": "The Verge",
-      "published": "2026-06-28 12:00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' ...",
+      "published": "2026-06-29 20:18:26",
+      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop t...",
       "author": "Emma Roth"
     },
     {
-      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
-      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge",
-      "published": "2026-06-28 07:00:00",
-      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's not...",
-      "author": "Thomas Ricker"
+      "published": "2026-06-29 19:47:35",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil...",
+      "author": "Andrew Liszewski"
     },
     {
-      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
+      "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
       "source": "The Verge",
-      "published": "2026-06-27 21:20:32",
-      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable...",
-      "author": "Terrence O’Brien"
+      "published": "2026-06-29 19:12:15",
+      "summary": "Sony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion fro...",
+      "author": "Jay Peters"
     },
     {
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "source": "The Verge",
-      "published": "2026-06-27 18:39:32",
-      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these t...",
-      "author": "Terrence O’Brien"
+      "published": "2026-06-29 18:52:03",
+      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid...",
+      "author": "Emma Roth"
     },
     {
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-      "source": "Ars Technica",
-      "published": "2026-06-28 18:49:21",
-      "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
-      "author": "Jennifer Ouellette"
+      "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
+      "url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
+      "source": "The Verge",
+      "published": "2026-06-29 17:49:12",
+      "summary": "Most of Apple’s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn’t a good time to con...",
+      "author": "Cameron Faulkner"
     },
     {
-      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
-      "source": "Ars Technica",
-      "published": "2026-06-27 11:07:05",
-      "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
-      "author": "Jeremy White, WIRED.com"
+      "title": "The best July 4th sales we found so far",
+      "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+      "source": "The Verge",
+      "published": "2026-06-29 16:42:48",
+      "summary": "July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet there are a number...",
+      "author": "Cameron Faulkner"
     },
     {
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "title": "WhatsApp is launching usernames: here’s how to reserve yours",
+      "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
+      "source": "The Verge",
+      "published": "2026-06-29 16:00:00",
+      "summary": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch \"later this year,\" in a move to make the communications platform \"even...",
+      "author": "Jess Weatherbed"
+    },
+    {
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "source": "The Verge",
+      "published": "2026-06-29 16:00:00",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena...",
+      "author": "Hayden Field"
+    },
+    {
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
       "source": "Ars Technica",
-      "published": "2026-06-26 22:19:05",
-      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+      "published": "2026-06-29 22:05:33",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+      "author": "Dan Goodin"
+    },
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "Ars Technica",
+      "published": "2026-06-29 21:09:43",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
       "author": "Jeremy Hsu"
     },
     {
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "title": "US renewable boom passes key milestone in April",
+      "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
       "source": "Ars Technica",
-      "published": "2026-06-26 21:43:57",
-      "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
-      "author": "Beth Mole"
+      "published": "2026-06-29 20:12:30",
+      "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
+      "author": "John Timmer"
     },
     {
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "title": "Supreme Court ruling guts government’s use of geofence warrants",
+      "url": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
       "source": "Ars Technica",
-      "published": "2026-06-26 21:12:07",
-      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-      "author": "Scharon Harding"
-    },
-    {
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-      "source": "Ars Technica",
-      "published": "2026-06-26 20:58:02",
-      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
-      "author": "Nate Anderson"
-    },
-    {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Ars Technica",
-      "published": "2026-06-26 20:04:55",
-      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "published": "2026-06-29 20:04:04",
+      "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
       "author": "Ashley Belanger"
     },
     {
-      "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
-      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
       "source": "Ars Technica",
-      "published": "2026-06-26 18:51:04",
-      "summary": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says.",
-      "author": "Jon Brodkin"
-    },
-    {
-      "title": "Netflix now requires every user profile to be tied to unique email address",
-      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
-      "source": "Ars Technica",
-      "published": "2026-06-26 18:19:58",
-      "summary": "Update began June 15 and will no longer allow you to share your login info.",
+      "published": "2026-06-29 19:10:57",
+      "summary": "Sony has been scaling down its digitial store for a few years.",
       "author": "Scharon Harding"
     },
     {
-      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
-      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+      "title": "Ozone loss was a thing even before CFCs were widely used",
+      "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
       "source": "Ars Technica",
-      "published": "2026-06-26 17:46:07",
-      "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
-      "author": "Beth Mole"
+      "published": "2026-06-29 19:00:23",
+      "summary": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
+      "author": "Scott K. Johnson"
+    },
+    {
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "source": "Ars Technica",
+      "published": "2026-06-29 18:21:31",
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+      "author": "Ryan Whitwam"
+    },
+    {
+      "title": "Quantum computing startup says it will leapfrog everybody",
+      "url": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+      "source": "Ars Technica",
+      "published": "2026-06-29 17:59:50",
+      "summary": "But the system would require a massive leap from any of its existing hardware.",
+      "author": "John Timmer"
+    },
+    {
+      "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
+      "url": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
+      "source": "Ars Technica",
+      "published": "2026-06-29 17:48:11",
+      "summary": "Illinois now a key battleground in fight over prediction market sports bets.",
+      "author": "Ashley Belanger"
+    },
+    {
+      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
+      "url": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
+      "source": "Ars Technica",
+      "published": "2026-06-29 16:04:52",
+      "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
+      "author": "Jonathan M. Gitlin"
     }
   ],
   "statistics": {
-    "github_repos": 106,
+    "github_repos": 110,
     "hackernews_stories": 30,
     "rss_articles": 80,
-    "total": 216
+    "total": 220
   }
 }
