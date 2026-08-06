@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T02:21:38.307575",
   "date": "2026-08-06",
+  "timestamp": "2026-08-06T02:21:38.307575",
   "github_trending": {
     "python": [
       {
@@ -1234,6 +1234,116 @@
       "timestamp": 1785393932,
       "comments": 1,
       "hn_url": "https://news.ycombinator.com/item?id=49106756"
+    },
+    {
+      "id": 49181083,
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 247,
+      "author": "theanonymousone",
+      "time": "2026-08-05 11:01:37",
+      "timestamp": 1785927697,
+      "comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49181083"
+    },
+    {
+      "id": 49126716,
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "score": 63,
+      "author": "pseudolus",
+      "time": "2026-07-31 18:14:48",
+      "timestamp": 1785521688,
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=49126716"
+    },
+    {
+      "id": 49186720,
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "score": 78,
+      "author": "robin_reala",
+      "time": "2026-08-05 18:17:03",
+      "timestamp": 1785953823,
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49186720"
+    },
+    {
+      "id": 49115096,
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "score": 111,
+      "author": "_____k",
+      "time": "2026-07-30 20:09:43",
+      "timestamp": 1785442183,
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49115096"
+    },
+    {
+      "id": 49185389,
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "score": 45,
+      "author": "shailendraht",
+      "time": "2026-08-05 16:47:15",
+      "timestamp": 1785948435,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49185389"
+    },
+    {
+      "id": 49099904,
+      "title": "Pushing the limits of RISC-V emulation",
+      "url": "https://shuklaayu.sh/blog/riscv-recompiler",
+      "score": 23,
+      "author": "shuklaayush",
+      "time": "2026-07-29 16:48:56",
+      "timestamp": 1785343736,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49099904"
+    },
+    {
+      "id": 49183017,
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "score": 107,
+      "author": "surprisetalk",
+      "time": "2026-08-05 14:00:10",
+      "timestamp": 1785938410,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49183017"
+    },
+    {
+      "id": 49124917,
+      "title": "Online Friends Are Real Friends",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "score": 69,
+      "author": "Tomte",
+      "time": "2026-07-31 16:07:55",
+      "timestamp": 1785514075,
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49124917"
+    },
+    {
+      "id": 49184216,
+      "title": "The Valley of Webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "score": 155,
+      "author": "weli",
+      "time": "2026-08-05 15:22:06",
+      "timestamp": 1785943326,
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49184216"
+    },
+    {
+      "id": 49187084,
+      "title": "What happens if you put work into the second dimension?",
+      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+      "score": 51,
+      "author": "abelsm",
+      "time": "2026-08-05 18:39:31",
+      "timestamp": 1785955171,
+      "comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=49187084"
     }
   ],
   "rss_feeds": [
@@ -1476,12 +1586,326 @@
       "published": "2026-08-05 18:11:11",
       "summary": "Reports of cases began in June, and the national tally is now nearing 23,000.",
       "author": "Beth Mole"
+    },
+    {
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "source": "Wired",
+      "published": "2026-08-06 00:15:04",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "author": "Lily Hay Newman"
+    },
+    {
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "source": "Wired",
+      "published": "2026-08-05 23:30:00",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "author": "Matt Burgess"
+    },
+    {
+      "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+      "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+      "source": "Wired",
+      "published": "2026-08-05 23:30:00",
+      "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in a shocking number of systems across the globe.",
+      "author": "Matt Burgess, Andy Greenberg"
+    },
+    {
+      "title": "Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon",
+      "url": "https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/",
+      "source": "Wired",
+      "published": "2026-08-05 22:40:53",
+      "summary": "Although no one captured a direct image of the impact, scientists have detected signals confirming the rocket hit the lunar surface. Orbiters could provide the first images of the crash site in the co...",
+      "author": "Jorge Garay"
+    },
+    {
+      "title": "The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting",
+      "url": "https://www.wired.com/story/national-design-studio-doge-recruiting/",
+      "source": "Wired",
+      "published": "2026-08-05 21:00:00",
+      "summary": "WIRED spoke with an engineer who was interviewed by Edward “Big Balls” Coristine for a government engineering role at the NDS, the White House agency staffed by other DOGE veterans.",
+      "author": "Vittoria Elliott"
+    },
+    {
+      "title": "DHS Wants Protesters’ Signal Group Chats",
+      "url": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+      "source": "Wired",
+      "published": "2026-08-05 20:38:54",
+      "summary": "A lawsuit accuses Homeland Security of violating protesters’ free-speech rights—but the agency is using it to try to get access to the plaintiffs’ encrypted communications.",
+      "author": "Maddy Varner"
+    },
+    {
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "source": "Wired",
+      "published": "2026-08-05 19:42:12",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "author": "Lily Hay Newman"
+    },
+    {
+      "title": "TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up",
+      "url": "https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/",
+      "source": "Wired",
+      "published": "2026-08-05 19:35:22",
+      "summary": "The gossip blogger was on TikTok covered in what appeared to be blood and wielding a knifelike object before the platform cut his stream. He’s since been hospitalized.",
+      "author": "Ej Dickson"
+    },
+    {
+      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "source": "Wired",
+      "published": "2026-08-05 18:30:00",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "author": "Will Knight"
+    },
+    {
+      "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad",
+      "url": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
+      "source": "Wired",
+      "published": "2026-08-05 17:24:01",
+      "summary": "Homeland Security told immigrants that leaving the US would wipe out fines it claims they owe. Now it wants private investigators to find them in their home countries and collect.",
+      "author": "Dell Cameron, Maddy Varner"
+    },
+    {
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-05 14:56:29",
+      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includ...",
+      "author": "Michael S. Branicky, ScD ’95"
+    },
+    {
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-05 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer ...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-05 08:06:40",
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-l...",
+      "author": "Robin George Andrews"
+    },
+    {
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-04 12:14:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donn...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-03 18:43:30",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-03 12:08:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When t...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-03 08:30:05",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model...",
+      "author": "Grace Huckins"
+    },
+    {
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-31 12:16:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just push...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-31 09:00:00",
+      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-30 17:10:00",
+      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "派早报：华为发布尊界 MPV 及多款新品等",
+      "url": "https://sspai.com/post/113110",
+      "source": "少数派",
+      "published": "2026-08-06 00:42:08",
+      "summary": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "196 张盗版碟，和我的游戏启蒙史",
+      "url": "https://sspai.com/post/112831",
+      "source": "少数派",
+      "published": "2026-08-05 09:24:34",
+      "summary": "游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？查看全文",
+      "author": "黑狗布雷特"
+    },
+    {
+      "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
+      "url": "https://sspai.com/post/112953",
+      "source": "少数派",
+      "published": "2026-08-05 07:15:56",
+      "summary": "作为长期阅读的用户，多年以来，我一直在使用Kindle、AppleBooks、PDF等多种工具读书。在管理阅读方面，我使用多款应用来进行：管理书籍我使用的是Calibre；追踪阅读和数据统计，我使用计 ...查看全文",
+      "author": "ElijahLee"
+    },
+    {
+      "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
+      "url": "https://sspai.com/post/112891",
+      "source": "少数派",
+      "published": "2026-08-05 02:15:19",
+      "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。查看全文",
+      "author": "Kely"
+    },
+    {
+      "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
+      "url": "https://sspai.com/post/113087",
+      "source": "少数派",
+      "published": "2026-08-05 00:30:43",
+      "summary": "索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
+      "url": "https://sspai.com/post/74342",
+      "source": "少数派",
+      "published": "2026-08-04 10:42:08",
+      "summary": "无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。查看全文",
+      "author": "文猫"
+    },
+    {
+      "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
+      "url": "https://sspai.com/prime/story/home-made-beverages-3",
+      "source": "少数派",
+      "published": "2026-08-04 09:54:35",
+      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐之前说的液体物料只是把最常用的几类跟大家分享一下，其实还有非常多好喝的好用的液体物料无法一一说明，后边配方中如果需要会顺带介绍。这篇聊一聊固 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "老林还年少"
+    },
+    {
+      "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
+      "url": "https://sspai.com/post/113060",
+      "source": "少数派",
+      "published": "2026-08-04 09:00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "角落新声｜成年的快乐，是可以将角落铺满全家",
+      "url": "https://sspai.com/post/112738",
+      "source": "少数派",
+      "published": "2026-08-04 02:59:26",
+      "summary": "我理解中的角落，不是电影里那种阴暗逼仄、藏着邪恶与不堪的地方，而是生活中时间与现实的锚点。查看全文",
+      "author": "Latte"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/113040",
+      "source": "少数派",
+      "published": "2026-08-03 10:09:00",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "AWS 推出免费沙箱环境，可直接体验 Workshop",
+      "url": "https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-06 09:21:03",
+      "summary": "点击查看原文>",
+      "author": "作者 ：Renato Losio"
+    },
+    {
+      "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-06 09:00:00",
+      "summary": "点击查看原文>",
+      "author": "AICon 全球人工智能开发与应用大会"
+    },
+    {
+      "title": "近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+      "url": "https://www.infoq.cn/article/YdQ7vD3WwZpib8yuzNfF?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 22:59:14",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+      "url": "https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 22:36:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+      "url": "https://www.infoq.cn/article/Qp04AcNuAM8YqtVQHyu3?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 18:45:26",
+      "summary": "点击查看原文>",
+      "author": "蔡芳芳"
+    },
+    {
+      "title": "一个 npm 恶意包，2小时毁掉数十亿下载？GitHub 终于给自动升级按下暂停键",
+      "url": "https://www.infoq.cn/article/mHKwxgo5SqfmtZEESCrN?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 18:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者 ：Sergio De Simone"
+    },
+    {
+      "title": "IPO冲刺中，智元机器人核心班底“华为化”：前谷歌科学家从合伙人名单消失",
+      "url": "https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 17:00:00",
+      "summary": "点击查看原文>",
+      "author": "华卫"
+    },
+    {
+      "title": "AICon 深圳 2026 全日程揭晓｜聚焦 Agent 工程化，构建可靠智能的技术路径",
+      "url": "https://www.infoq.cn/article/1Xo5TimSeStpOARWhElb?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 16:14:30",
+      "summary": "点击查看原文>",
+      "author": "AICon 全球人工智能开发与应用大会"
+    },
+    {
+      "title": "可观测性厂商 AI 大战开始：Grafana、Datadog、Splunk 全部入场",
+      "url": "https://www.infoq.cn/article/0slNEHoKwzuJdxD7D1fJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 16:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Craig Risi"
+    },
+    {
+      "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+      "url": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-05 15:57:15",
+      "summary": "点击查看原文>",
+      "author": "作者 ：郭清沛"
     }
-  ],
-  "statistics": {
-    "github_repos": 111,
-    "hackernews_stories": 30,
-    "rss_articles": 70,
-    "total": 211
-  }
+  ]
 }
