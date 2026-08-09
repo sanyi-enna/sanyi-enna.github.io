@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T01:26:05.695376",
   "date": "2026-08-09",
+  "timestamp": "2026-08-09T01:26:05.695376",
   "github_trending": {
     "python": [
       {
@@ -1144,6 +1144,116 @@
       "timestamp": 1786210960,
       "comments": 11,
       "hn_url": "https://news.ycombinator.com/item?id=49224020"
+    },
+    {
+      "id": 49224294,
+      "title": "Danish high schoolers will have to verbally defend written assignments",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "score": 507,
+      "author": "theanonymousone",
+      "time": "2026-08-08 18:09:31",
+      "timestamp": 1786212571,
+      "comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=49224294"
+    },
+    {
+      "id": 49221220,
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "score": 99,
+      "author": "rfarley04",
+      "time": "2026-08-08 12:31:11",
+      "timestamp": 1786192271,
+      "comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=49221220"
+    },
+    {
+      "id": 49151146,
+      "title": "DDisasm: Reversible (bi-directional) Disassembler",
+      "url": "https://github.com/GrammaTech/ddisasm",
+      "score": 17,
+      "author": "aboardRat4",
+      "time": "2026-08-03 04:13:48",
+      "timestamp": 1785730428,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49151146"
+    },
+    {
+      "id": 49222189,
+      "title": "“Code was never the hard part” is an insult to all programmers",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "score": 563,
+      "author": "senko",
+      "time": "2026-08-08 14:32:33",
+      "timestamp": 1786199553,
+      "comments": 360,
+      "hn_url": "https://news.ycombinator.com/item?id=49222189"
+    },
+    {
+      "id": 49226767,
+      "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+      "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+      "score": 26,
+      "author": "lschueller",
+      "time": "2026-08-08 23:09:07",
+      "timestamp": 1786230547,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49226767"
+    },
+    {
+      "id": 49219508,
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "score": 342,
+      "author": "epestr",
+      "time": "2026-08-08 07:04:51",
+      "timestamp": 1786172691,
+      "comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=49219508"
+    },
+    {
+      "id": 49215786,
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 216,
+      "author": "ilamont",
+      "time": "2026-08-07 20:25:04",
+      "timestamp": 1786134304,
+      "comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=49215786"
+    },
+    {
+      "id": 49226563,
+      "title": "Should you stop cracking your knuckles?",
+      "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+      "score": 6,
+      "author": "tchalla",
+      "time": "2026-08-08 22:36:25",
+      "timestamp": 1786228585,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49226563"
+    },
+    {
+      "id": 49222824,
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "score": 57,
+      "author": "mfiguiere",
+      "time": "2026-08-08 15:34:49",
+      "timestamp": 1786203289,
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49222824"
+    },
+    {
+      "id": 49225676,
+      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+      "score": 23,
+      "author": "pseudolus",
+      "time": "2026-08-08 20:37:24",
+      "timestamp": 1786221444,
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49225676"
     }
   ],
   "rss_feeds": [
@@ -1386,12 +1496,326 @@
       "published": "2026-08-07 17:25:20",
       "summary": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
       "author": "Jennifer Ouellette"
+    },
+    {
+      "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+      "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+      "source": "Wired",
+      "published": "2026-08-08 14:03:58",
+      "summary": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual orientation.",
+      "author": "Vittoria Elliott"
+    },
+    {
+      "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+      "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+      "source": "Wired",
+      "published": "2026-08-08 13:00:00",
+      "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+      "author": "Jorge Garay"
+    },
+    {
+      "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+      "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+      "source": "Wired",
+      "published": "2026-08-08 12:00:00",
+      "summary": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+      "author": "Jorge Garay"
+    },
+    {
+      "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+      "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+      "source": "Wired",
+      "published": "2026-08-08 11:34:00",
+      "summary": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+      "url": "https://www.wired.com/story/best-gaming-laptops/",
+      "source": "Wired",
+      "published": "2026-08-08 11:01:00",
+      "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+      "url": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+      "source": "Wired",
+      "published": "2026-08-08 10:36:00",
+      "summary": "Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+      "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+      "source": "Wired",
+      "published": "2026-08-08 10:30:00",
+      "summary": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.",
+      "author": "Dell Cameron, Dhruv Mehrotra"
+    },
+    {
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "source": "Wired",
+      "published": "2026-08-08 10:00:00",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "author": "Justin Pot"
+    },
+    {
+      "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+      "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+      "source": "Wired",
+      "published": "2026-08-08 10:00:00",
+      "summary": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
+      "author": "Matt Burgess"
+    },
+    {
+      "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+      "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+      "source": "Wired",
+      "published": "2026-08-08 09:31:00",
+      "summary": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
+      "author": "Kat Merck"
+    },
+    {
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-07 14:20:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online f...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-07 14:00:00",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th...",
+      "author": "Eileen Guo, Gisela Perez de Acha, Martin Sona"
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-06 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. A...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-05 14:56:29",
+      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includ...",
+      "author": "Michael S. Branicky, ScD ’95"
+    },
+    {
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-05 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer ...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-05 08:06:40",
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-l...",
+      "author": "Robin George Andrews"
+    },
+    {
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-04 12:14:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donn...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-03 18:43:30",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-03 12:08:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When t...",
+      "author": "Charlotte Jee"
+    },
+    {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-03 08:30:05",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model...",
+      "author": "Grace Huckins"
+    },
+    {
+      "title": "就内容创作而言，说话还是替代不了打字",
+      "url": "https://sspai.com/post/112901",
+      "source": "少数派",
+      "published": "2026-08-08 05:11:00",
+      "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文",
+      "author": "AstrianZ"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/113191",
+      "source": "少数派",
+      "published": "2026-08-07 09:52:38",
+      "summary": "📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
+      "url": "https://sspai.com/post/113108",
+      "source": "少数派",
+      "published": "2026-08-07 07:39:58",
+      "summary": "编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文",
+      "author": "子不语Rex"
+    },
+    {
+      "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
+      "url": "https://sspai.com/post/113144",
+      "source": "少数派",
+      "published": "2026-08-07 02:15:51",
+      "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。查看全文",
+      "author": "蓝羽铭"
+    },
+    {
+      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+      "url": "https://sspai.com/post/113162",
+      "source": "少数派",
+      "published": "2026-08-07 00:51:06",
+      "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新玩意 248｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/113139",
+      "source": "少数派",
+      "published": "2026-08-06 09:30:00",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
+      "url": "https://sspai.com/post/112916",
+      "source": "少数派",
+      "published": "2026-08-06 07:00:00",
+      "summary": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文",
+      "author": "KingTsui"
+    },
+    {
+      "title": "角落新声｜音乐，刻在时光里的私人地图",
+      "url": "https://sspai.com/post/113017",
+      "source": "少数派",
+      "published": "2026-08-06 02:14:58",
+      "summary": "没什么特别的，但无处不在，刚刚好。查看全文",
+      "author": "野比大雄76"
+    },
+    {
+      "title": "派早报：华为发布尊界 MPV 及多款新品等",
+      "url": "https://sspai.com/post/113110",
+      "source": "少数派",
+      "published": "2026-08-06 00:42:08",
+      "summary": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "196 张盗版碟，和我的游戏启蒙史",
+      "url": "https://sspai.com/post/112831",
+      "source": "少数派",
+      "published": "2026-08-05 09:24:34",
+      "summary": "游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？查看全文",
+      "author": "黑狗布雷特"
+    },
+    {
+      "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳",
+      "url": "https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-08 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "AICon 全球人工智能开发与应用大会"
+    },
+    {
+      "title": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+      "url": "https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-08 08:37:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Steef-Jan Wiggers"
+    },
+    {
+      "title": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+      "url": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-08 08:00:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "url": "https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 22:07:05",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+      "url": "https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 18:16:44",
+      "summary": "点击查看原文>",
+      "author": "华卫"
+    },
+    {
+      "title": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+      "url": "https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 18:09:45",
+      "summary": "点击查看原文>",
+      "author": "华卫"
+    },
+    {
+      "title": "蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题",
+      "url": "https://www.infoq.cn/article/B6WtPNGNH0d5LolB1ED2?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 18:06:25",
+      "summary": "点击查看原文>",
+      "author": "蚂蚁集团"
+    },
+    {
+      "title": "告别旧 Renderer！.NET MAUI 正式迈向 Handler 架构时代",
+      "url": "https://www.infoq.cn/article/sbMEk7BQoWXRcl5ZFvkD?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 17:37:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Edin Kapić"
+    },
+    {
+      "title": "Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力",
+      "url": "https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 16:25:15",
+      "summary": "点击查看原文>",
+      "author": "极客时间企业版"
+    },
+    {
+      "title": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+      "url": "https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-08-07 16:12:14",
+      "summary": "点击查看原文>",
+      "author": "InfoQ 中文站"
     }
-  ],
-  "statistics": {
-    "github_repos": 101,
-    "hackernews_stories": 30,
-    "rss_articles": 70,
-    "total": 201
-  }
+  ]
 }
