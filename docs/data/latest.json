@@ -1,16 +1,34 @@
 {
-  "updated_at": "2026-08-09T01:26:05.695376",
-  "date": "2026-08-09",
+  "updated_at": "2026-08-10T01:27:41.316897",
+  "date": "2026-08-10",
   "github_trending": {
     "python": [
       {
-        "name": "google/skills",
-        "url": "https://github.com/google/skills",
-        "description": "Agent Skills for Google products and technologies",
+        "name": "vitali87/code-graph-rag",
+        "url": "https://github.com/vitali87/code-graph-rag",
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
         "language": "Python",
         "stars": "Star",
-        "forks": "1371",
-        "stars_today": "481"
+        "forks": "520",
+        "stars_today": "96"
+      },
+      {
+        "name": "google-deepmind/weathernext",
+        "url": "https://github.com/google-deepmind/weathernext",
+        "description": "",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "938",
+        "stars_today": "86"
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "52002",
+        "stars_today": "306"
       },
       {
         "name": "goauthentik/authentik",
@@ -18,17 +36,44 @@
         "description": "The authentication glue you need.",
         "language": "Python",
         "stars": "Star",
-        "forks": "1836",
-        "stars_today": "467"
+        "forks": "1858",
+        "stars_today": "310"
       },
       {
-        "name": "TauricResearch/TradingAgents",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "name": "google/skills",
+        "url": "https://github.com/google/skills",
+        "description": "Agent Skills for Google products and technologies",
         "language": "Python",
         "stars": "Star",
-        "forks": "18656",
-        "stars_today": "153"
+        "forks": "1393",
+        "stars_today": "528"
+      },
+      {
+        "name": "Comfy-Org/ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "14844",
+        "stars_today": "365"
+      },
+      {
+        "name": "harveyai/harvey-labs",
+        "url": "https://github.com/harveyai/harvey-labs",
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "177",
+        "stars_today": "47"
+      },
+      {
+        "name": "funstory-ai/BabelDOC",
+        "url": "https://github.com/funstory-ai/BabelDOC",
+        "description": "Yet Another Document Translator",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "757",
+        "stars_today": "55"
       },
       {
         "name": "virgiliojr94/book-to-skill",
@@ -36,17 +81,44 @@
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
         "stars": "Star",
-        "forks": "2033",
-        "stars_today": "644"
+        "forks": "2079",
+        "stars_today": "568"
       },
       {
-        "name": "practical-tutorials/project-based-learning",
-        "url": "https://github.com/practical-tutorials/project-based-learning",
-        "description": "Curated list of project-based tutorials",
+        "name": "vladmandic/sdnext",
+        "url": "https://github.com/vladmandic/sdnext",
+        "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing",
         "language": "Python",
         "stars": "Star",
-        "forks": "35722",
-        "stars_today": "208"
+        "forks": "573",
+        "stars_today": "24"
+      },
+      {
+        "name": "MervinPraison/PraisonAI",
+        "url": "https://github.com/MervinPraison/PraisonAI",
+        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "1376",
+        "stars_today": "25"
+      },
+      {
+        "name": "vectorize-io/hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "1245",
+        "stars_today": "80"
+      },
+      {
+        "name": "stanfordnlp/dspy",
+        "url": "https://github.com/stanfordnlp/dspy",
+        "description": "DSPy: The framework for programming—not prompting—language models",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "3199",
+        "stars_today": "152"
       },
       {
         "name": "Significant-Gravitas/AutoGPT",
@@ -55,124 +127,16 @@
         "language": "Python",
         "stars": "Star",
         "forks": "46068",
-        "stars_today": "218"
+        "stars_today": "29"
       },
       {
-        "name": "kyutai-labs/pocket-tts",
-        "url": "https://github.com/kyutai-labs/pocket-tts",
-        "description": "A TTS that fits in your CPU (and pocket)",
+        "name": "TauricResearch/TradingAgents",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "language": "Python",
         "stars": "Star",
-        "forks": "826",
-        "stars_today": "83"
-      },
-      {
-        "name": "666ghj/MiroFish",
-        "url": "https://github.com/666ghj/MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "11006",
-        "stars_today": "389"
-      },
-      {
-        "name": "google-deepmind/weathernext",
-        "url": "https://github.com/google-deepmind/weathernext",
-        "description": "",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "904",
-        "stars_today": "55"
-      },
-      {
-        "name": "superlinked/sie",
-        "url": "https://github.com/superlinked/sie",
-        "description": "Open-source inference server and production cluster for all the models your agent needs.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "261",
-        "stars_today": "30"
-      },
-      {
-        "name": "harveyai/harvey-labs",
-        "url": "https://github.com/harveyai/harvey-labs",
-        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "167",
-        "stars_today": "47"
-      },
-      {
-        "name": "microsoft/agent-governance-toolkit",
-        "url": "https://github.com/microsoft/agent-governance-toolkit",
-        "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "1005",
-        "stars_today": "56"
-      },
-      {
-        "name": "huangruiteng/loopx",
-        "url": "https://github.com/huangruiteng/loopx",
-        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "290",
-        "stars_today": "243"
-      },
-      {
-        "name": "anthropics/claude-code-security-review",
-        "url": "https://github.com/anthropics/claude-code-security-review",
-        "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "626",
-        "stars_today": "27"
-      },
-      {
-        "name": "AgriciDaniel/claude-seo",
-        "url": "https://github.com/AgriciDaniel/claude-seo",
-        "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "2005",
-        "stars_today": "99"
-      },
-      {
-        "name": "microsoft/VibeVoice",
-        "url": "https://github.com/microsoft/VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "5863",
-        "stars_today": "78"
-      },
-      {
-        "name": "tirth8205/code-review-graph",
-        "url": "https://github.com/tirth8205/code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "2700",
-        "stars_today": "114"
-      },
-      {
-        "name": "vllm-project/vllm",
-        "url": "https://github.com/vllm-project/vllm",
-        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "20446",
-        "stars_today": "85"
-      },
-      {
-        "name": "Universal-Commerce-Protocol/ucp",
-        "url": "https://github.com/Universal-Commerce-Protocol/ucp",
-        "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
-        "language": "Python",
-        "stars": "Star",
-        "forks": "435",
-        "stars_today": "5"
+        "forks": "18699",
+        "stars_today": "598"
       }
     ],
     "javascript": [
@@ -182,44 +146,8 @@
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "9109",
-        "stars_today": "779"
-      },
-      {
-        "name": "WorldFlowAI/everything-claude-code",
-        "url": "https://github.com/WorldFlowAI/everything-claude-code",
-        "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "205",
-        "stars_today": "44"
-      },
-      {
-        "name": "affaan-m/ECC",
-        "url": "https://github.com/affaan-m/ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "36264",
-        "stars_today": "273"
-      },
-      {
-        "name": "lackeyjb/playwright-skill",
-        "url": "https://github.com/lackeyjb/playwright-skill",
-        "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "226",
-        "stars_today": "2"
-      },
-      {
-        "name": "usebruno/bruno",
-        "url": "https://github.com/usebruno/bruno",
-        "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-        "language": "JavaScript",
-        "stars": "Star",
-        "forks": "2764",
-        "stars_today": "22"
+        "forks": "9162",
+        "stars_today": "680"
       },
       {
         "name": "drawdb-io/drawdb",
@@ -227,35 +155,71 @@
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "3154",
-        "stars_today": "142"
+        "forks": "3160",
+        "stars_today": "57"
       },
       {
-        "name": "microsoft/monaco-editor",
-        "url": "https://github.com/microsoft/monaco-editor",
-        "description": "A browser based code editor",
+        "name": "eslint/eslint",
+        "url": "https://github.com/eslint/eslint",
+        "description": "Find and fix problems in your JavaScript code.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "4102",
-        "stars_today": "8"
+        "forks": "5153",
+        "stars_today": "2"
       },
       {
-        "name": "wwebjs/whatsapp-web.js",
-        "url": "https://github.com/wwebjs/whatsapp-web.js",
-        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "name": "WorldFlowAI/everything-claude-code",
+        "url": "https://github.com/WorldFlowAI/everything-claude-code",
+        "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "5109",
-        "stars_today": "9"
+        "forks": "211",
+        "stars_today": "20"
       },
       {
-        "name": "Leonxlnx/taste-skill",
-        "url": "https://github.com/Leonxlnx/taste-skill",
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "name": "is-a-dev/register",
+        "url": "https://github.com/is-a-dev/register",
+        "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "5088",
-        "stars_today": "453"
+        "forks": "26524",
+        "stars_today": "10"
+      },
+      {
+        "name": "jo-inc/camofox-browser",
+        "url": "https://github.com/jo-inc/camofox-browser",
+        "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "895",
+        "stars_today": "22"
+      },
+      {
+        "name": "spicetify/cli",
+        "url": "https://github.com/spicetify/cli",
+        "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "910",
+        "stars_today": "19"
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "7856",
+        "stars_today": "106"
+      },
+      {
+        "name": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "36307",
+        "stars_today": "240"
       },
       {
         "name": "Anil-matcha/Open-Generative-AI",
@@ -263,37 +227,73 @@
         "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "4554",
-        "stars_today": "83"
+        "forks": "4575",
+        "stars_today": "82"
       },
       {
-        "name": "OpenSenseNova/SenseNova-Skills",
-        "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
-        "description": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
+        "name": "FortAwesome/Font-Awesome",
+        "url": "https://github.com/FortAwesome/Font-Awesome",
+        "description": "The iconic SVG, font, and CSS toolkit",
         "language": "JavaScript",
         "stars": "Star",
-        "forks": "345",
-        "stars_today": "29"
+        "forks": "12187",
+        "stars_today": "6"
+      },
+      {
+        "name": "4ian/GDevelop",
+        "url": "https://github.com/4ian/GDevelop",
+        "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "1492",
+        "stars_today": "31"
+      },
+      {
+        "name": "microsoft/monaco-editor",
+        "url": "https://github.com/microsoft/monaco-editor",
+        "description": "A browser based code editor",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "4105",
+        "stars_today": "8"
+      },
+      {
+        "name": "open-telemetry/opentelemetry.io",
+        "url": "https://github.com/open-telemetry/opentelemetry.io",
+        "description": "The OpenTelemetry website and documentation",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "1918",
+        "stars_today": "1"
       }
     ],
     "go": [
-      {
-        "name": "chenyme/grok2api",
-        "url": "https://github.com/chenyme/grok2api",
-        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "2181",
-        "stars_today": "113"
-      },
       {
         "name": "pranshuparmar/witr",
         "url": "https://github.com/pranshuparmar/witr",
         "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
         "language": "Go",
         "stars": "Star",
-        "forks": "663",
-        "stars_today": "556"
+        "forks": "726",
+        "stars_today": "210"
+      },
+      {
+        "name": "charmbracelet/crush",
+        "url": "https://github.com/charmbracelet/crush",
+        "description": "Glamourous agentic coding for all 💘",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "2139",
+        "stars_today": "29"
+      },
+      {
+        "name": "chenyme/grok2api",
+        "url": "https://github.com/chenyme/grok2api",
+        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "2184",
+        "stars_today": "22"
       },
       {
         "name": "Gentleman-Programming/gentle-ai",
@@ -301,53 +301,8 @@
         "description": "",
         "language": "Go",
         "stars": "Star",
-        "forks": "651",
-        "stars_today": "54"
-      },
-      {
-        "name": "sysadminsmedia/homebox",
-        "url": "https://github.com/sysadminsmedia/homebox",
-        "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "488",
-        "stars_today": "88"
-      },
-      {
-        "name": "seriousm4x/UpSnap",
-        "url": "https://github.com/seriousm4x/UpSnap",
-        "description": "A simple wake on lan web app written with SvelteKit, Go and PocketBase.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "244",
-        "stars_today": "49"
-      },
-      {
-        "name": "containers/kubernetes-mcp-server",
-        "url": "https://github.com/containers/kubernetes-mcp-server",
-        "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "409",
-        "stars_today": "10"
-      },
-      {
-        "name": "SagerNet/sing-box",
-        "url": "https://github.com/SagerNet/sing-box",
-        "description": "The universal proxy platform",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "4412",
-        "stars_today": "35"
-      },
-      {
-        "name": "google/osv-scanner",
-        "url": "https://github.com/google/osv-scanner",
-        "description": "Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "748",
-        "stars_today": "19"
+        "forks": "656",
+        "stars_today": "30"
       },
       {
         "name": "beclab/Olares",
@@ -356,34 +311,7 @@
         "language": "Go",
         "stars": "Star",
         "forks": "320",
-        "stars_today": "21"
-      },
-      {
-        "name": "Wei-Shaw/sub2api",
-        "url": "https://github.com/Wei-Shaw/sub2api",
-        "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "7487",
-        "stars_today": "87"
-      },
-      {
-        "name": "pocket-id/pocket-id",
-        "url": "https://github.com/pocket-id/pocket-id",
-        "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "288",
-        "stars_today": "10"
-      },
-      {
-        "name": "alexballas/go2tv",
-        "url": "https://github.com/alexballas/go2tv",
-        "description": "Cast media files to Smart TVs and Chromecast devices.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "77",
-        "stars_today": "19"
+        "stars_today": "13"
       },
       {
         "name": "MHSanaei/3x-ui",
@@ -391,109 +319,127 @@
         "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
         "language": "Go",
         "stars": "Star",
-        "forks": "8587",
-        "stars_today": "66"
+        "forks": "8605",
+        "stars_today": "55"
       },
       {
-        "name": "avelino/awesome-go",
-        "url": "https://github.com/avelino/awesome-go",
-        "description": "A curated list of awesome Go frameworks, libraries and software",
+        "name": "agent-substrate/substrate",
+        "url": "https://github.com/agent-substrate/substrate",
+        "description": "Agent Substrate: the core system",
         "language": "Go",
         "stars": "Star",
-        "forks": "13464",
-        "stars_today": "107"
+        "forks": "223",
+        "stars_today": "40"
       },
       {
-        "name": "charmbracelet/crush",
-        "url": "https://github.com/charmbracelet/crush",
-        "description": "Glamourous agentic coding for all 💘",
+        "name": "aceberg/WatchYourLAN",
+        "url": "https://github.com/aceberg/WatchYourLAN",
+        "description": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
         "language": "Go",
         "stars": "Star",
-        "forks": "2135",
+        "forks": "277",
+        "stars_today": "68"
+      },
+      {
+        "name": "aldinokemal/go-whatsapp-web-multidevice",
+        "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+        "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1073",
+        "stars_today": "52"
+      },
+      {
+        "name": "yusing/godoxy",
+        "url": "https://github.com/yusing/godoxy",
+        "description": "High-performance reverse proxy and container orchestrator for self-hosters",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "173",
+        "stars_today": "64"
+      },
+      {
+        "name": "sysadminsmedia/homebox",
+        "url": "https://github.com/sysadminsmedia/homebox",
+        "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "497",
+        "stars_today": "61"
+      },
+      {
+        "name": "mubeng/mubeng",
+        "url": "https://github.com/mubeng/mubeng",
+        "description": "An incredibly fast proxy checker & IP rotator with ease.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "246",
+        "stars_today": "54"
+      },
+      {
+        "name": "sundowndev/phoneinfoga",
+        "url": "https://github.com/sundowndev/phoneinfoga",
+        "description": "Information gathering framework for phone numbers",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "5512",
+        "stars_today": "11"
+      },
+      {
+        "name": "XIU2/CloudflareSpeedTest",
+        "url": "https://github.com/XIU2/CloudflareSpeedTest",
+        "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "5367",
+        "stars_today": "31"
+      },
+      {
+        "name": "ollama/ollama",
+        "url": "https://github.com/ollama/ollama",
+        "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "17327",
+        "stars_today": "84"
+      },
+      {
+        "name": "OpenListTeam/OpenList",
+        "url": "https://github.com/OpenListTeam/OpenList",
+        "description": "A new AList Fork to Anti Trust Crisis",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "2179",
         "stars_today": "37"
       },
       {
-        "name": "actions/actions-runner-controller",
-        "url": "https://github.com/actions/actions-runner-controller",
-        "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+        "name": "grafana/loki",
+        "url": "https://github.com/grafana/loki",
+        "description": "Like Prometheus, but for logs.",
         "language": "Go",
         "stars": "Star",
-        "forks": "1457",
-        "stars_today": "3"
-      },
-      {
-        "name": "QuantumNous/new-api",
-        "url": "https://github.com/QuantumNous/new-api",
-        "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "10548",
-        "stars_today": "73"
-      },
-      {
-        "name": "navidrome/navidrome",
-        "url": "https://github.com/navidrome/navidrome",
-        "description": "🎧 Your Personal Streaming Service",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "1624",
-        "stars_today": "25"
-      },
-      {
-        "name": "mikefarah/yq",
-        "url": "https://github.com/mikefarah/yq",
-        "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "814",
+        "forks": "4082",
         "stars_today": "6"
-      },
-      {
-        "name": "anchore/grype",
-        "url": "https://github.com/anchore/grype",
-        "description": "A vulnerability scanner for container images and filesystems",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "856",
-        "stars_today": "9"
-      },
-      {
-        "name": "fatedier/frp",
-        "url": "https://github.com/fatedier/frp",
-        "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "15167",
-        "stars_today": "18"
-      },
-      {
-        "name": "kubernetes-sigs/kueue",
-        "url": "https://github.com/kubernetes-sigs/kueue",
-        "description": "Kubernetes-native Job Queueing",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "729",
-        "stars_today": "10"
-      },
-      {
-        "name": "containerd/containerd",
-        "url": "https://github.com/containerd/containerd",
-        "description": "An open and reliable container runtime",
-        "language": "Go",
-        "stars": "Star",
-        "forks": "4049",
-        "stars_today": "7"
       }
     ],
     "rust": [
       {
-        "name": "denoland/celld",
-        "url": "https://github.com/denoland/celld",
-        "description": "self-hosted, distributed Durable Objects",
+        "name": "rivet-dev/rivet",
+        "url": "https://github.com/rivet-dev/rivet",
+        "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "73",
-        "stars_today": "432"
+        "forks": "212",
+        "stars_today": "25"
+      },
+      {
+        "name": "jdx/mise",
+        "url": "https://github.com/jdx/mise",
+        "description": "dev tools, env vars, task runner",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "1344",
+        "stars_today": "48"
       },
       {
         "name": "HakanSeven12/OpenCADStudio",
@@ -501,8 +447,71 @@
         "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
         "language": "Rust",
         "stars": "Star",
-        "forks": "65",
-        "stars_today": "194"
+        "forks": "77",
+        "stars_today": "87"
+      },
+      {
+        "name": "denoland/celld",
+        "url": "https://github.com/denoland/celld",
+        "description": "self-hosted, distributed Durable Objects",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "92",
+        "stars_today": "384"
+      },
+      {
+        "name": "ruvnet/RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "11868",
+        "stars_today": "156"
+      },
+      {
+        "name": "lancedb/lancedb",
+        "url": "https://github.com/lancedb/lancedb",
+        "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "996",
+        "stars_today": "8"
+      },
+      {
+        "name": "DioxusLabs/blitz",
+        "url": "https://github.com/DioxusLabs/blitz",
+        "description": "A radically modular HTML/CSS rendering engine",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "177",
+        "stars_today": "21"
+      },
+      {
+        "name": "servo/servo",
+        "url": "https://github.com/servo/servo",
+        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "3744",
+        "stars_today": "27"
+      },
+      {
+        "name": "surrealdb/surrealdb",
+        "url": "https://github.com/surrealdb/surrealdb",
+        "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "1331",
+        "stars_today": "14"
+      },
+      {
+        "name": "RustPython/RustPython",
+        "url": "https://github.com/RustPython/RustPython",
+        "description": "A Python Interpreter written in Rust",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "1471",
+        "stars_today": "9"
       },
       {
         "name": "malisper/pgrust",
@@ -511,106 +520,52 @@
         "language": "Rust",
         "stars": "Star",
         "forks": "160",
-        "stars_today": "173"
+        "stars_today": "60"
       },
       {
-        "name": "cloud-hypervisor/cloud-hypervisor",
-        "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
-        "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+        "name": "lanyeeee/bilibili-video-downloader",
+        "url": "https://github.com/lanyeeee/bilibili-video-downloader",
+        "description": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库",
         "language": "Rust",
         "stars": "Star",
-        "forks": "733",
-        "stars_today": "12"
+        "forks": "113",
+        "stars_today": "9"
       },
       {
-        "name": "rivet-dev/rivet",
-        "url": "https://github.com/rivet-dev/rivet",
-        "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
+        "name": "microsoft/mxc",
+        "url": "https://github.com/microsoft/mxc",
+        "description": "Policy-driven, layered isolation and containment",
         "language": "Rust",
         "stars": "Star",
-        "forks": "212",
-        "stars_today": "111"
+        "forks": "61",
+        "stars_today": "5"
       },
       {
-        "name": "jdx/mise",
-        "url": "https://github.com/jdx/mise",
-        "description": "dev tools, env vars, task runner",
+        "name": "louis-e/arnis",
+        "url": "https://github.com/louis-e/arnis",
+        "description": "Generate any location from the real world in Minecraft with a high level of detail.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "1342",
-        "stars_today": "164"
+        "forks": "1448",
+        "stars_today": "32"
       },
       {
-        "name": "GCWing/BitFun",
-        "url": "https://github.com/GCWing/BitFun",
-        "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+        "name": "juspay/hyperswitch",
+        "url": "https://github.com/juspay/hyperswitch",
+        "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
         "language": "Rust",
         "stars": "Star",
-        "forks": "179",
-        "stars_today": "49"
+        "forks": "5024",
+        "stars_today": "15"
       },
       {
-        "name": "zed-industries/zed",
-        "url": "https://github.com/zed-industries/zed",
-        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "name": "Pumpkin-MC/Pumpkin",
+        "url": "https://github.com/Pumpkin-MC/Pumpkin",
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "9942",
-        "stars_today": "70"
-      },
-      {
-        "name": "iii-hq/iii",
-        "url": "https://github.com/iii-hq/iii",
-        "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "1245",
-        "stars_today": "12"
-      },
-      {
-        "name": "dmtrKovalenko/fff",
-        "url": "https://github.com/dmtrKovalenko/fff",
-        "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "408",
-        "stars_today": "11"
-      },
-      {
-        "name": "farion1231/cc-switch",
-        "url": "https://github.com/farion1231/cc-switch",
-        "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "8556",
-        "stars_today": "272"
-      },
-      {
-        "name": "swc-project/swc",
-        "url": "https://github.com/swc-project/swc",
-        "description": "Rust-based platform for the Web",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "1536",
-        "stars_today": "2"
-      },
-      {
-        "name": "rustdesk/rustdesk",
-        "url": "https://github.com/rustdesk/rustdesk",
-        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "18350",
-        "stars_today": "75"
-      },
-      {
-        "name": "rtk-ai/rtk",
-        "url": "https://github.com/rtk-ai/rtk",
-        "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-        "language": "Rust",
-        "stars": "Star",
-        "forks": "4738",
-        "stars_today": "104"
+        "forks": "722",
+        "stars_today": "13"
       },
       {
         "name": "claration/Impactor",
@@ -618,17 +573,26 @@
         "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "172",
-        "stars_today": "9"
+        "forks": "173",
+        "stars_today": "26"
       },
       {
-        "name": "ClementTsang/bottom",
-        "url": "https://github.com/ClementTsang/bottom",
-        "description": "Yet another cross-platform graphical process/system monitor.",
+        "name": "rustfs/rustfs",
+        "url": "https://github.com/rustfs/rustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "stars": "Star",
-        "forks": "370",
-        "stars_today": "8"
+        "forks": "1374",
+        "stars_today": "37"
+      },
+      {
+        "name": "Kuberwastaken/claurst",
+        "url": "https://github.com/Kuberwastaken/claurst",
+        "description": "Agentic Coding for Builders who Ship",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "7785",
+        "stars_today": "6"
       }
     ],
     "java": [
@@ -638,107 +602,35 @@
         "description": "Google core libraries for Java",
         "language": "Java",
         "stars": "Star",
-        "forks": "11180",
-        "stars_today": "93"
+        "forks": "11193",
+        "stars_today": "77"
       },
       {
-        "name": "spring-projects/spring-ai",
-        "url": "https://github.com/spring-projects/spring-ai",
-        "description": "An Application Framework for AI Engineering",
+        "name": "termux/termux-app",
+        "url": "https://github.com/termux/termux-app",
+        "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
         "language": "Java",
         "stars": "Star",
-        "forks": "2807",
-        "stars_today": "6"
+        "forks": "7167",
+        "stars_today": "68"
       },
       {
-        "name": "kdn251/interviews",
-        "url": "https://github.com/kdn251/interviews",
-        "description": "Everything you need to know to get the job.",
+        "name": "Creators-of-Create/Create",
+        "url": "https://github.com/Creators-of-Create/Create",
+        "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
         "language": "Java",
         "stars": "Star",
-        "forks": "12902",
+        "forks": "1376",
         "stars_today": "5"
       },
       {
-        "name": "spring-projects/spring-framework",
-        "url": "https://github.com/spring-projects/spring-framework",
-        "description": "Spring Framework",
+        "name": "TeamNewPipe/NewPipe",
+        "url": "https://github.com/TeamNewPipe/NewPipe",
+        "description": "A libre lightweight streaming front-end for Android.",
         "language": "Java",
         "stars": "Star",
-        "forks": "38800",
-        "stars_today": "12"
-      },
-      {
-        "name": "Mininglamp-OSS/octo-android",
-        "url": "https://github.com/Mininglamp-OSS/octo-android",
-        "description": "OCTO Android Client — Open-source enterprise IM",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "54",
-        "stars_today": "33"
-      },
-      {
-        "name": "agentscope-ai/agentscope-java",
-        "url": "https://github.com/agentscope-ai/agentscope-java",
-        "description": "Build distributed, production-grade, long-running agents.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "1140",
-        "stars_today": "11"
-      },
-      {
-        "name": "anddea/revanced-patches",
-        "url": "https://github.com/anddea/revanced-patches",
-        "description": "🧩 Patches for ReVanced",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "103",
-        "stars_today": "1"
-      },
-      {
-        "name": "YunaiV/ruoyi-vue-pro",
-        "url": "https://github.com/YunaiV/ruoyi-vue-pro",
-        "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "8350",
-        "stars_today": "22"
-      },
-      {
-        "name": "thingsboard/thingsboard",
-        "url": "https://github.com/thingsboard/thingsboard",
-        "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "6403",
-        "stars_today": "7"
-      },
-      {
-        "name": "apache/cloudstack",
-        "url": "https://github.com/apache/cloudstack",
-        "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "1364",
-        "stars_today": "3"
-      },
-      {
-        "name": "micrometer-metrics/micrometer",
-        "url": "https://github.com/micrometer-metrics/micrometer",
-        "description": "An application observability facade for the most popular observability tools. Think SLF4J, but for observability.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "1127",
-        "stars_today": "0"
-      },
-      {
-        "name": "doocs/leetcode",
-        "url": "https://github.com/doocs/leetcode",
-        "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "9478",
-        "stars_today": "3"
+        "forks": "3717",
+        "stars_today": "17"
       },
       {
         "name": "NationalSecurityAgency/ghidra",
@@ -746,53 +638,116 @@
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
         "stars": "Star",
-        "forks": "7893",
-        "stars_today": "69"
+        "forks": "7894",
+        "stars_today": "46"
       },
       {
-        "name": "apache/incubator-seata",
-        "url": "https://github.com/apache/incubator-seata",
-        "description": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+        "name": "RikkaApps/Shizuku-API",
+        "url": "https://github.com/RikkaApps/Shizuku-API",
+        "description": "The API and the developer guide for Shizuku and Sui.",
         "language": "Java",
         "stars": "Star",
-        "forks": "8859",
-        "stars_today": "0"
+        "forks": "1059",
+        "stars_today": "5"
       },
       {
-        "name": "zalexdev/strykerapp",
-        "url": "https://github.com/zalexdev/strykerapp",
-        "description": "Magic tool for pentest from your android device!",
+        "name": "CaffeineMC/sodium",
+        "url": "https://github.com/CaffeineMC/sodium",
+        "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter",
         "language": "Java",
         "stars": "Star",
-        "forks": "150",
+        "forks": "962",
+        "stars_today": "4"
+      },
+      {
+        "name": "microg/GmsCore",
+        "url": "https://github.com/microg/GmsCore",
+        "description": "Free implementation of Play Services",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "3020",
+        "stars_today": "13"
+      },
+      {
+        "name": "termux/termux-boot",
+        "url": "https://github.com/termux/termux-boot",
+        "description": "Termux add-on app allowing programs to be run at boot.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "379",
+        "stars_today": "1"
+      },
+      {
+        "name": "checkstyle/checkstyle",
+        "url": "https://github.com/checkstyle/checkstyle",
+        "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "4155",
+        "stars_today": "1"
+      },
+      {
+        "name": "Anuken/Mindustry",
+        "url": "https://github.com/Anuken/Mindustry",
+        "description": "The automation tower defense RTS",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "3725",
+        "stars_today": "18"
+      },
+      {
+        "name": "conductor-oss/conductor",
+        "url": "https://github.com/conductor-oss/conductor",
+        "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "982",
+        "stars_today": "5"
+      },
+      {
+        "name": "languagetool-org/languagetool",
+        "url": "https://github.com/languagetool-org/languagetool",
+        "description": "Style and Grammar Checker for 25+ Languages",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "1553",
+        "stars_today": "4"
+      },
+      {
+        "name": "LSPosed/LSPosed",
+        "url": "https://github.com/LSPosed/LSPosed",
+        "description": "LSPosed Framework",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "3579",
+        "stars_today": "12"
+      },
+      {
+        "name": "navinreddy20/Javacode",
+        "url": "https://github.com/navinreddy20/Javacode",
+        "description": "",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "930",
+        "stars_today": "2"
+      },
+      {
+        "name": "shmykelsa/AAAD",
+        "url": "https://github.com/shmykelsa/AAAD",
+        "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "307",
         "stars_today": "3"
       },
       {
-        "name": "booklore-app/booklore",
-        "url": "https://github.com/booklore-app/booklore",
-        "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
+        "name": "AndroidIDEOfficial/AndroidIDE",
+        "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+        "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
         "language": "Java",
         "stars": "Star",
-        "forks": "63",
-        "stars_today": "36"
-      },
-      {
-        "name": "opensearch-project/OpenSearch",
-        "url": "https://github.com/opensearch-project/OpenSearch",
-        "description": "🔎 Open source distributed and RESTful search engine.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "2888",
-        "stars_today": "6"
-      },
-      {
-        "name": "apache/fluss",
-        "url": "https://github.com/apache/fluss",
-        "description": "Apache Fluss is a streaming storage built for real-time analytics.",
-        "language": "Java",
-        "stars": "Star",
-        "forks": "597",
-        "stars_today": "6"
+        "forks": "610",
+        "stars_today": "1"
       }
     ],
     "typescript": [
@@ -802,8 +757,8 @@
         "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "859",
-        "stars_today": "2,483"
+        "forks": "1155",
+        "stars_today": "2,356"
       },
       {
         "name": "pingdotgg/t3code",
@@ -811,53 +766,35 @@
         "description": "",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "3950",
-        "stars_today": "182"
+        "forks": "4012",
+        "stars_today": "163"
       },
       {
-        "name": "can1357/oh-my-pi",
-        "url": "https://github.com/can1357/oh-my-pi",
-        "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+        "name": "diegosouzapw/OmniRoute",
+        "url": "https://github.com/diegosouzapw/OmniRoute",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "2190",
-        "stars_today": "235"
+        "forks": "5957",
+        "stars_today": "833"
       },
       {
-        "name": "heygen-com/hyperframes",
-        "url": "https://github.com/heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
+        "name": "JCodesMore/ai-website-cloner-template",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "description": "Clone any website with one command using AI coding agents",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "3817",
-        "stars_today": "157"
+        "forks": "4571",
+        "stars_today": "206"
       },
       {
-        "name": "open-metadata/OpenMetadata",
-        "url": "https://github.com/open-metadata/OpenMetadata",
-        "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+        "name": "openclaw/openclaw",
+        "url": "https://github.com/openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "2301",
-        "stars_today": "22"
-      },
-      {
-        "name": "remnawave/panel",
-        "url": "https://github.com/remnawave/panel",
-        "description": "A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "278",
-        "stars_today": "27"
-      },
-      {
-        "name": "danielmiessler/LifeOS",
-        "url": "https://github.com/danielmiessler/LifeOS",
-        "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-        "language": "TypeScript",
-        "stars": "Star",
-        "forks": "2337",
-        "stars_today": "57"
+        "forks": "81071",
+        "stars_today": "180"
       },
       {
         "name": "cloudflare/computer",
@@ -865,288 +802,407 @@
         "description": "Give your agent a computer 👾",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "335",
-        "stars_today": "1,045"
+        "forks": "363",
+        "stars_today": "501"
       },
       {
-        "name": "anomalyco/opencode",
-        "url": "https://github.com/anomalyco/opencode",
-        "description": "The open source coding agent.",
+        "name": "nitrojs/nitro",
+        "url": "https://github.com/nitrojs/nitro",
+        "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "24973",
-        "stars_today": "381"
+        "forks": "886",
+        "stars_today": "16"
       },
       {
-        "name": "tashfeenahmed/freellmapi",
-        "url": "https://github.com/tashfeenahmed/freellmapi",
-        "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "name": "github/docs",
+        "url": "https://github.com/github/docs",
+        "description": "The open-source repo for docs.github.com",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "2650",
-        "stars_today": "88"
+        "forks": "68213",
+        "stars_today": "14"
       },
       {
-        "name": "jordanrendric/claude-video-vision",
-        "url": "https://github.com/jordanrendric/claude-video-vision",
-        "description": "Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis",
+        "name": "fosrl/pangolin",
+        "url": "https://github.com/fosrl/pangolin",
+        "description": "Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "142",
-        "stars_today": "25"
+        "forks": "750",
+        "stars_today": "48"
       },
       {
-        "name": "Dokploy/dokploy",
-        "url": "https://github.com/Dokploy/dokploy",
-        "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+        "name": "amruthpillai/reactive-resume",
+        "url": "https://github.com/amruthpillai/reactive-resume",
+        "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "2835",
-        "stars_today": "23"
+        "forks": "4576",
+        "stars_today": "46"
       },
       {
-        "name": "clash-verge-rev/clash-verge-rev",
-        "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "name": "browseros-ai/BrowserOS",
+        "url": "https://github.com/browseros-ai/BrowserOS",
+        "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "9841",
-        "stars_today": "315"
+        "forks": "1379",
+        "stars_today": "76"
       },
       {
-        "name": "firecrawl/firecrawl",
-        "url": "https://github.com/firecrawl/firecrawl",
-        "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+        "name": "danielmiessler/LifeOS",
+        "url": "https://github.com/danielmiessler/LifeOS",
+        "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
         "language": "TypeScript",
         "stars": "Star",
-        "forks": "9192",
-        "stars_today": "531"
+        "forks": "2356",
+        "stars_today": "143"
+      },
+      {
+        "name": "yikart/AiToEarn",
+        "url": "https://github.com/yikart/AiToEarn",
+        "description": "Let's use AI to Earn!",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "3957",
+        "stars_today": "48"
+      },
+      {
+        "name": "InsForge/InsForge",
+        "url": "https://github.com/InsForge/InsForge",
+        "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1125",
+        "stars_today": "11"
+      },
+      {
+        "name": "Mininglamp-OSS/octo-web",
+        "url": "https://github.com/Mininglamp-OSS/octo-web",
+        "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "99",
+        "stars_today": "83"
+      },
+      {
+        "name": "garrytan/gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "19158",
+        "stars_today": "204"
+      },
+      {
+        "name": "CodebuffAI/freebuff",
+        "url": "https://github.com/CodebuffAI/freebuff",
+        "description": "The free coding agent",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1023",
+        "stars_today": "93"
+      },
+      {
+        "name": "lissy93/web-check",
+        "url": "https://github.com/lissy93/web-check",
+        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "2819",
+        "stars_today": "19"
+      },
+      {
+        "name": "DayuanJiang/next-ai-draw-io",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "3713",
+        "stars_today": "105"
       }
     ]
   },
   "hackernews": [
     {
-      "id": 49226636,
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "score": 79,
-      "author": "seg6",
-      "time": "2026-08-08 22:49:23",
-      "timestamp": 1786229363,
-      "comments": 34,
-      "hn_url": "https://news.ycombinator.com/item?id=49226636"
+      "id": 49234675,
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 400,
+      "author": "laurentiurad",
+      "time": "2026-08-09 19:16:49",
+      "timestamp": 1786303009,
+      "comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=49234675"
     },
     {
-      "id": 49079995,
-      "title": "Improving Heuristics for A* Pathfinding",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "id": 49238050,
+      "title": "How We Pushed CDC into Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "score": 7,
+      "author": "craigkerstiens",
+      "time": "2026-08-10 01:01:34",
+      "timestamp": 1786323694,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49238050"
+    },
+    {
+      "id": 49235641,
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "score": 71,
+      "author": "berghoffer",
+      "time": "2026-08-09 20:42:29",
+      "timestamp": 1786308149,
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49235641"
+    },
+    {
+      "id": 49231154,
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "score": 556,
+      "author": "satvikpendem",
+      "time": "2026-08-09 13:20:43",
+      "timestamp": 1786281643,
+      "comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=49231154"
+    },
+    {
+      "id": 49205793,
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "score": 23,
+      "author": "Thevet",
+      "time": "2026-08-07 04:04:56",
+      "timestamp": 1786075496,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49205793"
+    },
+    {
+      "id": 49233423,
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "score": 166,
+      "author": "david927",
+      "time": "2026-08-09 17:23:22",
+      "timestamp": 1786296202,
+      "comments": 625,
+      "hn_url": "https://news.ycombinator.com/item?id=49233423"
+    },
+    {
+      "id": 49232253,
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "score": 179,
+      "author": "jader201",
+      "time": "2026-08-09 15:21:46",
+      "timestamp": 1786288906,
+      "comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49232253"
+    },
+    {
+      "id": 49235697,
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
       "score": 44,
-      "author": "bobbiechen",
-      "time": "2026-07-28 06:04:42",
-      "timestamp": 1785218682,
-      "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49079995"
-    },
-    {
-      "id": 49223082,
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 317,
-      "author": "groomlake",
-      "time": "2026-08-08 16:04:51",
-      "timestamp": 1786205091,
-      "comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=49223082"
-    },
-    {
-      "id": 49226536,
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "score": 25,
-      "author": "adletbalzhanov",
-      "time": "2026-08-08 22:32:50",
-      "timestamp": 1786228370,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49226536"
-    },
-    {
-      "id": 49221668,
-      "title": "_for-sale DNS records",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 345,
-      "author": "shaunpud",
-      "time": "2026-08-08 13:26:51",
-      "timestamp": 1786195611,
-      "comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=49221668"
-    },
-    {
-      "id": 49179352,
-      "title": "The Sound and Music of 'Hyper Light Drifter' [video]",
-      "url": "https://gdcvault.com/play/1024135/The-Sound-and-Music-of",
-      "score": 12,
-      "author": "hyperific",
-      "time": "2026-08-05 06:42:07",
-      "timestamp": 1785912127,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49179352"
-    },
-    {
-      "id": 49225139,
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-      "score": 87,
-      "author": "MarcoDewey",
-      "time": "2026-08-08 19:38:08",
-      "timestamp": 1786217888,
-      "comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=49225139"
-    },
-    {
-      "id": 49180649,
-      "title": "Making difficulty curves in games",
-      "url": "http://www.davetech.co.uk/difficultycurves",
-      "score": 56,
-      "author": "hakkikonu",
-      "time": "2026-08-05 09:59:34",
-      "timestamp": 1785923974,
-      "comments": 16,
-      "hn_url": "https://news.ycombinator.com/item?id=49180649"
-    },
-    {
-      "id": 49226827,
-      "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
-      "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
-      "score": 16,
-      "author": "like_any_other",
-      "time": "2026-08-08 23:19:44",
-      "timestamp": 1786231184,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49226827"
-    },
-    {
-      "id": 49223079,
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-      "score": 159,
-      "author": "gumby",
-      "time": "2026-08-08 16:04:36",
-      "timestamp": 1786205076,
-      "comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49223079"
-    },
-    {
-      "id": 49226923,
-      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "url": "https://os8088.com/",
-      "score": 21,
-      "author": "jggonz",
-      "time": "2026-08-08 23:37:27",
-      "timestamp": 1786232247,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49226923"
-    },
-    {
-      "id": 49220126,
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "score": 383,
-      "author": "bhavansig",
-      "time": "2026-08-08 09:18:50",
-      "timestamp": 1786180730,
-      "comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=49220126"
-    },
-    {
-      "id": 49220609,
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 335,
-      "author": "882542F3884314B",
-      "time": "2026-08-08 10:57:44",
-      "timestamp": 1786186664,
-      "comments": 346,
-      "hn_url": "https://news.ycombinator.com/item?id=49220609"
-    },
-    {
-      "id": 49226742,
-      "title": "Dithered QR Codes",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "score": 14,
-      "author": "jmusall",
-      "time": "2026-08-08 23:05:24",
-      "timestamp": 1786230324,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49226742"
-    },
-    {
-      "id": 49133850,
-      "title": "Building a local positioning system to track runners using Ultra-Wideband",
-      "url": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
-      "score": 41,
-      "author": "robinpdev",
-      "time": "2026-08-01 12:30:10",
-      "timestamp": 1785587410,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49133850"
-    },
-    {
-      "id": 49221711,
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "score": 136,
-      "author": "electricant",
-      "time": "2026-08-08 13:33:06",
-      "timestamp": 1786195986,
-      "comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=49221711"
-    },
-    {
-      "id": 49169973,
-      "title": "Preventing Misfolding by Preventing Folding",
-      "url": "https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding",
-      "score": 41,
-      "author": "surprisetalk",
-      "time": "2026-08-04 15:03:23",
-      "timestamp": 1785855803,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49169973"
-    },
-    {
-      "id": 49220339,
-      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-      "score": 241,
-      "author": "rbanffy",
-      "time": "2026-08-08 10:04:25",
-      "timestamp": 1786183465,
-      "comments": 387,
-      "hn_url": "https://news.ycombinator.com/item?id=49220339"
-    },
-    {
-      "id": 49225918,
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-      "score": 83,
-      "author": "bookofjoe",
-      "time": "2026-08-08 21:07:10",
-      "timestamp": 1786223230,
-      "comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=49225918"
-    },
-    {
-      "id": 49224020,
-      "title": "TinySol, a tiny solitaire game for DOS",
-      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-      "score": 46,
-      "author": "skibz",
-      "time": "2026-08-08 17:42:40",
-      "timestamp": 1786210960,
+      "author": "smartmic",
+      "time": "2026-08-09 20:48:46",
+      "timestamp": 1786308526,
       "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=49224020"
+      "hn_url": "https://news.ycombinator.com/item?id=49235697"
+    },
+    {
+      "id": 49231809,
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "score": 182,
+      "author": "Klaster_1",
+      "time": "2026-08-09 14:32:53",
+      "timestamp": 1786285973,
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49231809"
+    },
+    {
+      "id": 49203626,
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
+      "score": 32,
+      "author": "jackdoe",
+      "time": "2026-08-06 22:41:24",
+      "timestamp": 1786056084,
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49203626"
+    },
+    {
+      "id": 49235011,
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "score": 72,
+      "author": "simonpure",
+      "time": "2026-08-09 19:43:52",
+      "timestamp": 1786304632,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49235011"
+    },
+    {
+      "id": 49182148,
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "score": 7,
+      "author": "klaussilveira",
+      "time": "2026-08-05 12:52:00",
+      "timestamp": 1785934320,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49182148"
+    },
+    {
+      "id": 49234271,
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "url": "https://mynoise.net/vlog.php?ep=20260803",
+      "score": 76,
+      "author": "gregsadetsky",
+      "time": "2026-08-09 18:41:35",
+      "timestamp": 1786300895,
+      "comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=49234271"
+    },
+    {
+      "id": 49230477,
+      "title": "Everything you do is being recorded",
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "score": 203,
+      "author": "ike_usawa",
+      "time": "2026-08-09 11:30:48",
+      "timestamp": 1786275048,
+      "comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49230477"
+    },
+    {
+      "id": 49233448,
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "score": 103,
+      "author": "hexomancer",
+      "time": "2026-08-09 17:27:16",
+      "timestamp": 1786296436,
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49233448"
+    },
+    {
+      "id": 49192633,
+      "title": "Touring the Consensus, Six Months In",
+      "url": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
+      "score": 11,
+      "author": "tosh",
+      "time": "2026-08-06 04:59:47",
+      "timestamp": 1785992387,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49192633"
+    },
+    {
+      "id": 49235378,
+      "title": "The Hacker's Renaissance",
+      "url": "https://phrack.org/issues/72/19#article",
+      "score": 92,
+      "author": "yu3zhou4",
+      "time": "2026-08-09 20:18:44",
+      "timestamp": 1786306724,
+      "comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49235378"
+    },
+    {
+      "id": 49199437,
+      "title": "How Golden Is Silence, Actually?",
+      "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
+      "score": 39,
+      "author": "tintinnabula",
+      "time": "2026-08-06 17:08:04",
+      "timestamp": 1786036084,
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49199437"
+    },
+    {
+      "id": 49231397,
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "url": "https://kibotronics.net/unlisted/lilly-machines/",
+      "score": 126,
+      "author": "Kiboneu",
+      "time": "2026-08-09 13:47:36",
+      "timestamp": 1786283256,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49231397"
+    },
+    {
+      "id": 49236033,
+      "title": "Georgia police officers fired after Flock camera misuse",
+      "url": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
+      "score": 87,
+      "author": "chirau",
+      "time": "2026-08-09 21:20:24",
+      "timestamp": 1786310424,
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49236033"
     }
   ],
   "rss_feeds": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 20:35:17",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 19:20:32",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 16:05:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "author": "Kirsten Korosec"
+    },
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 15:00:00",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 14:30:00",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i...",
+      "author": "Rebecca Bellan"
+    },
+    {
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 14:00:00",
+      "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "author": "Zack Whittaker"
+    },
+    {
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "source": "TechCrunch",
+      "published": "2026-08-09 13:00:00",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "author": "Dominic-Madori Davis"
+    },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -1172,60 +1228,44 @@
       "author": "Anthony Ha"
     },
     {
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "TechCrunch",
-      "published": "2026-08-08 16:00:00",
-      "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "author": "Aisha Malik"
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "source": "The Verge",
+      "published": "2026-08-09 20:28:31",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don'...",
+      "author": "Terrence O’Brien"
     },
     {
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "source": "TechCrunch",
-      "published": "2026-08-08 15:00:00",
-      "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codena...",
-      "author": "Lorenzo Franceschi-Bicchierai"
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "source": "The Verge",
+      "published": "2026-08-09 17:20:30",
+      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon a...",
+      "author": "Terrence O’Brien"
     },
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "published": "2026-08-07 22:48:24",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro...",
-      "author": "Kirsten Korosec"
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "source": "The Verge",
+      "published": "2026-08-09 15:56:49",
+      "summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press c...",
+      "author": "Terrence O’Brien"
     },
     {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch",
-      "published": "2026-08-07 21:30:11",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "author": "Julie Bort"
+      "title": "Dropbox is a PC builder’s best friend",
+      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "source": "The Verge",
+      "published": "2026-08-09 13:00:00",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work ...",
+      "author": "TC. Sottek"
     },
     {
-      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "source": "TechCrunch",
-      "published": "2026-08-07 21:20:00",
-      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "author": "Lucas Ropek"
-    },
-    {
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "source": "TechCrunch",
-      "published": "2026-08-07 21:00:08",
-      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-      "author": "Zack Whittaker"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-08-07 16:16:09",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo...",
-      "author": "Sarah Perez"
+      "title": "AI detectors are creating a new era of distrust",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge",
+      "published": "2026-08-09 12:00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our s...",
+      "author": "Emma Roth"
     },
     {
       "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
@@ -1268,44 +1308,12 @@
       "author": "Antonio G. Di Benedetto"
     },
     {
-      "title": "My favorite feel-good show is back",
-      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-      "source": "The Verge",
-      "published": "2026-08-08 12:00:00",
-      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Ins...",
-      "author": "David Pierce"
-    },
-    {
-      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-      "source": "The Verge",
-      "published": "2026-08-08 07:00:00",
-      "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepa...",
-      "author": "Thomas Ricker"
-    },
-    {
-      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-      "source": "The Verge",
-      "published": "2026-08-07 22:05:08",
-      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former edito...",
-      "author": "Jay Peters"
-    },
-    {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "source": "The Verge",
-      "published": "2026-08-07 20:01:51",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI...",
-      "author": "Terrence O’Brien"
-    },
-    {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge",
-      "published": "2026-08-07 18:59:46",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac...",
-      "author": "Charles Pulliam-Moore"
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "source": "Ars Technica",
+      "published": "2026-08-09 11:00:14",
+      "summary": "The massive Toba eruption seems to have had little climate impact.",
+      "author": "Jacek Krywko"
     },
     {
       "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
@@ -1378,14 +1386,6 @@
       "published": "2026-08-07 17:36:22",
       "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
       "author": "Scharon Harding"
-    },
-    {
-      "title": "How snails engineer their slime",
-      "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
-      "source": "Ars Technica",
-      "published": "2026-08-07 17:25:20",
-      "summary": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
-      "author": "Jennifer Ouellette"
     }
   ],
   "statistics": {
