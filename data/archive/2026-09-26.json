@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T03:28:30.391815",
   "date": "2026-09-26",
+  "timestamp": "2026-09-26T03:28:30.391815",
   "github_trending": {
     "python": [
       {
@@ -1144,6 +1144,116 @@
       "timestamp": 1790381493,
       "comments": 7,
       "hn_url": "https://news.ycombinator.com/item?id=49851776"
+    },
+    {
+      "id": 49819244,
+      "title": "Why didn't anybody tell me about Redis hash slots?",
+      "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+      "score": 27,
+      "author": "badrequest",
+      "time": "2026-09-23 17:07:10",
+      "timestamp": 1790183230,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49819244"
+    },
+    {
+      "id": 49777121,
+      "title": "How video games inspire great UX (2019)",
+      "url": "https://jenson.org/games/",
+      "score": 104,
+      "author": "andsoitis",
+      "time": "2026-09-20 16:00:13",
+      "timestamp": 1789920013,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49777121"
+    },
+    {
+      "id": 49851879,
+      "title": "TiddlyInstall: A universal, reusable, install system",
+      "url": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
+      "score": 5,
+      "author": "Uptrenda",
+      "time": "2026-09-26 00:29:48",
+      "timestamp": 1790382588,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49851879"
+    },
+    {
+      "id": 49849141,
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "score": 138,
+      "author": "cdrnsf",
+      "time": "2026-09-25 19:56:57",
+      "timestamp": 1790366217,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49849141"
+    },
+    {
+      "id": 49788014,
+      "title": "Show HN: Make math automatic with Mathy",
+      "url": "https://gmays.com/making-math-automatic-with-mathy/",
+      "score": 78,
+      "author": "gmays",
+      "time": "2026-09-21 14:49:05",
+      "timestamp": 1790002145,
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49788014"
+    },
+    {
+      "id": 49842462,
+      "title": "An airport cooled by natural ventilation",
+      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+      "score": 53,
+      "author": "Geekette",
+      "time": "2026-09-25 10:16:50",
+      "timestamp": 1790331410,
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=49842462"
+    },
+    {
+      "id": 49849986,
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "score": 9,
+      "author": "kdautaj",
+      "time": "2026-09-25 21:09:28",
+      "timestamp": 1790370568,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49849986"
+    },
+    {
+      "id": 49844642,
+      "title": "What happens when you analyze your favorite college football team like the CIA?",
+      "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+      "score": 45,
+      "author": "adam",
+      "time": "2026-09-25 13:47:21",
+      "timestamp": 1790344041,
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49844642"
+    },
+    {
+      "id": 49844896,
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "score": 91,
+      "author": "sbulaev",
+      "time": "2026-09-25 14:07:08",
+      "timestamp": 1790345228,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49844896"
+    },
+    {
+      "id": 49848295,
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 132,
+      "author": "behoove",
+      "time": "2026-09-25 18:37:05",
+      "timestamp": 1790361425,
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=49848295"
     }
   ],
   "rss_feeds": [
@@ -1386,12 +1496,326 @@
       "published": "2026-09-25 15:35:23",
       "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
       "author": "Eric Berger"
+    },
+    {
+      "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+      "source": "Wired",
+      "published": "2026-09-26 00:02:00",
+      "summary": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "author": "Boutayna Chokrane"
+    },
+    {
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "source": "Wired",
+      "published": "2026-09-25 20:30:40",
+      "summary": "They wanted the silicon. They got the sand.",
+      "author": "Aarian Marshall, Paresh Dave"
+    },
+    {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "source": "Wired",
+      "published": "2026-09-25 16:58:20",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "author": "Paresh Dave"
+    },
+    {
+      "title": "War Bros Didn’t Always Rule Silicon Valley",
+      "url": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
+      "source": "Wired",
+      "published": "2026-09-25 15:00:00",
+      "summary": "Some say that tech was always about the money and the military. Don’t buy that argument.",
+      "author": "Steven Levy"
+    },
+    {
+      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
+      "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
+      "source": "Wired",
+      "published": "2026-09-25 11:32:17",
+      "summary": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”",
+      "author": "Isabella Ward"
+    },
+    {
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "source": "Wired",
+      "published": "2026-09-25 11:30:00",
+      "summary": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "Party Invite Phishing Scams Are the New Missed Connections",
+      "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
+      "source": "Wired",
+      "published": "2026-09-25 11:00:00",
+      "summary": "Email scams that look like an Evite or Paperless Post invitation are meant to snatch your data. For some, they've become an excuse to reconnect with old friends or flames.",
+      "author": "Jason Parham"
+    },
+    {
+      "title": "‘Primetime’ Exposes the Ego-Driven Core of Vigilante Pedophile Hunting",
+      "url": "https://www.wired.com/story/primetime-exposes-the-ego-driven-core-of-vigilante-pedophile-hunting/",
+      "source": "Wired",
+      "published": "2026-09-25 10:45:00",
+      "summary": "Lance Oppenheim’s new film doesn’t paint Chris Hansen as a hero. The To Catch a Predator host's real-world copycats are even more reckless.",
+      "author": "Manisha Krishnan"
+    },
+    {
+      "title": "How to Record Your Screen on Any Phone",
+      "url": "https://www.wired.com/story/how-to-record-your-screen-on-any-phone/",
+      "source": "Wired",
+      "published": "2026-09-25 10:30:00",
+      "summary": "The built-in tools on your phone—as well as some inexpensive apps—let you share whatever you’re doing with others.",
+      "author": "David Nield"
+    },
+    {
+      "title": "Who Killed Paulina Borsook’s Career?",
+      "url": "https://www.wired.com/story/paulina-borsook-profile/",
+      "source": "Wired",
+      "published": "2026-09-25 10:00:00",
+      "summary": "A quarter-century ago, Borsook published a wildly prophetic, penetrating book about Silicon Valley called Cyberselfish. Then she disappeared.",
+      "author": "Tommy Craggs"
+    },
+    {
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie dete...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25 09:16:25",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly...",
+      "author": "Amit Katwala"
+    },
+    {
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25 09:00:00",
+      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught ...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-24 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-24 10:00:00",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-23 17:10:11",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announceme...",
+      "author": "Eileen Guo"
+    },
+    {
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-23 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam ...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-23 09:00:00",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "Smart glasses are already causing havoc in India",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-23 09:00:00",
+      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this...",
+      "author": "Anuj Behal"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-22 13:42:05",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live...",
+      "author": "MIT Technology Review"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "url": "https://sspai.com/post/114957",
+      "source": "少数派",
+      "published": "2026-09-25 09:30:00",
+      "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/114954",
+      "source": "少数派",
+      "published": "2026-09-24 09:30:00",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
+      "source": "少数派",
+      "published": "2026-09-24 08:20:39",
+      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "老林还年少"
+    },
+    {
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+      "url": "https://sspai.com/post/113823",
+      "source": "少数派",
+      "published": "2026-09-24 07:06:19",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "author": "SUNTRISE"
+    },
+    {
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+      "url": "https://sspai.com/post/114395",
+      "source": "少数派",
+      "published": "2026-09-24 04:15:24",
+      "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文",
+      "author": "蓬岸"
+    },
+    {
+      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
+      "url": "https://sspai.com/post/114913",
+      "source": "少数派",
+      "published": "2026-09-24 00:19:37",
+      "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+      "url": "https://sspai.com/post/114904",
+      "source": "少数派",
+      "published": "2026-09-23 09:02:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+      "url": "https://sspai.com/post/114901",
+      "source": "少数派",
+      "published": "2026-09-23 07:30:57",
+      "summary": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+      "url": "https://sspai.com/post/114211",
+      "source": "少数派",
+      "published": "2026-09-23 02:19:17",
+      "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文",
+      "author": "sha2kyou"
+    },
+    {
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+      "url": "https://sspai.com/post/114878",
+      "source": "少数派",
+      "published": "2026-09-22 14:00:00",
+      "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文",
+      "author": "waychane"
+    },
+    {
+      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+      "url": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-26 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+      "url": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-26 09:20:21",
+      "summary": "点击查看原文>",
+      "author": "作者：Leela Kumili"
+    },
+    {
+      "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
+      "url": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-25 14:18:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Daniel Curtis"
+    },
+    {
+      "title": "每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？",
+      "url": "https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-25 10:10:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Daniel Curtis"
+    },
+    {
+      "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
+      "url": "https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-25 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "云栖之后，10+阿里AI实战派将亮相QCon上海站",
+      "url": "https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-24 18:38:59",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
+      "url": "https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-24 18:11:27",
+      "summary": "点击查看原文>",
+      "author": "世界人工智能开源大赛"
+    },
+    {
+      "title": "WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题",
+      "url": "https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-24 17:25:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Craig Risi"
+    },
+    {
+      "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
+      "url": "https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-24 16:34:30",
+      "summary": "点击查看原文>",
+      "author": "王玮"
+    },
+    {
+      "title": "29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型",
+      "url": "https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-24 16:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Steef-Jan Wiggers"
     }
-  ],
-  "statistics": {
-    "github_repos": 101,
-    "hackernews_stories": 30,
-    "rss_articles": 70,
-    "total": 201
-  }
+  ]
 }
