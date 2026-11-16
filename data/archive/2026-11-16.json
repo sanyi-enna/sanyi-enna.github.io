@@ -1,0 +1,1623 @@
+{
+  "date": "2026-11-16",
+  "timestamp": "2026-11-16T04:42:43.607021",
+  "github_trending": {
+    "python": [
+      {
+        "name": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "997",
+        "stars_today": "98"
+      },
+      {
+        "name": "tradermonty/claude-trading-skills",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "1186",
+        "stars_today": "706"
+      },
+      {
+        "name": "NVIDIA/SkillEvaluator",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "248",
+        "stars_today": "122"
+      },
+      {
+        "name": "bojieli/ai-infra-book",
+        "url": "https://github.com/bojieli/ai-infra-book",
+        "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "632",
+        "stars_today": "127"
+      },
+      {
+        "name": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "3986",
+        "stars_today": "174"
+      },
+      {
+        "name": "kajisho5/ffmpeg-skill",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "534",
+        "stars_today": "331"
+      },
+      {
+        "name": "huytieu/COG-second-brain",
+        "url": "https://github.com/huytieu/COG-second-brain",
+        "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "182",
+        "stars_today": "37"
+      },
+      {
+        "name": "SnailSploit/Claude-Red",
+        "url": "https://github.com/SnailSploit/Claude-Red",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "1503",
+        "stars_today": "131"
+      },
+      {
+        "name": "HKUDS/AutoSwarm",
+        "url": "https://github.com/HKUDS/AutoSwarm",
+        "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "426",
+        "stars_today": "64"
+      },
+      {
+        "name": "PrefectHQ/fastmcp",
+        "url": "https://github.com/PrefectHQ/fastmcp",
+        "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2608",
+        "stars_today": "82"
+      },
+      {
+        "name": "fqscfqj/Y2A-Auto",
+        "url": "https://github.com/fqscfqj/Y2A-Auto",
+        "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "848",
+        "stars_today": "70"
+      },
+      {
+        "name": "andrewyng/openworker",
+        "url": "https://github.com/andrewyng/openworker",
+        "description": "",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2757",
+        "stars_today": "139"
+      },
+      {
+        "name": "ManimCommunity/manim",
+        "url": "https://github.com/ManimCommunity/manim",
+        "description": "A community-maintained Python framework for creating mathematical animations.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "3346",
+        "stars_today": "83"
+      },
+      {
+        "name": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "6244",
+        "stars_today": "86"
+      },
+      {
+        "name": "Canner/WrenAI",
+        "url": "https://github.com/Canner/WrenAI",
+        "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2109",
+        "stars_today": "46"
+      },
+      {
+        "name": "internetarchive/openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "description": "One webpage for every book ever published!",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "2114",
+        "stars_today": "6"
+      },
+      {
+        "name": "unslothai/unsloth",
+        "url": "https://github.com/unslothai/unsloth",
+        "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+        "language": "Python",
+        "stars": "Star",
+        "forks": "7420",
+        "stars_today": "61"
+      }
+    ],
+    "javascript": [
+      {
+        "name": "louislam/uptime-kuma",
+        "url": "https://github.com/louislam/uptime-kuma",
+        "description": "A fancy self-hosted monitoring tool",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "8846",
+        "stars_today": "353"
+      },
+      {
+        "name": "maillab/cloud-mail",
+        "url": "https://github.com/maillab/cloud-mail",
+        "description": "An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "23755",
+        "stars_today": "316"
+      },
+      {
+        "name": "qist/tvbox",
+        "url": "https://github.com/qist/tvbox",
+        "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "4477",
+        "stars_today": "38"
+      },
+      {
+        "name": "juliangarnier/anime",
+        "url": "https://github.com/juliangarnier/anime",
+        "description": "JavaScript animation engine",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "5108",
+        "stars_today": "99"
+      },
+      {
+        "name": "itsPLK/ps5-payload-manager",
+        "url": "https://github.com/itsPLK/ps5-payload-manager",
+        "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "81",
+        "stars_today": "4"
+      },
+      {
+        "name": "vernesong/OpenClash",
+        "url": "https://github.com/vernesong/OpenClash",
+        "description": "A Clash Client For OpenWrt",
+        "language": "JavaScript",
+        "stars": "Star",
+        "forks": "4071",
+        "stars_today": "26"
+      }
+    ],
+    "go": [
+      {
+        "name": "alibaba/open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "4146",
+        "stars_today": "691"
+      },
+      {
+        "name": "Tencent/LoopForge",
+        "url": "https://github.com/Tencent/LoopForge",
+        "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "294",
+        "stars_today": "423"
+      },
+      {
+        "name": "google/ax",
+        "url": "https://github.com/google/ax",
+        "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "794",
+        "stars_today": "31"
+      },
+      {
+        "name": "tailscale/tailcat",
+        "url": "https://github.com/tailscale/tailcat",
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "459",
+        "stars_today": "238"
+      },
+      {
+        "name": "kubescape/kubescape",
+        "url": "https://github.com/kubescape/kubescape",
+        "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1110",
+        "stars_today": "13"
+      },
+      {
+        "name": "trustwallet/assets",
+        "url": "https://github.com/trustwallet/assets",
+        "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "27646",
+        "stars_today": "2"
+      },
+      {
+        "name": "HuskerMinion/techo5",
+        "url": "https://github.com/HuskerMinion/techo5",
+        "description": "Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "119",
+        "stars_today": "22"
+      },
+      {
+        "name": "gravitational/teleport",
+        "url": "https://github.com/gravitational/teleport",
+        "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "2190",
+        "stars_today": "2"
+      },
+      {
+        "name": "XTLS/Xray-core",
+        "url": "https://github.com/XTLS/Xray-core",
+        "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "6154",
+        "stars_today": "27"
+      },
+      {
+        "name": "erigontech/erigon",
+        "url": "https://github.com/erigontech/erigon",
+        "description": "Ethereum implementation on the efficiency frontier",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1580",
+        "stars_today": "3"
+      },
+      {
+        "name": "getlago/lago",
+        "url": "https://github.com/getlago/lago",
+        "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "797",
+        "stars_today": "25"
+      },
+      {
+        "name": "mudler/LocalAI",
+        "url": "https://github.com/mudler/LocalAI",
+        "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "4610",
+        "stars_today": "13"
+      },
+      {
+        "name": "jaegertracing/jaeger",
+        "url": "https://github.com/jaegertracing/jaeger",
+        "description": "CNCF Jaeger, a Distributed Tracing Platform",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "3248",
+        "stars_today": "1"
+      },
+      {
+        "name": "black-ant/Ant-Browser",
+        "url": "https://github.com/black-ant/Ant-Browser",
+        "description": "指纹浏览器",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "358",
+        "stars_today": "9"
+      },
+      {
+        "name": "meshery/meshery",
+        "url": "https://github.com/meshery/meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "4190",
+        "stars_today": "14"
+      },
+      {
+        "name": "gohugoio/hugo",
+        "url": "https://github.com/gohugoio/hugo",
+        "description": "The world’s fastest framework for building websites.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "8475",
+        "stars_today": "10"
+      },
+      {
+        "name": "aldinokemal/go-whatsapp-web-multidevice",
+        "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+        "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+        "language": "Go",
+        "stars": "Star",
+        "forks": "1234",
+        "stars_today": "8"
+      }
+    ],
+    "rust": [
+      {
+        "name": "ModernRelay/omnigraph",
+        "url": "https://github.com/ModernRelay/omnigraph",
+        "description": "Object-storage native graph database with branching and typed ontology",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "321",
+        "stars_today": "174"
+      },
+      {
+        "name": "harry0703/MangoDisk",
+        "url": "https://github.com/harry0703/MangoDisk",
+        "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "405",
+        "stars_today": "66"
+      },
+      {
+        "name": "martin-olivier/airgorah",
+        "url": "https://github.com/martin-olivier/airgorah",
+        "description": "A WiFi security auditing software",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "1062",
+        "stars_today": "684"
+      },
+      {
+        "name": "tree-sitter/tree-sitter",
+        "url": "https://github.com/tree-sitter/tree-sitter",
+        "description": "An incremental parsing system for programming tools",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "3038",
+        "stars_today": "10"
+      },
+      {
+        "name": "aaif-goose/goose",
+        "url": "https://github.com/aaif-goose/goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "6593",
+        "stars_today": "46"
+      },
+      {
+        "name": "antithesishq/bombadil",
+        "url": "https://github.com/antithesishq/bombadil",
+        "description": "Property-based testing for web and terminal UIs",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "78",
+        "stars_today": "202"
+      },
+      {
+        "name": "yynxxxxx/Codex-X",
+        "url": "https://github.com/yynxxxxx/Codex-X",
+        "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "592",
+        "stars_today": "60"
+      },
+      {
+        "name": "dani-garcia/vaultwarden",
+        "url": "https://github.com/dani-garcia/vaultwarden",
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "3460",
+        "stars_today": "46"
+      },
+      {
+        "name": "lance-format/lance",
+        "url": "https://github.com/lance-format/lance",
+        "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "943",
+        "stars_today": "18"
+      },
+      {
+        "name": "zeronsh/zeron",
+        "url": "https://github.com/zeronsh/zeron",
+        "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "377",
+        "stars_today": "25"
+      },
+      {
+        "name": "qdrant/qdrant",
+        "url": "https://github.com/qdrant/qdrant",
+        "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloudhttps://cloud.qdrant.io/",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "2820",
+        "stars_today": "15"
+      },
+      {
+        "name": "ratatui/ratatui",
+        "url": "https://github.com/ratatui/ratatui",
+        "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀https://ratatui.rs",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "826",
+        "stars_today": "18"
+      },
+      {
+        "name": "block/buzz",
+        "url": "https://github.com/block/buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "stars": "Star",
+        "forks": "4951",
+        "stars_today": "43"
+      }
+    ],
+    "java": [
+      {
+        "name": "ashishps1/awesome-low-level-design",
+        "url": "https://github.com/ashishps1/awesome-low-level-design",
+        "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "6707",
+        "stars_today": "55"
+      },
+      {
+        "name": "HMCL-dev/HMCL",
+        "url": "https://github.com/HMCL-dev/HMCL",
+        "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "1291",
+        "stars_today": "10"
+      },
+      {
+        "name": "StarRocks/starrocks",
+        "url": "https://github.com/StarRocks/starrocks",
+        "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "2674",
+        "stars_today": "1"
+      },
+      {
+        "name": "freeok/so-novel",
+        "url": "https://github.com/freeok/so-novel",
+        "description": "小说下载｜网文下载 | 网络小说",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "764",
+        "stars_today": "17"
+      },
+      {
+        "name": "MojoLauncher/MojoLauncher",
+        "url": "https://github.com/MojoLauncher/MojoLauncher",
+        "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "565",
+        "stars_today": "1"
+      },
+      {
+        "name": "termux/termux-app",
+        "url": "https://github.com/termux/termux-app",
+        "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "8326",
+        "stars_today": "90"
+      },
+      {
+        "name": "Creators-of-Create/Create",
+        "url": "https://github.com/Creators-of-Create/Create",
+        "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "1446",
+        "stars_today": "0"
+      },
+      {
+        "name": "FIRST-Tech-Challenge/FtcRobotController",
+        "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController",
+        "description": "FTC Android Studio Workspace for robot programming in Android Studio",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "10958",
+        "stars_today": "2"
+      },
+      {
+        "name": "ModinMobileSTS/Sts2MobileLauncher",
+        "url": "https://github.com/ModinMobileSTS/Sts2MobileLauncher",
+        "description": "an unofficial sts2 mobile launcher that support mods,optimized mobile control",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "23",
+        "stars_today": "22"
+      },
+      {
+        "name": "Anuken/Mindustry",
+        "url": "https://github.com/Anuken/Mindustry",
+        "description": "The automation tower defense RTS",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "3885",
+        "stars_today": "25"
+      },
+      {
+        "name": "MewX/light-novel-library_Wenku8_Android",
+        "url": "https://github.com/MewX/light-novel-library_Wenku8_Android",
+        "description": "[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "469",
+        "stars_today": "19"
+      },
+      {
+        "name": "cabaletta/baritone",
+        "url": "https://github.com/cabaletta/baritone",
+        "description": "google maps for block game",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "2086",
+        "stars_today": "5"
+      },
+      {
+        "name": "yuliskov/SmartTube",
+        "url": "https://github.com/yuliskov/SmartTube",
+        "description": "Browse media content with your own rules on Android TV",
+        "language": "Java",
+        "stars": "Star",
+        "forks": "2331",
+        "stars_today": "29"
+      }
+    ],
+    "typescript": [
+      {
+        "name": "dream-num/univer",
+        "url": "https://github.com/dream-num/univer",
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "2403",
+        "stars_today": "988"
+      },
+      {
+        "name": "ag-ui-protocol/ag-ui",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1839",
+        "stars_today": "355"
+      },
+      {
+        "name": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1143",
+        "stars_today": "247"
+      },
+      {
+        "name": "backnotprop/plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1099",
+        "stars_today": "866"
+      },
+      {
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "4820",
+        "stars_today": "717"
+      },
+      {
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "618",
+        "stars_today": "1,219"
+      },
+      {
+        "name": "motiondivision/motion",
+        "url": "https://github.com/motiondivision/motion",
+        "description": "A modern animation library for React and JavaScript",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1549",
+        "stars_today": "76"
+      },
+      {
+        "name": "assistant-ui/assistant-ui",
+        "url": "https://github.com/assistant-ui/assistant-ui",
+        "description": "Typescript/React Library for AI Chat 💬🚀",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "1344",
+        "stars_today": "75"
+      },
+      {
+        "name": "nolly-studio/cult-ui",
+        "url": "https://github.com/nolly-studio/cult-ui",
+        "description": "Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "399",
+        "stars_today": "96"
+      },
+      {
+        "name": "simonlin1212/Vibe-Research",
+        "url": "https://github.com/simonlin1212/Vibe-Research",
+        "description": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "705",
+        "stars_today": "23"
+      },
+      {
+        "name": "elder-plinius/G0DM0D3",
+        "url": "https://github.com/elder-plinius/G0DM0D3",
+        "description": "LIBERATED AI CHAT",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "2896",
+        "stars_today": "66"
+      },
+      {
+        "name": "motion-canvas/motion-canvas",
+        "url": "https://github.com/motion-canvas/motion-canvas",
+        "description": "Visualize Your Ideas With Code",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "911",
+        "stars_today": "111"
+      },
+      {
+        "name": "tashfeenahmed/freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "language": "TypeScript",
+        "stars": "Star",
+        "forks": "7419",
+        "stars_today": "579"
+      }
+    ]
+  },
+  "hackernews": [
+    {
+      "id": 50513160,
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "score": 158,
+      "author": "zaik",
+      "time": "2026-11-16 02:04:48",
+      "timestamp": 1794794688,
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=50513160"
+    },
+    {
+      "id": 50513215,
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "score": 216,
+      "author": "ilreb",
+      "time": "2026-11-16 02:14:44",
+      "timestamp": 1794795284,
+      "comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=50513215"
+    },
+    {
+      "id": 50511395,
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "score": 217,
+      "author": "hspeiser",
+      "time": "2026-11-15 22:11:43",
+      "timestamp": 1794780703,
+      "comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=50511395"
+    },
+    {
+      "id": 50512235,
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "score": 142,
+      "author": "zdw",
+      "time": "2026-11-15 23:55:55",
+      "timestamp": 1794786955,
+      "comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=50512235"
+    },
+    {
+      "id": 50512441,
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "score": 77,
+      "author": "aillia",
+      "time": "2026-11-16 00:21:54",
+      "timestamp": 1794788514,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=50512441"
+    },
+    {
+      "id": 50511806,
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "score": 109,
+      "author": "CharlesW",
+      "time": "2026-11-15 23:00:11",
+      "timestamp": 1794783611,
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=50511806"
+    },
+    {
+      "id": 50509837,
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "score": 229,
+      "author": "bcye",
+      "time": "2026-11-15 19:26:22",
+      "timestamp": 1794770782,
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=50509837"
+    },
+    {
+      "id": 50512824,
+      "title": "Coles hit by a cybersecurity incident",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "score": 76,
+      "author": "sagunsh",
+      "time": "2026-11-16 01:14:35",
+      "timestamp": 1794791675,
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=50512824"
+    },
+    {
+      "id": 50509308,
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 199,
+      "author": "nharada",
+      "time": "2026-11-15 18:23:21",
+      "timestamp": 1794767001,
+      "comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=50509308"
+    },
+    {
+      "id": 50479405,
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "score": 13,
+      "author": "mutexjp",
+      "time": "2026-11-13 06:58:41",
+      "timestamp": 1794553121,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50479405"
+    },
+    {
+      "id": 50484998,
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "url": "https://www.paradedb.com/blog/joins",
+      "score": 39,
+      "author": "philippemnoel",
+      "time": "2026-11-13 15:31:50",
+      "timestamp": 1794583910,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50484998"
+    },
+    {
+      "id": 50506719,
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "score": 438,
+      "author": "MacAnorak",
+      "time": "2026-11-15 13:15:22",
+      "timestamp": 1794748522,
+      "comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=50506719"
+    },
+    {
+      "id": 50509972,
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "score": 179,
+      "author": "coinfused",
+      "time": "2026-11-15 19:42:13",
+      "timestamp": 1794771733,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=50509972"
+    },
+    {
+      "id": 50509023,
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "score": 194,
+      "author": "gumby",
+      "time": "2026-11-15 17:53:31",
+      "timestamp": 1794765211,
+      "comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=50509023"
+    },
+    {
+      "id": 50513451,
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "score": 29,
+      "author": "eks391",
+      "time": "2026-11-16 02:53:30",
+      "timestamp": 1794797610,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50513451"
+    },
+    {
+      "id": 50510296,
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "score": 106,
+      "author": "ranger_danger",
+      "time": "2026-11-15 20:20:05",
+      "timestamp": 1794774005,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50510296"
+    },
+    {
+      "id": 50463399,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 377,
+      "author": "envoked",
+      "time": "2026-11-12 05:29:24",
+      "timestamp": 1794461364,
+      "comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=50463399"
+    },
+    {
+      "id": 50512231,
+      "title": "Mini.nvim Is Now on Tangled",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "score": 45,
+      "author": "nerdypepper",
+      "time": "2026-11-15 23:55:41",
+      "timestamp": 1794786941,
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50512231"
+    },
+    {
+      "id": 50506894,
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "score": 215,
+      "author": "ksec",
+      "time": "2026-11-15 13:44:16",
+      "timestamp": 1794750256,
+      "comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=50506894"
+    },
+    {
+      "id": 50490583,
+      "title": "1900s How do you Wash a Kimono?",
+      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
+      "score": 39,
+      "author": "Matrixik",
+      "time": "2026-11-13 22:03:41",
+      "timestamp": 1794607421,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=50490583"
+    },
+    {
+      "id": 50509411,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "score": 450,
+      "author": "DeepLogin",
+      "time": "2026-11-15 18:36:10",
+      "timestamp": 1794767770,
+      "comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=50509411"
+    },
+    {
+      "id": 50506376,
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "score": 219,
+      "author": "vismit2000",
+      "time": "2026-11-15 12:14:06",
+      "timestamp": 1794744846,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=50506376"
+    },
+    {
+      "id": 50485275,
+      "title": "Artificial Intelligence for the Z80",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "score": 10,
+      "author": "AlexeyBrin",
+      "time": "2026-11-13 15:50:43",
+      "timestamp": 1794585043,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50485275"
+    },
+    {
+      "id": 50511718,
+      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "url": "https://lastcomplication.com/",
+      "score": 63,
+      "author": "tdeangelis",
+      "time": "2026-11-15 22:48:52",
+      "timestamp": 1794782932,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=50511718"
+    },
+    {
+      "id": 50486880,
+      "title": "A quest to create the perfect whiskey glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "score": 57,
+      "author": "Kaibeezy",
+      "time": "2026-11-13 17:37:32",
+      "timestamp": 1794591452,
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=50486880"
+    },
+    {
+      "id": 50509416,
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "score": 77,
+      "author": "gregsadetsky",
+      "time": "2026-11-15 18:36:40",
+      "timestamp": 1794767800,
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50509416"
+    },
+    {
+      "id": 50508715,
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "score": 118,
+      "author": "molenzwiebel",
+      "time": "2026-11-15 17:22:32",
+      "timestamp": 1794763352,
+      "comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=50508715"
+    },
+    {
+      "id": 50513843,
+      "title": "Linux was created as a rejection of robust software architecture and tools",
+      "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+      "score": 10,
+      "author": "privacyishuman",
+      "time": "2026-11-16 03:58:04",
+      "timestamp": 1794801484,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=50513843"
+    },
+    {
+      "id": 50507553,
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "score": 190,
+      "author": "nyc111",
+      "time": "2026-11-15 15:21:21",
+      "timestamp": 1794756081,
+      "comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=50507553"
+    },
+    {
+      "id": 50452621,
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "score": 84,
+      "author": "the-mitr",
+      "time": "2026-11-11 12:25:42",
+      "timestamp": 1794399942,
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=50452621"
+    }
+  ],
+  "rss_feeds": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "published": "2026-11-16 01:30:00",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "author": "Ivan Mehta"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 23:30:00",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "author": "Jagmeet Singh"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 21:56:35",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 20:20:57",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 18:29:14",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 17:05:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "author": "Kirsten Korosec"
+    },
+    {
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 16:00:00",
+      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "author": "Amanda Silberling"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "published": "2026-11-15 00:08:07",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin...",
+      "author": "Connie Loizos"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-14 21:41:22",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "published": "2026-11-14 20:04:44",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "author": "Anthony Ha"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "published": "2026-11-16 01:26:56",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t...",
+      "author": "Andrew Liszewski"
+    },
+    {
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "source": "The Verge",
+      "published": "2026-11-15 21:49:22",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Sna...",
+      "author": "Terrence O’Brien"
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "published": "2026-11-15 21:05:02",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's ...",
+      "author": "Terrence O’Brien"
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "published": "2026-11-15 20:43:49",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of ne...",
+      "author": "Terrence O’Brien"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published": "2026-11-15 19:15:43",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic...",
+      "author": "Terrence O’Brien"
+    },
+    {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-15 17:00:00",
+      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric...",
+      "author": "Sheena Vasani"
+    },
+    {
+      "title": "Apple’s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "published": "2026-11-15 16:59:16",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June'...",
+      "author": "Terrence O’Brien"
+    },
+    {
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "source": "The Verge",
+      "published": "2026-11-15 16:00:00",
+      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury woo...",
+      "author": "Terrence O’Brien"
+    },
+    {
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-15 14:00:00",
+      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today,...",
+      "author": "Sheena Vasani"
+    },
+    {
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "source": "The Verge",
+      "published": "2026-11-15 13:57:30",
+      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our c...",
+      "author": "David Pierce"
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "published": "2026-11-15 23:11:54",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "author": "Stephen Clark"
+    },
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "source": "Ars Technica",
+      "published": "2026-11-15 12:07:34",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "author": "Yook Ji Hun"
+    },
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "source": "Ars Technica",
+      "published": "2026-11-15 00:40:59",
+      "summary": "It felt like stepping into the future.",
+      "author": "Eric Berger"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "source": "Ars Technica",
+      "published": "2026-11-14 12:15:48",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "author": "Jacek Krywko"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "source": "Ars Technica",
+      "published": "2026-11-14 12:05:51",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "author": "Hannah V. Herrero, Erin L. Bunting, Jane Southworth, Jason K. Blackburn, and Stephanie Insalaco-Wyner, The Conversation"
+    },
+    {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "source": "Ars Technica",
+      "published": "2026-11-14 00:49:13",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "author": "Eric Berger"
+    },
+    {
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "published": "2026-11-13 23:17:38",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "author": "Eric Bangeman"
+    },
+    {
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "source": "Ars Technica",
+      "published": "2026-11-13 21:59:01",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "author": "Beth Mole"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "published": "2026-11-13 21:20:47",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "author": "Jeremy Hsu"
+    },
+    {
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "source": "Ars Technica",
+      "published": "2026-11-13 20:03:13",
+      "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+      "author": "Jacek Krywko"
+    },
+    {
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "url": "https://www.wired.com/story/best-paper-planners/",
+      "source": "Wired",
+      "published": "2026-11-15 12:01:00",
+      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "source": "Wired",
+      "published": "2026-11-15 12:00:00",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "author": "Reece Rogers"
+    },
+    {
+      "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+      "url": "https://www.wired.com/review/evercade-nexus/",
+      "source": "Wired",
+      "published": "2026-11-15 11:30:00",
+      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
+      "author": "Matt Kamen"
+    },
+    {
+      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+      "url": "https://www.wired.com/review/logitech-yeti-2/",
+      "source": "Wired",
+      "published": "2026-11-15 11:30:00",
+      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
+      "author": "Henri Robbins"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "source": "Wired",
+      "published": "2026-11-15 11:00:00",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "author": "Julian Chokkattu"
+    },
+    {
+      "title": "It’s Getting Too Dry for Even Cactuses to Survive",
+      "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+      "source": "Wired",
+      "published": "2026-11-15 10:30:00",
+      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+      "author": "Matt Simon"
+    },
+    {
+      "title": "M6 Mac Mini Early Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+      "source": "Wired",
+      "published": "2026-11-15 10:00:00",
+      "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
+      "author": "Luke Larsen"
+    },
+    {
+      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+      "source": "Wired",
+      "published": "2026-11-15 10:00:00",
+      "summary": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "author": "Ritsuko Kawai"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired",
+      "published": "2026-11-14 13:00:00",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "author": "Matt Burgess, Lily Hay Newman"
+    },
+    {
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "source": "Wired",
+      "published": "2026-11-14 12:05:00",
+      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get th...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13 10:00:00",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people ...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13 10:00:00",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me...",
+      "author": "Aaron Zamost"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-12 20:16:24",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-12 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of d...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-11 17:00:00",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-11 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huck...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10 13:00:00",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ...",
+      "author": "Outokumpu"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09 19:35:33",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+      "url": "https://sspai.com/post/119012",
+      "source": "少数派",
+      "published": "2026-11-16 02:52:11",
+      "summary": "能切换老设备音质的媒体播放器。查看全文",
+      "author": "西鸽"
+    },
+    {
+      "title": "派早报：逾十万人次联署要求黄仁勋复职",
+      "url": "https://sspai.com/post/119119",
+      "source": "少数派",
+      "published": "2026-11-15 23:24:34",
+      "summary": "逾十万人次联署要求黄仁勋复职Microsoft 365 服务在 19 小时全球宕机后恢复国产前沿模型携带 Blackwell GPU 特征线缆更换导致全美飞机停飞流媒体用户抱怨更难找到想看作品特斯拉 Cybercab 订阅协议包含苛刻条款看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+      "url": "https://sspai.com/post/118392",
+      "source": "少数派",
+      "published": "2026-11-15 07:55:16",
+      "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？查看全文",
+      "author": "尹颍"
+    },
+    {
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "url": "https://sspai.com/post/118276",
+      "source": "少数派",
+      "published": "2026-11-14 07:40:21",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "author": "随便好啦"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/118999",
+      "source": "少数派",
+      "published": "2026-11-13 09:39:22",
+      "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "url": "https://sspai.com/post/118153",
+      "source": "少数派",
+      "published": "2026-11-13 07:00:00",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+      "author": "胡拉图说"
+    },
+    {
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "published": "2026-11-13 03:35:48",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文",
+      "author": "Tw93"
+    },
+    {
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "url": "https://sspai.com/post/118966",
+      "source": "少数派",
+      "published": "2026-11-13 00:48:17",
+      "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "url": "https://sspai.com/post/118366",
+      "source": "少数派",
+      "published": "2026-11-12 08:37:25",
+      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文",
+      "author": "Hermanchannn"
+    },
+    {
+      "title": "Mac 选购指南 2026 冬季版",
+      "url": "https://sspai.com/post/85735",
+      "source": "少数派",
+      "published": "2026-11-12 06:42:04",
+      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文",
+      "author": "Kostya"
+    },
+    {
+      "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
+      "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-16 10:28:58",
+      "summary": "点击查看原文>",
+      "author": "陈姚戈"
+    },
+    {
+      "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+      "url": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-16 08:00:00",
+      "summary": "点击查看原文>",
+      "author": "京东零售技术"
+    },
+    {
+      "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+      "url": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-15 15:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Leela Kumili"
+    },
+    {
+      "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-15 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "AICon 全球人工智能开发与应用大会"
+    },
+    {
+      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-15 09:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Craig Risi"
+    },
+    {
+      "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-14 15:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Claudio Masolo"
+    },
+    {
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-14 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Leela Kumili"
+    },
+    {
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-14 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "AICon 全球人工智能开发与应用大会"
+    },
+    {
+      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+      "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-13 20:54:12",
+      "summary": "点击查看原文>",
+      "author": "凌敏"
+    },
+    {
+      "title": "智能互动 Agent 在快手商业场景的落地实践",
+      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-11-13 19:00:00",
+      "summary": "点击查看原文>",
+      "author": "邱慧"
+    }
+  ]
+}
